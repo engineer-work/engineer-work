@@ -3,28 +3,34 @@
 ## 🚀 About Me
 I am a Software Developer with a background in Electronics and Communication Engineering. I have experience building mobile and backend applications using Flutter (Dart), Android (Java), and Python (Django).
 
+I also have experience in graphics programming using OpenGL (C++) and WebGL (JavaScript), with an interest in simulation and system-level problem solving.
+
 I focus on understanding systems deeply, solving problems logically, and applying concepts through real-world projects.
 
-**Software Developer | Backend & Mobile (Django, Spring Boot, Flutter, Android) | React | Systems & Simulation**
+**Software Developer | Backend & Mobile (Django, Spring Boot, Flutter, Android) | Graphics (OpenGL, WebGL) | Systems & Simulation**
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### 💻 Languages
-- Python, Java, Dart, JavaScript
+- Python, Java, Dart, JavaScript, C++
 
 ### 🌐 Backend
 - Django, Spring Boot, REST APIs
 
 ### 🎨 Frontend
-- React (Basics)
+- React (Basics), WebGL
 
 ### 📱 Mobile
 - Flutter, Android (Java)
 
+### 🖥️ Graphics & Simulation
+- OpenGL (C++)
+- WebGL (JavaScript)
+
 ### 🗄️ Database
-- PostgreSQL, SQLite
+- SQLite, MongoDB
 
 ### ⚙️ Tools
 - Git, GitHub
@@ -34,7 +40,7 @@ I focus on understanding systems deeply, solving problems logically, and applyin
 ## 🧠 Interests
 - Backend Development
 - System Design
-- Simulation & Problem Solving
+- Simulation & Graphics Programming
 - Mathematics & Analytical Thinking
 
 ---
@@ -43,6 +49,7 @@ I focus on understanding systems deeply, solving problems logically, and applyin
 - Improving backend development skills
 - Building real-world projects
 - Learning system design and scalable architecture
+- Exploring simulation using graphics (OpenGL/WebGL)
 
 ---
 
