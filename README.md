@@ -7,7 +7,9 @@ I also have experience in graphics programming using OpenGL (C++) and WebGL (Jav
 
 I focus on understanding systems deeply, solving problems logically, and applying concepts through real-world projects.
 
-**Software Developer | Backend & Mobile (Django, Spring Boot, Flutter, Android) | Graphics (OpenGL, WebGL) | Systems & Simulation**
+**Software Developer | Backend & Mobile (Django, Spring Boot, Flutter, Android) | Graphics (OpenGL, WebGL) | Systems & Simulation | Adaptive Learner** 
+👋 not expert level, but based on given task. **All Software Developer know, just learning from given task.**
+
 
 ---
 
