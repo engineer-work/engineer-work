@@ -1,6 +1,6 @@
 # Hi, I'm Gobal Krishnan 👋
 
-## 🚀 About Me [Job Resume](resume/V_GOBAL_KRISHNAN_2026-04-07.pdf)
+## 🚀 About Me [👨‍💼 Job Resume](https://github.com/engineer-work/Join-Company/blob/main/resume/V_GOBAL_KRISHNAN_2026-04-07.pdf) [👨‍👨‍👧‍👦 Personal Life](https://engineer-work.github.io/Join-Company/) [🛰️ My Ambition and Wish](https://engineer-work.github.io/Join-Company/my_wish_and_goal/spaceship/my_wish.html)
 I am a Software Developer with a background in Electronics and Communication Engineering. I have experience building mobile and backend applications using Flutter (Dart), Android (Java), and Python (Django).
 
 I also have experience in graphics programming using OpenGL (C++) and WebGL (JavaScript), with an interest in simulation and system-level problem solving.
