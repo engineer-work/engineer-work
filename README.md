@@ -1,6 +1,6 @@
 # Hi, I'm Gobal Krishnan 👋
 
-## 🚀 About Me
+## 🚀 About Me [Job Resume](resume/V_GOBAL_KRISHNAN_2026-04-07.pdf)
 I am a Software Developer with a background in Electronics and Communication Engineering. I have experience building mobile and backend applications using Flutter (Dart), Android (Java), and Python (Django).
 
 I also have experience in graphics programming using OpenGL (C++) and WebGL (JavaScript), with an interest in simulation and system-level problem solving.
