@@ -1,10 +1,12 @@
-# Hi, I'm Gobal Krishnan 👋  💸🤑💰 
+# Hi, I'm Gobal Krishnan 👋   [💸🤑💰I doing only for my life and Work](https://engineer-e.github.io/Nvidia-Learning/donate/donate.html)
 
-#### I am Money minded and Selfish don't try to talk me, don't act to me as friend for money [💸🤑💰 Donate for my Work](https://engineer-e.github.io/Nvidia-Learning/donate/donate.html)
+#### I am Money minded and Selfish don't try to talk me, don't act to me as friend for money [💸🤑💰for my life and Work](https://engineer-e.github.io/Nvidia-Learning/donate/donate.html)
 
-#### If you try to act to me as friend or love kind of emotions, I ask you Job Role, Salary, properties, movable and immovable assets, net worth of amount in your bank account legal and illegal amount, current status of your family. you all trying to secure you family and you, likewise I do [💸🤑💰 Donate for my Work](https://engineer-e.github.io/Nvidia-Learning/donate/donate.html)
+#### If you try to act to me as friend or love kind of emotions, I ask you Job Role, Salary, properties, movable and immovable assets, net worth of amount in your bank account legal and illegal amount, current status of your family. [💸🤑💰 for my life and Work](https://engineer-e.github.io/Nvidia-Learning/donate/donate.html)
 
-## 🚀 About Me [👨‍💼 Job Resume](https://github.com/engineer-work/Join-Company/blob/main/resume/V_GOBAL_KRISHNAN_2026-04-07.pdf) [👨‍👨‍👧‍👦 Personal Life](https://engineer-work.github.io/Join-Company/) [🛰️ My Ambition and Wish](https://engineer-work.github.io/Join-Company/my_wish_and_goal/spaceship/my_wish.html), [💸🤑💰 Donate for my Work](https://engineer-e.github.io/Nvidia-Learning/donate/donate.html)
+####  you all trying to secure you family and you, likewise I do [💸🤑💰for my life and Work](https://engineer-e.github.io/Nvidia-Learning/donate/donate.html)
+
+## 🚀 About Me [👨‍💼 Job Resume](https://github.com/engineer-work/Join-Company/blob/main/resume/V_GOBAL_KRISHNAN_2026-04-07.pdf) [👨‍👨‍👧‍👦 Personal Life](https://engineer-work.github.io/Join-Company/) [🛰️ My Ambition and Wish](https://engineer-work.github.io/Join-Company/my_wish_and_goal/spaceship/my_wish.html), [💸🤑💰 for my life and Work](https://engineer-e.github.io/Nvidia-Learning/donate/donate.html)
 I am a Software Developer with a background in Electronics and Communication Engineering. I have experience building mobile and backend applications using Flutter (Dart), Android (Java), and Python (Django).
 
 I also have experience in graphics programming using OpenGL (C++) and WebGL (JavaScript), with an interest in simulation and system-level problem solving.
