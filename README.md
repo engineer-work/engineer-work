@@ -1,4 +1,4 @@
-# Hi, I'm Gobal Krishnan 👋   [💸🤑💰Doing only for my life and Work](https://engineer-e.github.io/Nvidia-Learning/donate/donate.html)
+# Hi, I'm Gobal Krishnan 👋   [💸🤑💰For my life and Work](https://engineer-e.github.io/Nvidia-Learning/donate/donate.html)
 
 #### I am Money minded and Selfish don't try to talk me, don't act to me as friend for money [💸🤑💰for my life and Work](https://engineer-e.github.io/Nvidia-Learning/donate/donate.html)
 
