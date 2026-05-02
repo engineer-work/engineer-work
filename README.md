@@ -12,6 +12,8 @@ I focus on understanding systems deeply, solving problems logically, and applyin
 
 #### Ethics and To Find the Toxic Culture and Escape.
 
+[Click this link to see the chat for the below video](https://chatgpt.com/share/69f60293-5a1c-8323-8d57-53f5fc613598) - What I Chat with Chatgpt to find the truth of ethics and toxic culture in work places. 
+
 [![Watch the video](https://img.youtube.com/vi/ZsVLuU4kMZM/default.jpg)](https://youtu.be/ZsVLuU4kMZM?si=-mgW0jpdzM-8oipY)
 [![Watch the video](https://img.youtube.com/vi/4R07SHqCDBg/default.jpg)](https://youtu.be/4R07SHqCDBg?si=rA-tX_fCv8zuhEos)
 [![Watch the video](https://img.youtube.com/vi/ujkAp9DnQjI/default.jpg)](https://youtu.be/ujkAp9DnQjI?si=uTY4LMdL3WW9Aiv_)
