@@ -10,6 +10,8 @@ I focus on understanding systems deeply, solving problems logically, and applyin
 
 ### Job Offical Rule
 
+#### Ethics and To Find the Toxic Culture and Escape.
+
 [![Watch the video](https://img.youtube.com/vi/ZsVLuU4kMZM/default.jpg)](https://youtu.be/ZsVLuU4kMZM?si=-mgW0jpdzM-8oipY)
 [![Watch the video](https://img.youtube.com/vi/4R07SHqCDBg/default.jpg)](https://youtu.be/4R07SHqCDBg?si=rA-tX_fCv8zuhEos)
 [![Watch the video](https://img.youtube.com/vi/ujkAp9DnQjI/default.jpg)](https://youtu.be/ujkAp9DnQjI?si=uTY4LMdL3WW9Aiv_)
