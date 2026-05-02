@@ -8,12 +8,12 @@ I focus on understanding systems deeply, solving problems logically, and applyin
 **Software Developer | Backend & Mobile (Django, Spring Boot, Flutter, Android) | Graphics (OpenGL, WebGL) | Systems & Simulation | Adaptive Learner** 
 👋 not expert level, but based on given task. **All Software Developer know, just learning from given task.**
 
-[![Watch the video](https://img.youtube.com/vi/p1XNOpVzCLM/mqdefault.jpg)](https://youtu.be/p1XNOpVzCLM?si=DMHghP16FTV46Kjb)
-[![Watch the video](https://img.youtube.com/vi/QO2cIFuTydg/mqdefault.jpg)](https://youtu.be/QO2cIFuTydg?si=RHEExm_YSXi0boO0)
-[![Watch the video](https://img.youtube.com/vi/vuCxa5xWhgs/mqdefault.jpg)](https://youtu.be/vuCxa5xWhgs?si=be7FrhaYwFDU015L)
-[![Watch the video](https://img.youtube.com/vi/EefDoCweGcM/mqdefault.jpg)](https://youtu.be/EefDoCweGcM?si=RVA14KeZW-E8B1OU)
-[![Watch the video](https://img.youtube.com/vi/I4KWXJ-lJFg/mqdefault.jpg)](https://youtu.be/I4KWXJ-lJFg?si=XzdTiz6XKC_-uhiz)
-[![Watch the video](https://img.youtube.com/vi/cH-HT9WCtiQ/mqdefault.jpg)](https://youtu.be/cH-HT9WCtiQ?si=6xbnPw_CIgJNYPrs)
+[![Watch the video](https://img.youtube.com/vi/p1XNOpVzCLM/default.jpg)](https://youtu.be/p1XNOpVzCLM?si=DMHghP16FTV46Kjb)
+[![Watch the video](https://img.youtube.com/vi/QO2cIFuTydg/default.jpg)](https://youtu.be/QO2cIFuTydg?si=RHEExm_YSXi0boO0)
+[![Watch the video](https://img.youtube.com/vi/vuCxa5xWhgs/default.jpg)](https://youtu.be/vuCxa5xWhgs?si=be7FrhaYwFDU015L)
+[![Watch the video](https://img.youtube.com/vi/EefDoCweGcM/default.jpg)](https://youtu.be/EefDoCweGcM?si=RVA14KeZW-E8B1OU)
+[![Watch the video](https://img.youtube.com/vi/I4KWXJ-lJFg/default.jpg)](https://youtu.be/I4KWXJ-lJFg?si=XzdTiz6XKC_-uhiz)
+[![Watch the video](https://img.youtube.com/vi/cH-HT9WCtiQ/default.jpg)](https://youtu.be/cH-HT9WCtiQ?si=6xbnPw_CIgJNYPrs)
 ---
 
 ## 🛠️ Tech Stack
