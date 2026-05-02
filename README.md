@@ -14,6 +14,12 @@ I focus on understanding systems deeply, solving problems logically, and applyin
 [![Watch the video](https://img.youtube.com/vi/EefDoCweGcM/default.jpg)](https://youtu.be/EefDoCweGcM?si=RVA14KeZW-E8B1OU)
 [![Watch the video](https://img.youtube.com/vi/I4KWXJ-lJFg/default.jpg)](https://youtu.be/I4KWXJ-lJFg?si=XzdTiz6XKC_-uhiz)
 [![Watch the video](https://img.youtube.com/vi/cH-HT9WCtiQ/default.jpg)](https://youtu.be/cH-HT9WCtiQ?si=6xbnPw_CIgJNYPrs)
+[![Watch the video](https://img.youtube.com/vi/4BKBjarGMN8/default.jpg)](https://youtu.be/4BKBjarGMN8?si=Ii12EHKyWnbUVerU)
+[![Watch the video](https://img.youtube.com/vi/cs95gaAK7io/default.jpg)](https://youtu.be/cs95gaAK7io?si=395bEb2CcWAf_mve)
+[![Watch the video](https://img.youtube.com/vi/i_2OhkEUDBk/default.jpg)](https://youtu.be/i_2OhkEUDBk?si=GQeleP3ndF3GoCMc)
+[![Watch the video](https://img.youtube.com/vi/A8I52ohvR84/default.jpg)](https://youtu.be/A8I52ohvR84?si=_i6QoVNroC6AFPzg)
+[![Watch the video](https://img.youtube.com/vi/u6zHXs3m4TU/default.jpg)](https://youtu.be/u6zHXs3m4TU?si=GzE8QE79fCTT2cnw)
+[![Watch the video](https://img.youtube.com/vi/usoaIVEW5bE/default.jpg)](https://youtu.be/usoaIVEW5bE?si=07fnpMA2_VN2zLH6)
 ---
 
 ## 🛠️ Tech Stack
