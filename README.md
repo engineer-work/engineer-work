@@ -8,6 +8,10 @@ I focus on understanding systems deeply, solving problems logically, and applyin
 **Software Developer | Backend & Mobile (Django, Spring Boot, Flutter, Android) | Graphics (OpenGL, WebGL) | Systems & Simulation | Adaptive Learner** 
 👋 not expert level, but based on given task. **All Software Developer know, just learning from given task.**
 
+### Job Offical Rule
+
+### Peace In Mind
+
 [![Watch the video](https://img.youtube.com/vi/p1XNOpVzCLM/default.jpg)](https://youtu.be/p1XNOpVzCLM?si=DMHghP16FTV46Kjb)
 [![Watch the video](https://img.youtube.com/vi/QO2cIFuTydg/default.jpg)](https://youtu.be/QO2cIFuTydg?si=RHEExm_YSXi0boO0)
 [![Watch the video](https://img.youtube.com/vi/vuCxa5xWhgs/default.jpg)](https://youtu.be/vuCxa5xWhgs?si=be7FrhaYwFDU015L)
