@@ -26,6 +26,7 @@ I focus on understanding systems deeply, solving problems logically, and applyin
 | [![Watch the video](https://img.youtube.com/vi/HhBAIDHvRTc/default.jpg)](https://youtu.be/HhBAIDHvRTc?si=7dPSXAkVSFsJYRCv) [![Watch the video](https://img.youtube.com/vi/nzF3yoF7N_E/default.jpg)](https://youtu.be/nzF3yoF7N_E?si=bwR410QvnqkSjuRB) [![Watch the video](https://img.youtube.com/vi/eDMjVARsCOk/default.jpg)](https://youtu.be/eDMjVARsCOk?si=aDZzcVcpGYdcCf5G) | [![Watch the video](https://img.youtube.com/vi/SRRN6MvCdeg/default.jpg)](https://youtu.be/SRRN6MvCdeg?si=KLcyo310kyF262dd) [![Watch the video](https://img.youtube.com/vi/hoyMT-7wEqs/default.jpg)](https://youtu.be/hoyMT-7wEqs?si=wkUdQ4eiA1chilF0) [![Watch the video](https://img.youtube.com/vi/79Sd4GtOXuI/default.jpg)](https://youtu.be/79Sd4GtOXuI?si=-4fpFWlPD_z5LiX1) |
 |---|---|
 | [![Watch the video](https://img.youtube.com/vi/j8KP11VgnDY/maxresdefault.jpg)](https://youtu.be/j8KP11VgnDY?si=2XLBexVr5sbypFmV) | [![Watch the video](https://img.youtube.com/vi/xsN-j_s31Ug/maxresdefault.jpg)](https://youtu.be/xsN-j_s31Ug?si=y6OWxLbOpdm0viL_) |
+| [![Watch the video](https://img.youtube.com/vi/4vDOWKMJpL4/default.jpg)](https://youtu.be/4vDOWKMJpL4?si=IxbQVDFMcmU8TKji) [![Watch the video](https://img.youtube.com/vi/xNI4rx4Yk1c/default.jpg)](https://youtu.be/xNI4rx4Yk1c?si=dBdJY51IjYOUOOLU) [![Watch the video](https://img.youtube.com/vi/TN6-ilfdmXI/default.jpg)](https://youtu.be/TN6-ilfdmXI?si=hf_56LJmzcRCWQ_w)| |
 
 ### Job Offical Rule
 
