@@ -22,7 +22,9 @@ I focus on understanding systems deeply, solving problems logically, and applyin
 👋 not expert level, but based on given task. **All Software Developer know, just learning from given task.**
 ### My Biggest Afraid Thought.
 
-[![Watch the video](https://img.youtube.com/vi/j8KP11VgnDY/mqdefault.jpg)](https://youtu.be/j8KP11VgnDY?si=2XLBexVr5sbypFmV) [![Watch the video](https://img.youtube.com/vi/xsN-j_s31Ug/mqdefault.jpg)](https://youtu.be/xsN-j_s31Ug?si=y6OWxLbOpdm0viL_)
+| | |
+|---|---|
+| [![Watch the video](https://img.youtube.com/vi/j8KP11VgnDY/maxresdefault.jpg)](https://youtu.be/j8KP11VgnDY?si=2XLBexVr5sbypFmV) | [![Watch the video](https://img.youtube.com/vi/xsN-j_s31Ug/maxresdefault.jpg)](https://youtu.be/xsN-j_s31Ug?si=y6OWxLbOpdm0viL_) |
 
 ### Job Offical Rule
 
