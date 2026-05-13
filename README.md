@@ -1,4 +1,4 @@
-###### 📌 My Profile Pic and some images are generate by AI, is not true. I done this to show my ambition. My true pic are instagram only. [Instagram](https://www.instagram.com/gobalkrishnan.engineer/)
+###### 📌 My Profile Pic and some images,video are generate by AI, is not true. I done this to show my ambition. My true pic in [Instagram](https://www.instagram.com/gobalkrishnan.engineer/) only.
 
 🎯 [Childhood Memory](https://engineer-e.github.io/Childhood-Memory/), [💸🤑💰 **Donate**](https://engineer-e.github.io/Nvidia-Learning/donate/donate.html)
 ✨ *Profile* –
