@@ -123,7 +123,11 @@ I focus on understanding systems deeply, solving problems logically, and applyin
 ---
 
 ## 📫 Contact
-- Email: gobalkrishnan.work@gmail.com
+- Email: gobalkrishnan.work@gmail.com, dr.bot.engineer@gmail.com
+     
+### AI Roadmap
+
+![Watch the video](image/ai_roadmap.png)
 
 ---
 
