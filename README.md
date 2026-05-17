@@ -60,6 +60,15 @@ I focus on understanding systems deeply, solving problems logically, and applyin
 [![Watch the video](https://img.youtube.com/vi/usoaIVEW5bE/default.jpg)](https://youtu.be/usoaIVEW5bE?si=07fnpMA2_VN2zLH6)
 ---
 
+# Intitution
+
+| English | Malayalam | Tamil |
+|---|---|---|
+| [![Watch the video](https://img.youtube.com/vi/Iz2IWxTklxI/maxresdefault.jpg)](https://youtu.be/Iz2IWxTklxI?si=HGCEPbnjPNNxbIRX) | [![Watch the video](https://img.youtube.com/vi/BE9xyLz4iko/maxresdefault.jpg)](https://youtu.be/BE9xyLz4iko?si=fB1ltGTKeixyVAbO) | [![Watch the video](https://img.youtube.com/vi/9zTJ3rU732c/maxresdefault.jpg)](https://youtu.be/9zTJ3rU732c?si=qHefxlsGdJ_d95sK) |
+
+
+
+
 ## 🛠️ Tech Stack
 
 ### 💻 Languages
