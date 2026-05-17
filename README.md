@@ -125,10 +125,6 @@ I focus on understanding systems deeply, solving problems logically, and applyin
 ## 📫 Contact
 - Email: gobalkrishnan.work@gmail.com, dr.bot.engineer@gmail.com
      
-### AI Roadmap
-
-![Watch the video](image/ai_roadmap.png)
-
 ---
 
 ## 📊 Learning Philosophy
@@ -136,3 +132,9 @@ I focus on understanding systems deeply, solving problems logically, and applyin
 
 📌 My Learning Habit:  
 https://docs.google.com/spreadsheets/d/e/2PACX-1vTNRg4Puo7QCFcm4ZXVF1dnX4qL6ofzOsO__GwuHJr-yke0QUXZtI51cr9Mt8Ui7QSoKTzOlr_SuB-G/pubhtml?gid=1898283119&single=true
+
+---
+
+### AI Roadmap
+
+![Watch the video](image/ai_roadmap.png)
