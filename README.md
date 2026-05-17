@@ -11,6 +11,9 @@
 💼📈 [My Job Life](https://engineer-work.github.io/Join-Company/startup/my_career_path.html)
 🎒🏫 [My College Life](https://engineer-work.github.io/Join-Company/college/pain-during-college.html)
 
+#### Cognitive decision-making process flowchart
+
+![Watch the video](image/cdmpf.png)
 
 # 🚀 About Me [👨‍💼 Job Resume](https://github.com/engineer-work/Join-Company/blob/main/resume/V_GOBAL_KRISHNAN_2026-04-07.pdf) [👨‍👨‍👧‍👦 Personal Life](https://engineer-work.github.io/Join-Company/) [🛰️ My Ambition and Wish](https://engineer-work.github.io/Join-Company/my_wish_and_goal/spaceship/my_wish.html), [💸🤑💰 for my life and Work](https://engineer-e.github.io/Nvidia-Learning/donate/donate.html)
 I am a Software Developer with a background in Electronics and Communication Engineering. I have experience building mobile and backend applications using Flutter (Dart), Android (Java), and Python (Django).
