@@ -60,7 +60,7 @@ I focus on understanding systems deeply, solving problems logically, and applyin
 [![Watch the video](https://img.youtube.com/vi/usoaIVEW5bE/default.jpg)](https://youtu.be/usoaIVEW5bE?si=07fnpMA2_VN2zLH6)
 ---
 
-# Intitution
+# Intuition
 
 | English | Malayalam | Tamil |
 |---|---|---|
