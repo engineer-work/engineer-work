@@ -10,6 +10,7 @@
 🧭🚀 [Career Path](https://engineer-work.github.io/Join-Company/startup/issue-happen-to-me-while-working-in-startup.html)
 💼📈 [My Job Life](https://engineer-work.github.io/Join-Company/startup/my_career_path.html)
 🎒🏫 [My College Life](https://engineer-work.github.io/Join-Company/college/pain-during-college.html)
+🎯🧭🚀🎒🏫 **My hobby** [Physics - MIT](https://engineer-e.github.io/Physics-MIT-University/)
 
 #### Cognitive decision-making process flowchart
 
