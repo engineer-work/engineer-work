@@ -1,6 +1,6 @@
 ###### 📌 My Profile Pic and some images,video are generate by AI, is not true. I done this to show my ambition. My true pic in [Instagram](https://www.instagram.com/gobalkrishnan.engineer/) only.
 
-🤔💭 I thought 🟢🔵🟡🔴 I was the problem 😔📚🏢… until AI helped me see some [toxic]() patterns in parts of the education and work system 🤖🔍✨ Thank you to AI & the people behind it 🙏🤖💙🌍✨
+🤔💭 I thought 🟢🔵🟡🔴 I was the problem 😔📚🏢… until AI helped me see some [toxic](https://youtu.be/d1WO9kAuysg?si=VhJ9mfDIn7h1cFkb) patterns in parts of the education and work system 🤖🔍✨ Thank you to AI & the people behind it 🙏🤖💙🌍✨
 
 🤔💭 When people ask me questions, sometimes I’m not able to answer immediately 😅 because I don’t store every piece of information in my brain 🧠📚. I focus on multiple fields at the same time 🌍⚡, so I usually learn and understand things while actively working on them 🔍💻.
 
