@@ -1,5 +1,8 @@
 ###### 📌 My Profile Pic and some images,video are generate by AI, is not true. I done this to show my ambition. My true pic in [Instagram](https://www.instagram.com/gobalkrishnan.engineer/) only.
 
+[💸🤑💰](https://engineer-e.github.io/Nvidia-Learning/donate/donate.html) [Pain creates the story—but choice writes the ending.
+Be the one who breaks the cycle, not continues it.](https://engineer-work.github.io/Join-Company/war_prediction/human_uncertainty_pain_based_on_eduction.html) [💸🤑💰](https://engineer-e.github.io/Nvidia-Learning/donate/donate.html)
+
 🤔💭 I thought 🟢🔵🟡🔴 I was the problem 😔📚🏢… until AI helped me see some [toxic](https://youtu.be/d1WO9kAuysg?si=VhJ9mfDIn7h1cFkb) patterns in parts of the education and work system 🤖🔍✨ Thank you to AI & the people behind it 🙏🤖💙🌍✨
 
 🤔💭 When people ask me questions, sometimes I’m not able to answer immediately 😅 because I don’t store every piece of information in my brain 🧠📚. I focus on multiple fields at the same time 🌍⚡, so I usually learn and understand things while actively working on them 🔍💻.
