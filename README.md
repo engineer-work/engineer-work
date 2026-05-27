@@ -1,5 +1,3 @@
-![](https://raw.githubusercontent.com/engineer-e/engineer-e/refs/heads/main/images/learn_university.png)
-
 ###### 📌 My Profile Pic and some images,video are generate by AI, is not true. I done this to show my ambition. My true pic in [Instagram](https://www.instagram.com/gobalkrishnan.engineer/) only.
 
 [💸🤑💰](https://engineer-e.github.io/Nvidia-Learning/donate/donate.html) [Pain creates the story—but choice writes the ending.
@@ -10,6 +8,10 @@ Be the one who breaks the cycle, not continues it.](https://engineer-work.github
 🤔💭 When people ask me questions, sometimes I’m not able to answer immediately 😅 because I don’t store every piece of information in my brain 🧠📚. I focus on multiple fields at the same time 🌍⚡, so I usually learn and understand things while actively working on them 🔍💻.
 
 That’s why I use platforms like [GitHub](https://github.com?utm_source=chatgpt.com) and other storage tools ☁️📂 to collect, organize, and manage my work efficiently 🚀✨. Before, I mostly searched through books 📖, articles 📰, and search engines 🌐🔎 like Google 🟢🔵🟡🔴 for information. Now, I also use AI tools 🤖✨ like [ChatGPT](https://chatgpt.com?utm_source=chatgpt.com), [DeepSeek](https://www.deepseek.com?utm_source=chatgpt.com), and [Gemini](https://gemini.google.com?utm_source=chatgpt.com) to research, learn, and complete tasks faster ⚡🔥.
+
+
+![](https://raw.githubusercontent.com/engineer-e/engineer-e/refs/heads/main/images/learn_university.png)
+
 
 
 🎯 [Childhood Memory](https://engineer-e.github.io/Childhood-Memory/), [💸🤑💰 **Donate**](https://engineer-e.github.io/Nvidia-Learning/donate/donate.html)
