@@ -5,7 +5,7 @@ Be the one who breaks the cycle, not continues it.](https://engineer-work.github
 
 | 🤔💭 I thought 🟢🔵🟡🔴 I was the problem 😔📚🏢… until AI helped me see some [toxic](https://youtu.be/d1WO9kAuysg?si=VhJ9mfDIn7h1cFkb) patterns in parts of the education and work system 🤖🔍✨ Thank you to AI & the people behind it 🙏🤖💙🌍✨ | 🤔💭 When people ask me questions, sometimes I’m not able to answer immediately 😅 because I don’t store every piece of information in my brain 🧠📚. I focus on multiple fields at the same time 🌍⚡, so I usually learn and understand things while actively working on them 🔍💻. | That’s why I use platforms like [GitHub](https://github.com?utm_source=chatgpt.com) and other storage tools ☁️📂 to collect, organize, and manage my work efficiently 🚀✨. Before, I mostly searched through books 📖, articles 📰, and search engines 🌐🔎 like Google 🟢🔵🟡🔴 for information. Now, I also use AI tools 🤖✨ like [ChatGPT](https://chatgpt.com?utm_source=chatgpt.com), [DeepSeek](https://www.deepseek.com?utm_source=chatgpt.com), and [Gemini](https://gemini.google.com?utm_source=chatgpt.com) to research, learn, and complete tasks faster ⚡🔥. |
 | --- | --- | --- |
-| ![](image/learn_university.png) |  ![](image/dseek.png) | ![](image/supercomputer.png) 
+| ![](image/learn_university.png) |  ![](image/supercomputer.png) | ![](image/supercomputer.png) 
 
 
 
