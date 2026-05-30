@@ -8,10 +8,7 @@ Be the one who breaks the cycle, not continues it.](https://engineer-work.github
 | [![Watch the video](https://img.youtube.com/vi/4QY_JvfATTU/default.jpg)](https://youtu.be/4QY_JvfATTU?si=U-avJHJcIYm515Ha)  | [![Watch the video](https://img.youtube.com/vi/A67aL6BfJBI/default.jpg)](https://youtu.be/A67aL6BfJBI?si=ROkzFHV9stEJTNwq) [![Watch the video](https://img.youtube.com/vi/sO_371leHlo/default.jpg)](https://youtu.be/sO_371leHlo?si=oVUqoGV152Gu504K) | [![Watch the video](https://img.youtube.com/vi/jr29AOoTCbA/default.jpg)](https://youtu.be/jr29AOoTCbA?si=b1SctFdmqAscJUh3)  [![Watch the video](https://img.youtube.com/vi/mFSDE7WBMM0/default.jpg)](https://youtu.be/mFSDE7WBMM0?si=4j7-W9GERg1YAjmS) |
 
 
-
-
-![](image/supercomputer.png)
-
+[![](image/supercomputer.png))](https://youtu.be/JNyz9CV9FUA?si=Fwhw2QwiHN4Twm2h)
 
 🎯 [Childhood Memory](https://engineer-e.github.io/Childhood-Memory/), [💸🤑💰 **Donate**](https://engineer-e.github.io/Nvidia-Learning/donate/donate.html)
 ✨ *Profile* –
