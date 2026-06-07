@@ -4,7 +4,7 @@
 
 **2️⃣** 👶➡️🧒➡️🧑➡️👨‍🦳 All human beings begin life as children 👶. As they grow into adults 🧑, many forget the lessons, feelings, and innocence of childhood 🌱💭. This forgetting can contribute to conflicts ⚔️, wars 💣, and many problems 🌍😞.
 
-[![](https://img.youtube.com/vi/izOa3-AX8zQ/default.jpg)](https://youtu.be/izOa3-AX8zQ?si=Ps1YkArTccYda14E) [![](https://img.youtube.com/vi/O2RIvJ1U7RE/default.jpg)](https://youtu.be/O2RIvJ1U7RE?si=cWLZO6nq8aJjTUUQ) [![](https://img.youtube.com/vi/mLYMAkgvZsI/default.jpg)](https://youtu.be/mLYMAkgvZsI?si=lDNwUJL9MxQKpJr3)
+[![](https://img.youtube.com/vi/izOa3-AX8zQ/default.jpg)](https://youtu.be/izOa3-AX8zQ?si=Ps1YkArTccYda14E) [![](https://img.youtube.com/vi/O2RIvJ1U7RE/default.jpg)](https://youtu.be/O2RIvJ1U7RE?si=cWLZO6nq8aJjTUUQ) [![](https://img.youtube.com/vi/mLYMAkgvZsI/default.jpg)](https://youtu.be/mLYMAkgvZsI?si=lDNwUJL9MxQKpJr3) [![](https://img.youtube.com/vi/PQRHZmgmKuA/default.jpg)](https://youtu.be/PQRHZmgmKuA?si=wvt-sKGU_cIqICuB)
 
 
 [💸🤑💰](https://engineer-e.github.io/Nvidia-Learning/donate/donate.html) [Pain creates the story—but choice writes the ending.
