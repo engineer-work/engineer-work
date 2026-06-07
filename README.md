@@ -149,3 +149,8 @@ https://docs.google.com/spreadsheets/d/e/2PACX-1vTNRg4Puo7QCFcm4ZXVF1dnX4qL6ofzO
 ### [AI Roadmap](https://chatgpt.com/share/6a098955-d190-8323-ac58-8d3dbc25dca5)
 
 ![Watch the video](image/ai_roadmap.png)
+
+### Statments
+
+1. People control other using money. they saying it to maintain orders and peace, but it killing lot of people unknowingly .  Any tool or material in wrong hand people is so danger. Don't know who help?
+2. All human species born from kid to adults. But they forgot when they become adults which lead's to many war and problem. 
