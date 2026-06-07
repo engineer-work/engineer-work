@@ -4,6 +4,7 @@
 
 **2️⃣** 👶➡️🧒➡️🧑➡️👨‍🦳 All human beings begin life as children 👶. As they grow into adults 🧑, many forget the lessons, feelings, and innocence of childhood 🌱💭. This forgetting can contribute to conflicts ⚔️, wars 💣, and many problems 🌍😞.
 
+[![](https://img.youtube.com/vi/izOa3-AX8zQ/default.jpg)](https://youtu.be/izOa3-AX8zQ?si=Ps1YkArTccYda14E)
 
 [💸🤑💰](https://engineer-e.github.io/Nvidia-Learning/donate/donate.html) [Pain creates the story—but choice writes the ending.
 Be the one who breaks the cycle, not continues it.](https://engineer-work.github.io/Join-Company/war_prediction/human_uncertainty_pain_based_on_eduction.html) [💸🤑💰](https://engineer-e.github.io/Nvidia-Learning/donate/donate.html)
