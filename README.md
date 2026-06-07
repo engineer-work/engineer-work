@@ -1,5 +1,8 @@
 ###### 📌 My Profile Pic and some images,video are generate by AI, is not true. I done this to show my ambition. My true pic in [Instagram](https://www.instagram.com/gobalkrishnan.engineer/) only.
 
+1. People control other using money. they saying it to maintain orders and peace, but it killing lot of people unknowingly .  Any tool or material in wrong hand people is so danger. Don't know who help?
+2. All human species born from kid to adults. But they forgot when they become adults which lead's to many war and problem. 
+
 [💸🤑💰](https://engineer-e.github.io/Nvidia-Learning/donate/donate.html) [Pain creates the story—but choice writes the ending.
 Be the one who breaks the cycle, not continues it.](https://engineer-work.github.io/Join-Company/war_prediction/human_uncertainty_pain_based_on_eduction.html) [💸🤑💰](https://engineer-e.github.io/Nvidia-Learning/donate/donate.html)
 
@@ -150,7 +153,4 @@ https://docs.google.com/spreadsheets/d/e/2PACX-1vTNRg4Puo7QCFcm4ZXVF1dnX4qL6ofzO
 
 ![Watch the video](image/ai_roadmap.png)
 
-### Statments
 
-1. People control other using money. they saying it to maintain orders and peace, but it killing lot of people unknowingly .  Any tool or material in wrong hand people is so danger. Don't know who help?
-2. All human species born from kid to adults. But they forgot when they become adults which lead's to many war and problem. 
