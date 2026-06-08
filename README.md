@@ -145,7 +145,7 @@ I focus on understanding systems deeply, solving problems logically, and applyin
 ---
 
 ## 📊 Learning Philosophy
-> Learn → Apply → Test → Improve → Repeat
+> Learn → Apply → Test → Improve → Repeat  if 🧠 [ADHD Mode](https://github.com/Eye-Read/EyeRead)
 
 📌 My Learning Habit:  
 https://docs.google.com/spreadsheets/d/e/2PACX-1vTNRg4Puo7QCFcm4ZXVF1dnX4qL6ofzOsO__GwuHJr-yke0QUXZtI51cr9Mt8Ui7QSoKTzOlr_SuB-G/pubhtml?gid=1898283119&single=true
