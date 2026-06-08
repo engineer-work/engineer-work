@@ -159,7 +159,7 @@ https://docs.google.com/spreadsheets/d/e/2PACX-1vTNRg4Puo7QCFcm4ZXVF1dnX4qL6ofzO
 
 # 🏛️ History Studies – YouTube Courses & Documentaries.
 
-📚🏛️📜 Thanks to the wonderful work ✨ of historians 👨‍🏫👩‍🏫, archaeologists 🏺, researchers 🔍, educators 🎓, authors 📖, and content creators 🎥, **I study history topics** to **learn** about ancient civilizations 🏛️, great empires 👑, cultures 🌍, important events ⚔️, scientific discoveries 🔬, and the remarkable people 👥 who shaped our world 🌎 from the past ⏳ to the present 🚀. 📚✨🙏
+📚🏛️📜 Thanks to the wonderful work ✨ of historians 👨‍🏫👩‍🏫, archaeologists 🏺, researchers 🔍, educators 🎓, authors 📖, and content creators 🎥, **I study history topics** to **learn** about ancient civilizations 🏛️, great empires 👑, cultures 🌍, important events ⚔️, scientific discoveries 🔬, and the remarkable people 👥 who shaped our world 🌎 from the past ⏳ to the present 🚀. 📚✨🙏  [Vedic](https://vedicheritage.gov.in/)
 
 ## Climate Changes - Super El Niño Destroy Economy
 
