@@ -159,6 +159,9 @@ https://docs.google.com/spreadsheets/d/e/2PACX-1vTNRg4Puo7QCFcm4ZXVF1dnX4qL6ofzO
 
 # 🏛️ History Studies – YouTube Courses & Documentaries.
 
+📚🏛️📜 Thanks to the wonderful work ✨ of historians 👨‍🏫👩‍🏫, archaeologists 🏺, researchers 🔍, educators 🎓, authors 📖, and content creators 🎥, **I study history topics** to **learn** about ancient civilizations 🏛️, great empires 👑, cultures 🌍, important events ⚔️, scientific discoveries 🔬, and the remarkable people 👥 who shaped our world 🌎 from the past ⏳ to the present 🚀. 📚✨🙏
+
 ## Super El Niño Destroy Economy
+
 [![Watch the video](https://img.youtube.com/vi/FK4yXkEdWsI/default.jpg)](https://youtu.be/FK4yXkEdWsI?si=lQ17os6CrkERTptm) [![Watch the video](https://img.youtube.com/vi/0TtMVg7N2Zc/default.jpg)](https://youtu.be/0TtMVg7N2Zc?si=6uVzdPeFg9MpazDc)
 [![Watch the video](https://img.youtube.com/vi/Umk_BSp9eM0/default.jpg)](https://youtu.be/Umk_BSp9eM0?si=j3YPZz1ZNECbZfsm)
