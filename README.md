@@ -188,7 +188,7 @@ Be the one who breaks the cycle, not continues it.](https://engineer-work.github
 
 > What you like in this below clip , Your are that character.
 
-|  I Think, I am Dr. DOOM | What you think about my profile for Human Species or Humaniod Robot or Cyborg or Any Species ? |
+|  I Think, I am Dr. DOOM | What you think about yourself ? |
 | --- | --- |
 | [![Watch the video](https://img.youtube.com/vi/Y1mP5ZNRXQI/default.jpg)](https://youtu.be/Y1mP5ZNRXQI?si=LYJSRkkxo8Z8O3B1) [![Watch the video](https://img.youtube.com/vi/Yqvt8BwCYNk/default.jpg)](https://youtu.be/Yqvt8BwCYNk?si=PGz4uRNhOVNNin_0) [![Watch the video](https://img.youtube.com/vi/56kxFmRsVEY/default.jpg)](https://youtu.be/56kxFmRsVEY?si=Bs8Pd3mDXiVu97QE)  [![Watch the video](https://img.youtube.com/vi/5WfTEZJnv_8/default.jpg)](https://youtu.be/5WfTEZJnv_8?si=w5UooaqvHalTfJSY) [![Watch the video](https://img.youtube.com/vi/2w2D-a1JARw/default.jpg)](https://youtu.be/2w2D-a1JARw?si=67jhiG9hba3NvLab)  [![Watch the video](https://img.youtube.com/vi/PZrqoxRPzvE/default.jpg)](https://youtu.be/PZrqoxRPzvE?si=K9e1KX4w957lh1u3) | |
 
