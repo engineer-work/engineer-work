@@ -161,6 +161,10 @@ https://docs.google.com/spreadsheets/d/e/2PACX-1vTNRg4Puo7QCFcm4ZXVF1dnX4qL6ofzO
 
 📚🏛️📜 Thanks to the wonderful work ✨ of historians 👨‍🏫👩‍🏫, archaeologists 🏺, researchers 🔍, educators 🎓, authors 📖, and content creators 🎥, **I study history topics** to **learn** about ancient civilizations 🏛️, great empires 👑, cultures 🌍, important events ⚔️, scientific discoveries 🔬, and the remarkable people 👥 who shaped our world 🌎 from the past ⏳ to the present 🚀. 📚✨🙏  [Vedic](https://vedicheritage.gov.in/)
 
+## Trends 
+
+[![Watch the video](https://img.youtube.com/vi/qvTNB0lr2So/default.jpg)](https://youtu.be/qvTNB0lr2So?si=2OIXULaSgP2w1vJl)
+
 ## Climate Changes - Super El Niño Destroy Economy
 
 [![Watch the video](https://img.youtube.com/vi/eNrPD6jHtIo/default.jpg)](https://youtu.be/eNrPD6jHtIo?si=NLlTMRd0fw7risal) [![Watch the video](https://img.youtube.com/vi/FK4yXkEdWsI/default.jpg)](https://youtu.be/FK4yXkEdWsI?si=lQ17os6CrkERTptm) [![Watch the video](https://img.youtube.com/vi/wg0d3z9dg84/default.jpg)](https://youtu.be/wg0d3z9dg84?si=Di483F8HILI9iJrI) [![Watch the video](https://img.youtube.com/vi/0TtMVg7N2Zc/default.jpg)](https://youtu.be/0TtMVg7N2Zc?si=6uVzdPeFg9MpazDc)
