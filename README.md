@@ -163,7 +163,7 @@ https://docs.google.com/spreadsheets/d/e/2PACX-1vTNRg4Puo7QCFcm4ZXVF1dnX4qL6ofzO
 
 ## Trends 
 
-[![Watch the video](https://img.youtube.com/vi/qvTNB0lr2So/default.jpg)](https://youtu.be/qvTNB0lr2So?si=2OIXULaSgP2w1vJl) [![Jenna Ortega Wears NOTHING But Jewels & a Skirt at Emmys 2025](https://img.youtube.com/vi/xnB79b1yu5g/default.jpg)](http://www.youtube.com/watch?v=xnB79b1yu5g "Jenna Ortega Wears NOTHING But Jewels & a Skirt at Emmys 2025") [![Watch the video](https://img.youtube.com/vi/Gs1jzzfCyKg/default.jpg)](https://youtu.be/Gs1jzzfCyKg?si=iC1AcuNk812ous5_)
+[![Watch the video](https://img.youtube.com/vi/qvTNB0lr2So/default.jpg)](https://youtu.be/qvTNB0lr2So?si=2OIXULaSgP2w1vJl) [![Jenna Ortega Wears NOTHING But Jewels & a Skirt at Emmys 2025](https://img.youtube.com/vi/xnB79b1yu5g/default.jpg)](http://www.youtube.com/watch?v=xnB79b1yu5g "Jenna Ortega Wears NOTHING But Jewels & a Skirt at Emmys 2025") [![Watch the video](https://img.youtube.com/vi/Gs1jzzfCyKg/default.jpg)](https://youtu.be/Gs1jzzfCyKg?si=iC1AcuNk812ous5_) [![Watch the video](https://img.youtube.com/vi/Js0qtQUdCw8/default.jpg)](https://youtu.be/Js0qtQUdCw8?si=C38ZO9vSJa4oH97t)
 
 
 ## Climate Changes - Super El Niño Destroy Economy
