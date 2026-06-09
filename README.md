@@ -184,4 +184,7 @@ Be the one who breaks the cycle, not continues it.](https://engineer-work.github
 |---|---|
 | [![Watch the video](https://img.youtube.com/vi/eNrPD6jHtIo/default.jpg)](https://youtu.be/eNrPD6jHtIo?si=NLlTMRd0fw7risal) [![Watch the video](https://img.youtube.com/vi/FK4yXkEdWsI/default.jpg)](https://youtu.be/FK4yXkEdWsI?si=lQ17os6CrkERTptm) [![Watch the video](https://img.youtube.com/vi/wg0d3z9dg84/default.jpg)](https://youtu.be/wg0d3z9dg84?si=Di483F8HILI9iJrI) | [![Watch the video](https://img.youtube.com/vi/0TtMVg7N2Zc/default.jpg)](https://youtu.be/0TtMVg7N2Zc?si=6uVzdPeFg9MpazDc) [![Watch the video](https://img.youtube.com/vi/Umk_BSp9eM0/default.jpg)](https://youtu.be/Umk_BSp9eM0?si=j3YPZz1ZNECbZfsm) [![Watch the video](https://img.youtube.com/vi/ciHpC0rxVs8/default.jpg)](https://youtu.be/ciHpC0rxVs8?si=kMKzHKucgc57Wi9C) |
 
+# I Think, I am Dr. DOOM
+
+[![Watch the video](https://img.youtube.com/vi/Y1mP5ZNRXQI/maxresdefault.jpg)](https://youtu.be/Y1mP5ZNRXQI?si=LYJSRkkxo8Z8O3B1)
 
