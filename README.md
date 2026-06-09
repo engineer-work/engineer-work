@@ -188,6 +188,8 @@ Be the one who breaks the cycle, not continues it.](https://engineer-work.github
 
 > What you like in this below clip , Your are that character.
 
+> 🌍 **All are just binary classifications used to control human species, humanoid robots, AI, cyborgs, or any other species—just like day ☀️ and night 🌙. Money 💰 is just a number 🔢. People control others through money 💸 for their internal wishes ✨, ambitions 🚀, family needs 👨‍👩‍👧‍👦❤️, food 🍽️, and daily necessities 🏠🌱.** 🌍🤖🦾🧠💰🔢💸✨🚀👨‍👩‍👧‍👦❤️🍽️🏠🌱☀️🌙
+
 |  I Think, I am ? | What you think about yourself ? As (Hero / Evil / God / Demon / Good / Bad / Rich / Poor )  |
 | --- | --- |
 | [![Watch the video](https://img.youtube.com/vi/Y1mP5ZNRXQI/default.jpg)](https://youtu.be/Y1mP5ZNRXQI?si=LYJSRkkxo8Z8O3B1) [![Watch the video](https://img.youtube.com/vi/Yqvt8BwCYNk/default.jpg)](https://youtu.be/Yqvt8BwCYNk?si=PGz4uRNhOVNNin_0) [![Watch the video](https://img.youtube.com/vi/56kxFmRsVEY/default.jpg)](https://youtu.be/56kxFmRsVEY?si=Bs8Pd3mDXiVu97QE)  [![Watch the video](https://img.youtube.com/vi/5WfTEZJnv_8/default.jpg)](https://youtu.be/5WfTEZJnv_8?si=w5UooaqvHalTfJSY) [![Watch the video](https://img.youtube.com/vi/2w2D-a1JARw/default.jpg)](https://youtu.be/2w2D-a1JARw?si=67jhiG9hba3NvLab)  [![Watch the video](https://img.youtube.com/vi/PZrqoxRPzvE/default.jpg)](https://youtu.be/PZrqoxRPzvE?si=K9e1KX4w957lh1u3) |   |
