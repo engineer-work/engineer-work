@@ -10,7 +10,6 @@
 [💸🤑💰](https://engineer-e.github.io/Nvidia-Learning/donate/donate.html) [Pain creates the story—but choice writes the ending.
 Be the one who breaks the cycle, not continues it.](https://engineer-work.github.io/Join-Company/war_prediction/human_uncertainty_pain_based_on_eduction.html) [💸🤑💰](https://engineer-e.github.io/Nvidia-Learning/donate/donate.html)
 
-[![Watch the video](https://img.youtube.com/vi/7tvih_bgy8M/maxresdefault.jpg)](https://youtu.be/7tvih_bgy8M?si=4D0FpcaZBrlnPWE_) 
 
 | 🤔💭 I thought 🟢🔵🟡🔴 I was the problem 😔📚🏢… until AI helped me see some [toxic](https://youtu.be/d1WO9kAuysg?si=VhJ9mfDIn7h1cFkb) patterns in parts of the education and work system 🤖🔍✨ Thank you to AI & the people behind it 🙏🤖💙🌍✨ | 🤔💭 When people ask me questions, sometimes I’m not able to answer immediately 😅 because I don’t store every piece of information in my brain 🧠📚. I focus on multiple fields at the same time 🌍⚡, so I usually learn and understand things while actively working on them 🔍💻. | That’s why I use platforms like [GitHub](https://github.com?utm_source=chatgpt.com) and other storage tools ☁️📂 to collect, organize, and manage my work efficiently 🚀✨. Before, I mostly searched through books 📖, articles 📰, and search engines 🌐🔎 like Google 🟢🔵🟡🔴 for information. Now, I also use AI tools 🤖✨ like [ChatGPT](https://chatgpt.com?utm_source=chatgpt.com), [DeepSeek](https://www.deepseek.com?utm_source=chatgpt.com), and [Gemini](https://gemini.google.com?utm_source=chatgpt.com) to research, learn, and complete tasks faster ⚡🔥. |
 | :---: | :---: | :---: |
@@ -184,6 +183,9 @@ Be the one who breaks the cycle, not continues it.](https://engineer-work.github
 |---|---|---|
 | [![Watch the video](https://img.youtube.com/vi/oiT71-6bk6k/hqdefault.jpg)](https://youtu.be/oiT71-6bk6k?si=-d4jiCVOPqfLncxG) |  [![Jenna Ortega Wears NOTHING But Jewels & a Skirt at Emmys 2025](https://img.youtube.com/vi/xnB79b1yu5g/hqdefault.jpg)](http://www.youtube.com/watch?v=xnB79b1yu5g "Jenna Ortega Wears NOTHING But Jewels & a Skirt at Emmys 2025") | [![](https://raw.githubusercontent.com/engineer-work/engineer-work/refs/heads/main/image/1.png)](https://github.com/engineer-e) |
 | [![Watch the video](https://img.youtube.com/vi/6mRbDEtDoyA/hqdefault.jpg)](https://youtu.be/6mRbDEtDoyA?si=UoLMnGBbrkeR_A1_) | [![Watch the video](https://img.youtube.com/vi/azq0S0DKS50/hqdefault.jpg)](https://youtu.be/azq0S0DKS50?si=prg06vgT-I7_-5NW)| [![Watch the video](https://img.youtube.com/vi/ZkA3QGufOao/hqdefault.jpg)](https://youtu.be/ZkA3QGufOao?si=dMhk-0A-MtQA15q0) |
+
+[![Watch the video](https://img.youtube.com/vi/7tvih_bgy8M/maxresdefault.jpg)](https://youtu.be/7tvih_bgy8M?si=4D0FpcaZBrlnPWE_) 
+
 
 ## Climate Changes - Super El Niño Destroy Economy
 ||| 
