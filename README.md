@@ -184,6 +184,8 @@ Be the one who breaks the cycle, not continues it.](https://engineer-work.github
 | [![Watch the video](https://img.youtube.com/vi/oiT71-6bk6k/hqdefault.jpg)](https://youtu.be/oiT71-6bk6k?si=-d4jiCVOPqfLncxG) |  [![Jenna Ortega Wears NOTHING But Jewels & a Skirt at Emmys 2025](https://img.youtube.com/vi/xnB79b1yu5g/hqdefault.jpg)](http://www.youtube.com/watch?v=xnB79b1yu5g "Jenna Ortega Wears NOTHING But Jewels & a Skirt at Emmys 2025") | [![](https://raw.githubusercontent.com/engineer-work/engineer-work/refs/heads/main/image/1.png)](https://github.com/engineer-e) |
 | [![Watch the video](https://img.youtube.com/vi/6mRbDEtDoyA/hqdefault.jpg)](https://youtu.be/6mRbDEtDoyA?si=UoLMnGBbrkeR_A1_) | [![Watch the video](https://img.youtube.com/vi/azq0S0DKS50/hqdefault.jpg)](https://youtu.be/azq0S0DKS50?si=prg06vgT-I7_-5NW)| [![Watch the video](https://img.youtube.com/vi/ZkA3QGufOao/hqdefault.jpg)](https://youtu.be/ZkA3QGufOao?si=dMhk-0A-MtQA15q0) |
 
+# 💰❓ Money Important or Money Not Important? 🤔😅, 🧠⚛️ Confusing Funny Thought: 😆💭 👤🔬 So, Human Species — Each Part, Event, and Action — Working Like a Quantum Computer Idea? 🧩⚡💻🌌
+
 [![Watch the video](https://img.youtube.com/vi/7tvih_bgy8M/maxresdefault.jpg)](https://youtu.be/7tvih_bgy8M?si=4D0FpcaZBrlnPWE_) 
 
 
@@ -206,6 +208,7 @@ Be the one who breaks the cycle, not continues it.](https://engineer-work.github
 |  I Think, I am ? | What you think about yourself ? As (Hero / Evil / God / Demon / Good / Bad / Rich / Poor )  |
 | --- | --- |
 | [![Watch the video](https://img.youtube.com/vi/Y1mP5ZNRXQI/default.jpg)](https://youtu.be/Y1mP5ZNRXQI?si=LYJSRkkxo8Z8O3B1) [![Watch the video](https://img.youtube.com/vi/Yqvt8BwCYNk/default.jpg)](https://youtu.be/Yqvt8BwCYNk?si=PGz4uRNhOVNNin_0) [![Watch the video](https://img.youtube.com/vi/56kxFmRsVEY/default.jpg)](https://youtu.be/56kxFmRsVEY?si=Bs8Pd3mDXiVu97QE)  [![Watch the video](https://img.youtube.com/vi/5WfTEZJnv_8/default.jpg)](https://youtu.be/5WfTEZJnv_8?si=w5UooaqvHalTfJSY) [![Watch the video](https://img.youtube.com/vi/2w2D-a1JARw/default.jpg)](https://youtu.be/2w2D-a1JARw?si=67jhiG9hba3NvLab)  [![Watch the video](https://img.youtube.com/vi/PZrqoxRPzvE/default.jpg)](https://youtu.be/PZrqoxRPzvE?si=K9e1KX4w957lh1u3) |   |
+
 
 
 [![Watch the video](https://img.youtube.com/vi/-Q_fJWAoCy4/maxresdefault.jpg)](https://youtu.be/-Q_fJWAoCy4?si=61CwmbjSkouc6uZy&t=240)
