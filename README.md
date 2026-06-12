@@ -26,7 +26,7 @@ Many advanced technologies such as 🤖 humanoid robots, 🧬 biosystems, 💊 m
 
 Before spending large amounts of money building hardware from scratch 🏭⚙️💰, first focus on understanding the concepts, mathematics, science, engineering, and simulations with minimum errors 📚🔬💻.
 
-[![](https://img.youtube.com/vi/x5mznemjL_o/default.jpg)](https://youtu.be/x5mznemjL_o?si=gZumQ_c7Nx9kjWZJ)  [![](https://img.youtube.com/vi/yvDDpQZliY8/default.jpg)](https://youtu.be/yvDDpQZliY8?si=sCyjVSpjVhJ8DCRh) [![](https://img.youtube.com/vi/1Jld_rBomp0/default.jpg)](https://youtu.be/1Jld_rBomp0?si=CtQQhKEkDdIxjSI5)
+[![](https://img.youtube.com/vi/x5mznemjL_o/default.jpg)](https://youtu.be/x5mznemjL_o?si=gZumQ_c7Nx9kjWZJ)  [![](https://img.youtube.com/vi/yvDDpQZliY8/default.jpg)](https://youtu.be/yvDDpQZliY8?si=sCyjVSpjVhJ8DCRh) [![](https://img.youtube.com/vi/1Jld_rBomp0/default.jpg)](https://youtu.be/1Jld_rBomp0?si=CtQQhKEkDdIxjSI5) [![](https://img.youtube.com/vi/1KQc6zHOmtU/default.jpg)](https://youtu.be/1KQc6zHOmtU?si=iRRZf8i6k9L_F70U)
 
 🔍 Read existing research and designs from:
 📄 IEEE
