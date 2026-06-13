@@ -48,6 +48,7 @@ Before spending large amounts of money building hardware from scratch 🏭⚙️
 
 **Learn deeply first. Simulate second. Build carefully. Spend wisely. Create technology that helps humanity.** 🚀✨
 ---
+🎬🚀 **Total Rays = (Rays/Pixel × Secondary Rays × Lights × Width × Height × 24 FPS), while BVH 🌳 speeds up ray-object intersection tests.**
 
 [![](https://img.youtube.com/vi/iOlehM5kNSk/maxresdefault.jpg)](https://youtu.be/iOlehM5kNSk?si=U8hfpIp7dTHTLYy0)
 
