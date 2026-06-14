@@ -73,6 +73,18 @@ Before spending large amounts of money building hardware from scratch 🏭⚙️
 🎒🏫 [My College Life](https://engineer-work.github.io/Join-Company/college/pain-during-college.html)
 🎯🧭🚀🎒🏫 **My hobby** [Physics - MIT](https://engineer-e.github.io/Physics-MIT-University/)
 
+| Topic                          | Statement                                                                                                                                                                                                                                   |
+| ------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 📌 **Disclaimer**                  | ⚠️📌🔍 **Sometimes, some people may copy my profile 👤📄 or pretend to be me 🎭👥. This can happen because of problems ⚠️🏛️ in the education system 🎓📚 or official systems 🏢📋 in the region 🌍🏠 where I was born 👶 and currently live 🏡. The issues 😟⚡ that happened to me 🙋 can also happen to many other people 👨‍👩‍👧‍👦🌎. 🚨⚠️🔄**       |
+| 🤝 My Position                 | I do not support people who do wrong things, whether they are rich 💰 or poor 💵.                                                                                                                                                           |
+| ❌ Wrong Actions                | Some people, regardless of wealth, are not interested in learning, working, or technological innovation. For their own profit and money, they may harm or spoil the lives of others.                                                        |
+| ⚠️ Lack of Knowledge           | Some students 🎓 and technology enthusiasts 💻 have good intentions and strong interest in technology, but due to a lack of knowledge, they may create harmful or irresponsible innovations that negatively affect others.                  |
+| 🍲 My Motivation               | I am interested in learning, working, and technological innovation mainly to secure food, shelter, and a stable future. 🏠                                                                                                                  |
+| 💰 Wealthy People's Motivation | Some wealthy people may continue working for fame 🏆, pride 🌟, influence 👑, personal achievement 🚀, or to build something they believe is important. However, not all rich people have the same motivation.                              |
+| 📈 Financial Example           | If a person has ₹8 crore in a fixed deposit at around 6–8% annual interest, they could earn approximately ₹4–5.3 lakh per month from interest alone. Because of this financial security, some people may work for goals beyond basic needs. |
+| ❓ Key Question                 | So, how would you determine whether I am a good person 😊 or a bad person 😈?                                                                                                                                                               |
+| ✅ My Belief                    | People should be judged by their actions, honesty, willingness to learn, respect for others, and the positive impact they create—not by their wealth, status, or background. 🌍✨                                                            |
+
 #### Cognitive decision-making process flowchart
 
 ![Watch the video](image/cdmpf.png)
