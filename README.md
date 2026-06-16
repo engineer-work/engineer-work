@@ -1,5 +1,7 @@
 ###### 📌 My Profile Pic and some images,video are generate by AI, is not true. I done this to show my ambition. My true pic in [Instagram](https://www.instagram.com/gobalkrishnan.engineer/) only.
 
+[![](https://img.youtube.com/vi/PoiWzItpSqk/maxresdefault.jpg)](https://youtu.be/PoiWzItpSqk?si=kMtSEU8nJguyE4F5)
+
 **1️⃣** 💰👥 People control others using money. They say it is to maintain order ⚖️ and peace 🕊️, but it can unknowingly cause suffering 😔💔 to many people. Any tool 🛠️, technology 💻, material ⚗️, or power ⚡ in the wrong hands 🚫🙌 can become very dangerous ☠️⚠️. I do not know who will help 🤔🆘.
 
 **2️⃣** 👶➡️🧒➡️🧑➡️👨‍🦳 All human beings begin life as children 👶. As they grow into adults 🧑, many forget the lessons, feelings, and innocence of childhood 🌱💭. This forgetting can contribute to conflicts ⚔️, wars 💣, and many problems 🌍😞.
