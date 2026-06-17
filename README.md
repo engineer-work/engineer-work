@@ -1,4 +1,8 @@
-###### 📌 My Profile Pic and some images,video are generate by AI, is not true. I done this to show my ambition. My true pic in [Instagram](https://www.instagram.com/gobalkrishnan.engineer/) only.
+###### 📌 My Profile Pic and some images,video are generate by AI, is not true. I done this to show my ambition. My true pic in [Instagram](https://www.instagram.com/gobalkrishnan.engineer/) only. 
+[![Electronic Profile](https://img.shields.io/badge/Electronic%20Profile-engineer--e-181717?logo=github)](https://github.com/engineer-e/) 
+[![Work Profile](https://img.shields.io/badge/Work%20Profile-engineer--work-181717?logo=github)](https://github.com/engineer-work/) 
+[![Instagram](https://img.shields.io/badge/Instagram-gobalkrishnan.engineer-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/gobalkrishnan.engineer/)
+
 
 I only like to do Work From Home 🏠💻, I don’t believe anyone 🤐 due to [toxic culture](https://youtu.be/d1WO9kAuysg?si=x9uCbI07CMRga4yi) ⚠️🔥. 🎯 [Childhood Memory](https://engineer-e.github.io/Childhood-Memory/), [💸🤑💰 **Donate**](https://engineer-e.github.io/Nvidia-Learning/donate/donate.html)
 ✨ *Profile* –
