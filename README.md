@@ -1,6 +1,6 @@
 ###### 📌 My Profile Pic and some images,video are generate by AI, is not true. I done this to show my ambition. My true pic in [Instagram](https://www.instagram.com/gobalkrishnan.engineer/) only.
 
-I only like to do Work From Home, I not believe anyone due to toxic culture. 🎯 [Childhood Memory](https://engineer-e.github.io/Childhood-Memory/), [💸🤑💰 **Donate**](https://engineer-e.github.io/Nvidia-Learning/donate/donate.html)
+I only like to do Work From Home, I not believe anyone due to [toxic culture](https://youtu.be/d1WO9kAuysg?si=x9uCbI07CMRga4yi). 🎯 [Childhood Memory](https://engineer-e.github.io/Childhood-Memory/), [💸🤑💰 **Donate**](https://engineer-e.github.io/Nvidia-Learning/donate/donate.html)
 ✨ *Profile* –
 📅 [Planner App](https://engineer-work.github.io/planner-app/) 📌,
 📊🔥 [My Learning Habit](https://docs.google.com/spreadsheets/d/e/2PACX-1vTNRg4Puo7QCFcm4ZXVF1dnX4qL6ofzOsO__GwuHJr-yke0QUXZtI51cr9Mt8Ui7QSoKTzOlr_SuB-G/pubhtml?gid=1898283119&single=true) 📈,
