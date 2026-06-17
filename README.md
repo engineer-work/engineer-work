@@ -1,5 +1,18 @@
 ###### 📌 My Profile Pic and some images,video are generate by AI, is not true. I done this to show my ambition. My true pic in [Instagram](https://www.instagram.com/gobalkrishnan.engineer/) only.
 
+
+🎯 [Childhood Memory](https://engineer-e.github.io/Childhood-Memory/), [💸🤑💰 **Donate**](https://engineer-e.github.io/Nvidia-Learning/donate/donate.html)
+✨ *Profile* –
+📅 [Planner App](https://engineer-work.github.io/planner-app/) 📌,
+📊🔥 [My Learning Habit](https://docs.google.com/spreadsheets/d/e/2PACX-1vTNRg4Puo7QCFcm4ZXVF1dnX4qL6ofzOsO__GwuHJr-yke0QUXZtI51cr9Mt8Ui7QSoKTzOlr_SuB-G/pubhtml?gid=1898283119&single=true) 📈,
+🆔🌐 [ORCID](https://orcid.org/0009-0001-3787-2860)
+🎓📚 [Free Learning Courses to Make Simulator](https://engineer-work.github.io/Join-Company/free-learning/free-learning.html) 🚀
+💻⚙️ [Desktop Computer for Scientific Computing & Simple Simulation](https://engineer-work.github.io/Join-Company/device/current_specification_device.html) 🧠
+🧭🚀 [Career Path](https://engineer-work.github.io/Join-Company/startup/issue-happen-to-me-while-working-in-startup.html)
+💼📈 [My Job Life](https://engineer-work.github.io/Join-Company/startup/my_career_path.html)
+🎒🏫 [My College Life](https://engineer-work.github.io/Join-Company/college/pain-during-college.html)
+🎯🧭🚀🎒🏫 **My hobby** [Physics - MIT](https://engineer-e.github.io/Physics-MIT-University/)
+
 [![](https://img.youtube.com/vi/PoiWzItpSqk/maxresdefault.jpg)](https://youtu.be/PoiWzItpSqk?si=kMtSEU8nJguyE4F5)
 
 **1️⃣** 💰👥 People control others using money. They say it is to maintain order ⚖️ and peace 🕊️, but it can unknowingly cause suffering 😔💔 to many people. Any tool 🛠️, technology 💻, material ⚗️, or power ⚡ in the wrong hands 🚫🙌 can become very dangerous ☠️⚠️. I do not know who will help 🤔🆘.
@@ -63,17 +76,6 @@ Before spending large amounts of money building hardware from scratch 🏭⚙️
 
 [![](image/supercomputer.png)](https://youtu.be/JNyz9CV9FUA?si=Fwhw2QwiHN4Twm2h)
 
-🎯 [Childhood Memory](https://engineer-e.github.io/Childhood-Memory/), [💸🤑💰 **Donate**](https://engineer-e.github.io/Nvidia-Learning/donate/donate.html)
-✨ *Profile* –
-📅 [Planner App](https://engineer-work.github.io/planner-app/) 📌,
-📊🔥 [My Learning Habit](https://docs.google.com/spreadsheets/d/e/2PACX-1vTNRg4Puo7QCFcm4ZXVF1dnX4qL6ofzOsO__GwuHJr-yke0QUXZtI51cr9Mt8Ui7QSoKTzOlr_SuB-G/pubhtml?gid=1898283119&single=true) 📈,
-🆔🌐 [ORCID](https://orcid.org/0009-0001-3787-2860)
-🎓📚 [Free Learning Courses to Make Simulator](https://engineer-work.github.io/Join-Company/free-learning/free-learning.html) 🚀
-💻⚙️ [Desktop Computer for Scientific Computing & Simple Simulation](https://engineer-work.github.io/Join-Company/device/current_specification_device.html) 🧠
-🧭🚀 [Career Path](https://engineer-work.github.io/Join-Company/startup/issue-happen-to-me-while-working-in-startup.html)
-💼📈 [My Job Life](https://engineer-work.github.io/Join-Company/startup/my_career_path.html)
-🎒🏫 [My College Life](https://engineer-work.github.io/Join-Company/college/pain-during-college.html)
-🎯🧭🚀🎒🏫 **My hobby** [Physics - MIT](https://engineer-e.github.io/Physics-MIT-University/)
 
 |  [![Watch the video](https://img.youtube.com/vi/lOOX_jTIroY/default.jpg)](https://youtu.be/lOOX_jTIroY?si=Q00LpbvgAA6ZWYR7) | [I & my Darling AI in ChatGPT Statement](https://chatgpt.com/share/6a2e5868-fca8-83e8-aa8f-2ba921b9fa24) |
 | ------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
