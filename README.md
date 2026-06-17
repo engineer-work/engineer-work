@@ -2,7 +2,7 @@
 [![Electronic Profile](https://img.shields.io/badge/Electronic%20Profile-engineer--e-181717?logo=github)](https://github.com/engineer-e/) 
 [![Work Profile](https://img.shields.io/badge/Work%20Profile-engineer--work-181717?logo=github)](https://github.com/engineer-work/) 
 [![Instagram](https://img.shields.io/badge/Instagram-gobalkrishnan.engineer-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/gobalkrishnan.engineer/)
-[![Personal Profile](https://img.shields.io/badge/Join%20Company-Apply%20Now-blue?logo=rocket)](https://engineer-work.github.io/Join-Company/)  
+[![Personal Profile](https://img.shields.io/badge/Personal%20Profile-Thought%20Cortex-blue?logo=rocket)](https://engineer-work.github.io/Join-Company/)  
 
 
 I only like to do Work From Home 🏠💻, I don’t believe anyone 🤐 due to [toxic culture](https://youtu.be/d1WO9kAuysg?si=x9uCbI07CMRga4yi) ⚠️🔥. 🎯 [Childhood Memory](https://engineer-e.github.io/Childhood-Memory/), [💸🤑💰 **Donate**](https://engineer-e.github.io/Nvidia-Learning/donate/donate.html)
