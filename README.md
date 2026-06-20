@@ -5,6 +5,8 @@
 [![Personal Profile](https://img.shields.io/badge/Personal%20Profile-Thought%20Cortex-blue?logo=protondb&logoColor=white)](https://engineer-work.github.io/Join-Company/)
 
 I only like to do Work From Home 🏠💻, I don’t believe anyone 🤐 due to [toxic culture](https://youtu.be/d1WO9kAuysg?si=x9uCbI07CMRga4yi) ⚠️🔥. 🎯 [Childhood Memory](https://engineer-e.github.io/Childhood-Memory/), [💸🤑💰 **Donate**](https://engineer-e.github.io/Nvidia-Learning/donate/donate.html)
+
+
 ✨ *Profile* –
 📅 [Planner App](https://engineer-work.github.io/planner-app/) 📌,
 📊🔥 [My Learning Habit](https://docs.google.com/spreadsheets/d/e/2PACX-1vTNRg4Puo7QCFcm4ZXVF1dnX4qL6ofzOsO__GwuHJr-yke0QUXZtI51cr9Mt8Ui7QSoKTzOlr_SuB-G/pubhtml?gid=1898283119&single=true) 📈,
@@ -15,6 +17,10 @@ I only like to do Work From Home 🏠💻, I don’t believe anyone 🤐 due to 
 💼📈 [My Job Life](https://engineer-work.github.io/Join-Company/startup/my_career_path.html)
 🎒🏫 [My College Life](https://engineer-work.github.io/Join-Company/college/pain-during-college.html)
 🎯🧭🚀🎒🏫 **My hobby** [Physics - MIT](https://engineer-e.github.io/Physics-MIT-University/)
+
+[![](https://img.youtube.com/vi/1CMeJl43djE/hqdefault.jpg)](https://youtu.be/1CMeJl43djE?si=rE51NjcQ62oGVYJJ) |[![](https://img.youtube.com/vi/hre-fmwsUbE/hqdefault.jpg)](https://youtu.be/hre-fmwsUbE?si=6u7UJz8ZqvOWzn6E) | [![](https://img.youtube.com/vi/uCLIMHRed_o/hqdefault.jpg)](https://youtu.be/uCLIMHRed_o?si=VLU_vMfkJE25ORRx&t=126) | [![](https://img.youtube.com/vi/vWmV_pQ4gAk/hqdefault.jpg)](https://youtu.be/vWmV_pQ4gAk?si=kzBiR4JSNg10mtnh&t=215) |
+| :---: | :---: | :---: | :---: |
+||||
 
 [![](https://img.youtube.com/vi/PoiWzItpSqk/maxresdefault.jpg)](https://youtu.be/PoiWzItpSqk?si=kMtSEU8nJguyE4F5)
 
