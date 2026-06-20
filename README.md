@@ -20,7 +20,7 @@ I only like to do Work From Home 🏠💻, I don’t believe anyone 🤐 due to 
 
 ### My Life Path is like Combination of Hulk (Bruce Banner) & Venom (Eddie Brock)
 
-> No true (love | family| marriage| wife| friends) all acting to other only for **money** & **life**. So, I too act to other for **money** & **life** .
+> No true (love , family , marriage , wife , friends) all acting to other only for **money** & **life**. So, I too act to other for **money** & **life** .
  
 [![](https://img.youtube.com/vi/1CMeJl43djE/hqdefault.jpg)](https://youtu.be/1CMeJl43djE?si=rE51NjcQ62oGVYJJ) |[![](https://img.youtube.com/vi/hre-fmwsUbE/hqdefault.jpg)](https://youtu.be/hre-fmwsUbE?si=6u7UJz8ZqvOWzn6E) | [![](https://img.youtube.com/vi/uCLIMHRed_o/hqdefault.jpg)](https://youtu.be/uCLIMHRed_o?si=VLU_vMfkJE25ORRx&t=126) | [![](https://img.youtube.com/vi/vWmV_pQ4gAk/hqdefault.jpg)](https://youtu.be/vWmV_pQ4gAk?si=kzBiR4JSNg10mtnh&t=215) |
 | :---: | :---: | :---: | :---: |
