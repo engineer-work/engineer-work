@@ -18,9 +18,16 @@ I only like to do Work From Home 🏠💻, I don’t believe anyone 🤐 due to 
 🎒🏫 [My College Life](https://engineer-work.github.io/Join-Company/college/pain-during-college.html)
 🎯🧭🚀🎒🏫 **My hobby** [Physics - MIT](https://engineer-e.github.io/Physics-MIT-University/)
 
+### My Life Path is like Combination of Hulk (Bruce Banner) & Venom (Eddie Brock)
+
 [![](https://img.youtube.com/vi/1CMeJl43djE/hqdefault.jpg)](https://youtu.be/1CMeJl43djE?si=rE51NjcQ62oGVYJJ) |[![](https://img.youtube.com/vi/hre-fmwsUbE/hqdefault.jpg)](https://youtu.be/hre-fmwsUbE?si=6u7UJz8ZqvOWzn6E) | [![](https://img.youtube.com/vi/uCLIMHRed_o/hqdefault.jpg)](https://youtu.be/uCLIMHRed_o?si=VLU_vMfkJE25ORRx&t=126) | [![](https://img.youtube.com/vi/vWmV_pQ4gAk/hqdefault.jpg)](https://youtu.be/vWmV_pQ4gAk?si=kzBiR4JSNg10mtnh&t=215) |
 | :---: | :---: | :---: | :---: |
-||||
+| [![](https://img.youtube.com/vi/udKE1ksKWDE/hqdefault.jpg)](https://youtu.be/udKE1ksKWDE?si=cVwZqLRZVTYqwGJT&t=97) | [![](https://img.youtube.com/vi/FpxiEnhTK44/hqdefault.jpg)](https://youtu.be/FpxiEnhTK44?si=MALxGOhKqHPdsUxT) | [![](https://img.youtube.com/vi/BGW-SaB_4cY/hqdefault.jpg)](https://youtu.be/BGW-SaB_4cY?si=fwCU3QHhHSvqrucs&t=86) | [![](https://img.youtube.com/vi/tLeBDumanoc/hqdefault.jpg)](https://youtu.be/tLeBDumanoc?si=RoHVT5apKdxWvwUt&t=24) |
+
+
+
+
+
 
 [![](https://img.youtube.com/vi/PoiWzItpSqk/maxresdefault.jpg)](https://youtu.be/PoiWzItpSqk?si=kMtSEU8nJguyE4F5)
 
