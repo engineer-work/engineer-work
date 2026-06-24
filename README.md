@@ -18,15 +18,29 @@ I only like to do Work From Home 🏠💻, I don’t believe anyone 🤐 due to 
 🎒🏫 [My College Life](https://engineer-work.github.io/Join-Company/college/pain-during-college.html)
 🎯🧭🚀🎒🏫 **My hobby** [Physics - MIT](https://engineer-e.github.io/Physics-MIT-University/)
 
-<details><summary>💼📈🤔 Thoughts About Work Culture Before Joining a Company 💼📈🏢🤝🧠 </summary>
-
-### My Life Path is like Combination of Hulk (Bruce Banner) & Venom (Eddie Brock)
 
 😐💭 No one is interested in spending time with others. Then why call it ❤️ love or 💍 marriage or 🤝🎭friends ? Just for 💰 money they act. **I am also not interested in spending time with others**.
 
 🚫❤️ No true love, 👨‍👩‍👧‍👦 family, 💍 marriage, 👰 wife, or 🤝 friends. All are just acting 🎭 for 💰 money and 🧬 survival.
 
 🎭💰🧬 So, I too act with others for 💰 money and 🧬 life.
+
+🎭 Even when people spend time with others, it often feels like acting. ❓Why?
+
+👶 From birth, babies are shaped by their environment 🌍. Ideas are injected into the mind 🧠: 🏆 to win, 💰 earn more, 🏰 become rich, 👑 be a leader or king, ✨ be beautiful, 📚 be educated, 👨‍💻 become an engineer, 🩺 become a doctor, and 💼 get a white-collar job.
+
+📅 Since I was born on 18-06-1995, that was the starting timeline of the environment around me 🌎. The people 👥 and surroundings 🏠 around me injected certain thoughts 🧠 into my mind.
+
+🔄 In the same way, other people are injected with different thoughts from birth 👶➡️🧠.
+
+🤖 Today, reinforcement learning is used for AI. Similarly, humans can be conditioned 🧠⚙️ for the profit 💰 of a country 🏳️, company 🏢, or individual person 👤.
+
+🤔 I feel that I am struggling because of influences from unknown people 👥❓. Why ❓
+
+
+<details><summary>💼📈🤔 Thoughts About Work Culture Before Joining a Company 💼📈🏢🤝🧠 </summary>
+
+### My Life Path is like Combination of Hulk (Bruce Banner) & Venom (Eddie Brock)
 
 [![](https://img.youtube.com/vi/1CMeJl43djE/hqdefault.jpg)](https://youtu.be/1CMeJl43djE?si=rE51NjcQ62oGVYJJ) |[![](https://img.youtube.com/vi/hre-fmwsUbE/hqdefault.jpg)](https://youtu.be/hre-fmwsUbE?si=6u7UJz8ZqvOWzn6E) | [![](https://img.youtube.com/vi/uCLIMHRed_o/hqdefault.jpg)](https://youtu.be/uCLIMHRed_o?si=VLU_vMfkJE25ORRx&t=126) | [![](https://img.youtube.com/vi/vWmV_pQ4gAk/hqdefault.jpg)](https://youtu.be/vWmV_pQ4gAk?si=kzBiR4JSNg10mtnh&t=215) |
 | :---: | :---: | :---: | :---: |
