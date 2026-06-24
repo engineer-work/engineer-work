@@ -19,6 +19,16 @@ I only like to do Work From Home 🏠💻, I don’t believe anyone 🤐 due to 
 🎯🧭🚀🎒🏫 **My hobby** [Physics - MIT](https://engineer-e.github.io/Physics-MIT-University/)
 
 
+<details><summary>💼📈🤔 Thoughts About Work Culture Before Joining a Company 💼📈🏢🤝🧠 </summary>
+
+### My Life Path is like Combination of Hulk (Bruce Banner) & Venom (Eddie Brock)
+
+[![](https://img.youtube.com/vi/1CMeJl43djE/hqdefault.jpg)](https://youtu.be/1CMeJl43djE?si=rE51NjcQ62oGVYJJ) |[![](https://img.youtube.com/vi/hre-fmwsUbE/hqdefault.jpg)](https://youtu.be/hre-fmwsUbE?si=6u7UJz8ZqvOWzn6E) | [![](https://img.youtube.com/vi/uCLIMHRed_o/hqdefault.jpg)](https://youtu.be/uCLIMHRed_o?si=VLU_vMfkJE25ORRx&t=126) | [![](https://img.youtube.com/vi/vWmV_pQ4gAk/hqdefault.jpg)](https://youtu.be/vWmV_pQ4gAk?si=kzBiR4JSNg10mtnh&t=215) |
+| :---: | :---: | :---: | :---: |
+| [![](https://img.youtube.com/vi/udKE1ksKWDE/hqdefault.jpg)](https://youtu.be/udKE1ksKWDE?si=cVwZqLRZVTYqwGJT&t=97) | [![](https://img.youtube.com/vi/FpxiEnhTK44/hqdefault.jpg)](https://youtu.be/FpxiEnhTK44?si=MALxGOhKqHPdsUxT) | [![](https://img.youtube.com/vi/BGW-SaB_4cY/hqdefault.jpg)](https://youtu.be/BGW-SaB_4cY?si=fwCU3QHhHSvqrucs&t=86) | [![](https://img.youtube.com/vi/tLeBDumanoc/hqdefault.jpg)](https://youtu.be/tLeBDumanoc?si=RoHVT5apKdxWvwUt&t=24) |
+
+
+
 😐💭 No one is interested in spending time with others. Then why call it ❤️ love or 💍 marriage or 🤝🎭friends ? Just for 💰 money they act. **I am also not interested in spending time with others**.
 
 🚫❤️ No true love, 👨‍👩‍👧‍👦 family, 💍 marriage, 👰 wife, or 🤝 friends. All are just acting 🎭 for 💰 money and 🧬 survival.
@@ -26,6 +36,9 @@ I only like to do Work From Home 🏠💻, I don’t believe anyone 🤐 due to 
 🎭💰🧬 So, I too act with others for 💰 money and 🧬 life.
 
 🎭 Even when people spend time with others, it often feels like acting. ❓Why?
+
+[![](https://img.youtube.com/vi/PoiWzItpSqk/maxresdefault.jpg)](https://youtu.be/PoiWzItpSqk?si=kMtSEU8nJguyE4F5)
+
 
 👶 From birth, babies are shaped by their environment 🌍. Ideas are injected into the mind 🧠: 🏆 to win, 💰 earn more, 🏰 become rich, 👑 be a leader or king, ✨ be beautiful, 📚 be educated, 👨‍💻 become an engineer, 🩺 become a doctor, and 💼 get a white-collar job.
 
@@ -36,18 +49,6 @@ I only like to do Work From Home 🏠💻, I don’t believe anyone 🤐 due to 
 🤖 Today, reinforcement learning is used for AI. Similarly, humans can be conditioned 🧠⚙️ for the profit 💰 of a country 🏳️, company 🏢, or individual person 👤.
 
 🤔 I feel that I am struggling because of influences from unknown people 👥❓. Why ❓
-
-
-<details><summary>💼📈🤔 Thoughts About Work Culture Before Joining a Company 💼📈🏢🤝🧠 </summary>
-
-### My Life Path is like Combination of Hulk (Bruce Banner) & Venom (Eddie Brock)
-
-[![](https://img.youtube.com/vi/1CMeJl43djE/hqdefault.jpg)](https://youtu.be/1CMeJl43djE?si=rE51NjcQ62oGVYJJ) |[![](https://img.youtube.com/vi/hre-fmwsUbE/hqdefault.jpg)](https://youtu.be/hre-fmwsUbE?si=6u7UJz8ZqvOWzn6E) | [![](https://img.youtube.com/vi/uCLIMHRed_o/hqdefault.jpg)](https://youtu.be/uCLIMHRed_o?si=VLU_vMfkJE25ORRx&t=126) | [![](https://img.youtube.com/vi/vWmV_pQ4gAk/hqdefault.jpg)](https://youtu.be/vWmV_pQ4gAk?si=kzBiR4JSNg10mtnh&t=215) |
-| :---: | :---: | :---: | :---: |
-| [![](https://img.youtube.com/vi/udKE1ksKWDE/hqdefault.jpg)](https://youtu.be/udKE1ksKWDE?si=cVwZqLRZVTYqwGJT&t=97) | [![](https://img.youtube.com/vi/FpxiEnhTK44/hqdefault.jpg)](https://youtu.be/FpxiEnhTK44?si=MALxGOhKqHPdsUxT) | [![](https://img.youtube.com/vi/BGW-SaB_4cY/hqdefault.jpg)](https://youtu.be/BGW-SaB_4cY?si=fwCU3QHhHSvqrucs&t=86) | [![](https://img.youtube.com/vi/tLeBDumanoc/hqdefault.jpg)](https://youtu.be/tLeBDumanoc?si=RoHVT5apKdxWvwUt&t=24) |
-
-
-[![](https://img.youtube.com/vi/PoiWzItpSqk/maxresdefault.jpg)](https://youtu.be/PoiWzItpSqk?si=kMtSEU8nJguyE4F5)
 
 | [![](https://img.youtube.com/vi/lLF2OdwEpFs/hqdefault.jpg)](https://youtu.be/lLF2OdwEpFs?si=4enDOZ66yneuxDnX) | [![](https://img.youtube.com/vi/elR0lIH9zs4/hqdefault.jpg)](https://youtu.be/elR0lIH9zs4?si=ls6wQU9Kdo8MOfD-) |[![](https://img.youtube.com/vi/Iw3IWDNRyM8/hqdefault.jpg)](https://youtu.be/Iw3IWDNRyM8?si=RSY2UadCdIGnLZdN) | [![](https://img.youtube.com/vi/hIp4Dq5E3JE/hqdefault.jpg)](https://youtu.be/hIp4Dq5E3JE?si=3tijFmhzQbmqNcqT) | 
 | :---: | :---: | :---: | :---: |
