@@ -22,7 +22,7 @@ I only like to do Work From Home 🏠💻, I don’t believe anyone 🤐 due to 
 
 ### My Life Path is like Combination of Hulk (Bruce Banner) & Venom (Eddie Brock)
 
-😐💭 No one is interested in spending time with others. Then why call it ❤️ love or 💍 marriage? Just for 💰 money they act. I am also not interested in spending time with others.
+😐💭 No one is interested in spending time with others. Then why call it ❤️ love or 💍 marriage or 🤝🎭friends ? Just for 💰 money they act. I am also not interested in spending time with others.
 
 🚫❤️ No true love, 👨‍👩‍👧‍👦 family, 💍 marriage, 👰 wife, or 🤝 friends. All are just acting 🎭 for 💰 money and 🧬 survival.
 
