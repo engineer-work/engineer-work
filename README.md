@@ -26,7 +26,7 @@ I only like to do Work From Home 🏠💻, I don’t believe anyone 🤐 due to 
 [![](https://img.youtube.com/vi/1CMeJl43djE/hqdefault.jpg)](https://youtu.be/1CMeJl43djE?si=rE51NjcQ62oGVYJJ) |[![](https://img.youtube.com/vi/hre-fmwsUbE/hqdefault.jpg)](https://youtu.be/hre-fmwsUbE?si=6u7UJz8ZqvOWzn6E) | [![](https://img.youtube.com/vi/uCLIMHRed_o/hqdefault.jpg)](https://youtu.be/uCLIMHRed_o?si=VLU_vMfkJE25ORRx&t=126) | [![](https://img.youtube.com/vi/vWmV_pQ4gAk/hqdefault.jpg)](https://youtu.be/vWmV_pQ4gAk?si=kzBiR4JSNg10mtnh&t=215) |
 | :---: | :---: | :---: | :---: |
 | [![](https://img.youtube.com/vi/udKE1ksKWDE/hqdefault.jpg)](https://youtu.be/udKE1ksKWDE?si=cVwZqLRZVTYqwGJT&t=97) | [![](https://img.youtube.com/vi/FpxiEnhTK44/hqdefault.jpg)](https://youtu.be/FpxiEnhTK44?si=MALxGOhKqHPdsUxT) | [![](https://img.youtube.com/vi/BGW-SaB_4cY/hqdefault.jpg)](https://youtu.be/BGW-SaB_4cY?si=fwCU3QHhHSvqrucs&t=86) | [![](https://img.youtube.com/vi/tLeBDumanoc/hqdefault.jpg)](https://youtu.be/tLeBDumanoc?si=RoHVT5apKdxWvwUt&t=24) |
-
+|[![](https://img.youtube.com/vi/HZb8NYSJDHg/hqdefault.jpg)](https://youtu.be/HZb8NYSJDHg?si=g5xFGvkLrBNOAm2d)|[![](https://img.youtube.com/vi/pkGcCXwhk94/hqdefault.jpg)](https://youtu.be/pkGcCXwhk94?si=rS02URCmdYR7Xgeo)|[![](https://img.youtube.com/vi/jrpoiR65yl4/hqdefault.jpg)](https://youtu.be/jrpoiR65yl4?si=KH72oswhci-RW2fA)| [![](https://img.youtube.com/vi/AjXucvtbnZU/hqdefault.jpg)](https://youtu.be/AjXucvtbnZU?si=rbHZG6JjeUSJhVhN)|
 
 
 😐💭 No one is interested in spending time with others. Then why call it ❤️ love or 💍 marriage or 🤝🎭friends ? Just for 💰 money they act. **I am also not interested in spending time with others**.
