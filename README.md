@@ -18,7 +18,7 @@ I only like to do Work From Home 🏠💻, I don’t believe anyone 🤐 due to 
 🎒🏫 [My College Life](https://engineer-work.github.io/Join-Company/college/pain-during-college.html)
 🎯🧭🚀🎒🏫 **My hobby** [Physics - MIT](https://engineer-e.github.io/Physics-MIT-University/)
 
-<details><summary>💼📈 My Work Thoughts</summary>
+<details><summary>💼📈🤔 Thoughts About Work Culture Before Joining a Company 💼📈🏢🤝🧠 </summary>
 
 ### My Life Path is like Combination of Hulk (Bruce Banner) & Venom (Eddie Brock)
 
@@ -131,6 +131,9 @@ I focus on understanding systems deeply, solving problems logically, and applyin
 
 **Software Developer | Backend & Mobile (Django, Spring Boot, Flutter, Android) | Graphics (OpenGL, WebGL) | Systems & Simulation | Adaptive Learner** 
 👋 not expert level, but based on given task. **All Software Developer know, just learning from given task.**
+
+<details><summary>💼📈🤔 Thoughts About Work Culture Before Joining a Company 💼📈🏢🤝🧠 </summary>
+ 
 ### My Biggest Afraid Thought.
 
 
@@ -176,7 +179,7 @@ I focus on understanding systems deeply, solving problems logically, and applyin
 |---|---|---|
 | [![Watch the video](https://img.youtube.com/vi/Iz2IWxTklxI/default.jpg)](https://youtu.be/Iz2IWxTklxI?si=HGCEPbnjPNNxbIRX) [![Watch the video](https://img.youtube.com/vi/aoMtd3-ZucM/default.jpg)](https://youtu.be/aoMtd3-ZucM)  [![Watch the video](https://img.youtube.com/vi/rZs4mnu1ZMg/default.jpg)](https://youtu.be/rZs4mnu1ZMg) | [![Watch the video](https://img.youtube.com/vi/BE9xyLz4iko/maxresdefault.jpg)](https://youtu.be/BE9xyLz4iko?si=fB1ltGTKeixyVAbO)  | [![Watch the video](https://img.youtube.com/vi/9zTJ3rU732c/default.jpg)](https://youtu.be/9zTJ3rU732c?si=qHefxlsGdJ_d95sK)   [![Watch the video](https://img.youtube.com/vi/NX3F7EdG9mM/default.jpg)](https://youtu.be/NX3F7EdG9mM) [![Watch the video](https://img.youtube.com/vi/Ivo3AJPYWD0/default.jpg)](https://youtu.be/Ivo3AJPYWD0) |
 
-
+</details>
 
 
 
@@ -246,6 +249,7 @@ https://docs.google.com/spreadsheets/d/e/2PACX-1vTNRg4Puo7QCFcm4ZXVF1dnX4qL6ofzO
 
 ![Watch the video](image/ai_roadmap.png)
 
+<details><summary>💼📈🤔 Thoughts About Work Culture Before Joining a Company 💼📈🏢🤝🧠 </summary>
 
 # 🏛️ History Studies – YouTube Courses & Documentaries.
 
@@ -298,7 +302,6 @@ Be the one who breaks the cycle, not continues it.](https://engineer-work.github
 | :---: | :---: |
 | [![Watch the video](https://img.youtube.com/vi/Y1mP5ZNRXQI/default.jpg)](https://youtu.be/Y1mP5ZNRXQI?si=LYJSRkkxo8Z8O3B1) [![Watch the video](https://img.youtube.com/vi/Yqvt8BwCYNk/default.jpg)](https://youtu.be/Yqvt8BwCYNk?si=PGz4uRNhOVNNin_0) [![Watch the video](https://img.youtube.com/vi/56kxFmRsVEY/default.jpg)](https://youtu.be/56kxFmRsVEY?si=Bs8Pd3mDXiVu97QE)  [![Watch the video](https://img.youtube.com/vi/5WfTEZJnv_8/default.jpg)](https://youtu.be/5WfTEZJnv_8?si=w5UooaqvHalTfJSY) [![Watch the video](https://img.youtube.com/vi/2w2D-a1JARw/default.jpg)](https://youtu.be/2w2D-a1JARw?si=67jhiG9hba3NvLab)  [![Watch the video](https://img.youtube.com/vi/PZrqoxRPzvE/default.jpg)](https://youtu.be/PZrqoxRPzvE?si=K9e1KX4w957lh1u3)| [![Watch the video](https://img.youtube.com/vi/ytjoo1nv85U/hqdefault.jpg)](https://www.youtube.com/playlist?list=PLVT77ZU-Oo_Y8DelmXv0P3eDeBB1td69R) |
 
-
-
-
 [![Watch the video](https://img.youtube.com/vi/-Q_fJWAoCy4/maxresdefault.jpg)](https://youtu.be/-Q_fJWAoCy4?si=61CwmbjSkouc6uZy&t=240)
+
+</details>
