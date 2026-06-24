@@ -22,7 +22,7 @@ I only like to do Work From Home 🏠💻, I don’t believe anyone 🤐 due to 
 
 ### I did not know about Research Papers 📄🔬📚 during School 🏫, College 🎓🏛️, and even while working in Software 💻👨‍💻🚀. Only at Age 30 🎂3️⃣0️⃣⏳ did I understand the true difference between an Engineer ⚙️🏗️🔧 and a Scientist 🔬🧪📚. 💡🧠✨🎯
 
-| | | |
+| [![](https://img.youtube.com/vi/i35XK8zMHlM/mqdefault.jpg)](https://youtu.be/i35XK8zMHlM?si=UkXsKlUGLZHoB4t3) | | |
 | --- | --- |  --- | 
 | [![](https://img.youtube.com/vi/sQ_7SSeU0ZE/mqdefault.jpg)](https://youtu.be/sQ_7SSeU0ZE?si=fMPs--SYVoG1eev0) | [![](https://img.youtube.com/vi/3S2d-KuljJ0/mqdefault.jpg)](https://youtu.be/3S2d-KuljJ0?si=pc8zI3IRBzYgX6C0) ||
 
