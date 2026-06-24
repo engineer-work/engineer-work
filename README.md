@@ -29,7 +29,7 @@ I only like to do Work From Home 🏠💻, I don’t believe anyone 🤐 due to 
 
 [![](https://img.youtube.com/vi/PoiWzItpSqk/maxresdefault.jpg)](https://youtu.be/PoiWzItpSqk?si=kMtSEU8nJguyE4F5)
 
-[![](https://img.youtube.com/vi/elR0lIH9zs4/hqdefault.jpg)](https://youtu.be/elR0lIH9zs4?si=ls6wQU9Kdo8MOfD-) |[![](https://img.youtube.com/vi/Iw3IWDNRyM8/hqdefault.jpg)](https://youtu.be/Iw3IWDNRyM8?si=RSY2UadCdIGnLZdN) | [![](https://img.youtube.com/vi/uCLIMHRed_o/hqdefault.jpg)](https://youtu.be/uCLIMHRed_o?si=VLU_vMfkJE25ORRx&t=126) | [![](https://img.youtube.com/vi/vWmV_pQ4gAk/hqdefault.jpg)](https://youtu.be/vWmV_pQ4gAk?si=kzBiR4JSNg10mtnh&t=215) |
+| [![](https://img.youtube.com/vi/lLF2OdwEpFs/hqdefault.jpg)](https://youtu.be/lLF2OdwEpFs?si=4enDOZ66yneuxDnX) | [![](https://img.youtube.com/vi/elR0lIH9zs4/hqdefault.jpg)](https://youtu.be/elR0lIH9zs4?si=ls6wQU9Kdo8MOfD-) |[![](https://img.youtube.com/vi/Iw3IWDNRyM8/hqdefault.jpg)](https://youtu.be/Iw3IWDNRyM8?si=RSY2UadCdIGnLZdN) | [![](https://img.youtube.com/vi/uCLIMHRed_o/hqdefault.jpg)](https://youtu.be/uCLIMHRed_o?si=VLU_vMfkJE25ORRx&t=126) | 
 | :---: | :---: | :---: | :---: |
 | [![](https://img.youtube.com/vi/udKE1ksKWDE/hqdefault.jpg)](https://youtu.be/udKE1ksKWDE?si=cVwZqLRZVTYqwGJT&t=97) | [![](https://img.youtube.com/vi/FpxiEnhTK44/hqdefault.jpg)](https://youtu.be/FpxiEnhTK44?si=MALxGOhKqHPdsUxT) | [![](https://img.youtube.com/vi/BGW-SaB_4cY/hqdefault.jpg)](https://youtu.be/BGW-SaB_4cY?si=fwCU3QHhHSvqrucs&t=86) | [![](https://img.youtube.com/vi/tLeBDumanoc/hqdefault.jpg)](https://youtu.be/tLeBDumanoc?si=RoHVT5apKdxWvwUt&t=24) |
 
