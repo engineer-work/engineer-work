@@ -20,7 +20,7 @@ I only like to do Work From Home 🏠💻, I don’t believe anyone 🤐 due to 
 
 <details> <summary>😅📚🔬⚙️➡️🎂3️⃣0️⃣ : I did not know the proper difference between Engineer and Scientist before age 30.</summary>
 
-### I not know about Research paper during school, college and even during work in software. At age 30 only I know the proper difference between Engineer and Scientist. 
+### I did not know about Research Papers 📄🔬📚 during School 🏫, College 🎓🏛️, and even while working in Software 💻👨‍💻🚀. Only at Age 30 🎂3️⃣0️⃣⏳ did I understand the true difference between an Engineer ⚙️🏗️🔧 and a Scientist 🔬🧪📚. 💡🧠✨🎯
 
 | | | 
 | --- | --- | 
