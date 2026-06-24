@@ -22,7 +22,7 @@ I only like to do Work From Home 🏠💻, I don’t believe anyone 🤐 due to 
 
 ### I did not know about Research Papers 📄🔬📚 during School 🏫, College 🎓🏛️, and even while working in Software 💻👨‍💻🚀. Only at Age 30 🎂3️⃣0️⃣⏳ did I understand the true difference between an Engineer ⚙️🏗️🔧 and a Scientist 🔬🧪📚. 💡🧠✨🎯
 
-| [![](https://img.youtube.com/vi/i35XK8zMHlM/mqdefault.jpg)](https://youtu.be/i35XK8zMHlM?si=UkXsKlUGLZHoB4t3) | [![](https://img.youtube.com/vi/BCHVJXEIa2E/mqdefault.jpg)](https://youtu.be/BCHVJXEIa2E?si=lADMAeisOEe0030G)| [![](https://img.youtube.com/vi/FdLnRrbBLHI/mqdefault.jpg)](https://youtu.be/FdLnRrbBLHI?si=L4tUOAiLL_GMJoxc)| |
+| [![](https://img.youtube.com/vi/i35XK8zMHlM/mqdefault.jpg)](https://youtu.be/i35XK8zMHlM?si=UkXsKlUGLZHoB4t3) | [![](https://img.youtube.com/vi/BCHVJXEIa2E/mqdefault.jpg)](https://youtu.be/BCHVJXEIa2E?si=lADMAeisOEe0030G)| [![](https://img.youtube.com/vi/FdLnRrbBLHI/mqdefault.jpg)](https://youtu.be/FdLnRrbBLHI?si=L4tUOAiLL_GMJoxc)| [![](https://img.youtube.com/vi/6LinWdp0OHI/mqdefault.jpg)](https://youtu.be/6LinWdp0OHI?si=sRYh86CtiTPVCyQ6) |
 | --- | --- |  --- | --- |
 | [![](https://img.youtube.com/vi/sQ_7SSeU0ZE/mqdefault.jpg)](https://youtu.be/sQ_7SSeU0ZE?si=fMPs--SYVoG1eev0) | [![](https://img.youtube.com/vi/3S2d-KuljJ0/mqdefault.jpg)](https://youtu.be/3S2d-KuljJ0?si=pc8zI3IRBzYgX6C0) | [![](https://img.youtube.com/vi/ra2nnZddNMU/mqdefault.jpg)](https://youtu.be/ra2nnZddNMU?si=_hZhLgqZ7YEb2DaU) | [![](https://img.youtube.com/vi/m63NMDtWguc/mqdefault.jpg)](https://youtu.be/m63NMDtWguc?si=aj98kfXWWuyxo1Iw) |
 
