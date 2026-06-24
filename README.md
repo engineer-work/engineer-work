@@ -24,9 +24,7 @@ I only like to do Work From Home 🏠💻, I don’t believe anyone 🤐 due to 
 
 | [![](https://img.youtube.com/vi/i35XK8zMHlM/mqdefault.jpg)](https://youtu.be/i35XK8zMHlM?si=UkXsKlUGLZHoB4t3) | | |
 | --- | --- |  --- | 
-| [![](https://img.youtube.com/vi/sQ_7SSeU0ZE/mqdefault.jpg)](https://youtu.be/sQ_7SSeU0ZE?si=fMPs--SYVoG1eev0) | [![](https://img.youtube.com/vi/3S2d-KuljJ0/mqdefault.jpg)](https://youtu.be/3S2d-KuljJ0?si=pc8zI3IRBzYgX6C0) ||
-
-
+| [![](https://img.youtube.com/vi/sQ_7SSeU0ZE/mqdefault.jpg)](https://youtu.be/sQ_7SSeU0ZE?si=fMPs--SYVoG1eev0) | [![](https://img.youtube.com/vi/3S2d-KuljJ0/mqdefault.jpg)](https://youtu.be/3S2d-KuljJ0?si=pc8zI3IRBzYgX6C0) | [![](https://img.youtube.com/vi/ra2nnZddNMU/mqdefault.jpg)](https://youtu.be/ra2nnZddNMU?si=_hZhLgqZ7YEb2DaU) |
 
 ----
 
