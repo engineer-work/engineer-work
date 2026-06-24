@@ -18,7 +18,7 @@ I only like to do Work From Home 🏠💻, I don’t believe anyone 🤐 due to 
 🎒🏫 [My College Life](https://engineer-work.github.io/Join-Company/college/pain-during-college.html)
 🎯🧭🚀🎒🏫 **My hobby** [Physics - MIT](https://engineer-e.github.io/Physics-MIT-University/)
 
-<details> <summary>😅📚🔬⚙️➡️🎂3️⃣0️⃣ : My Date of Birth = 18-06-1995. 😅 I don't know the proper difference between Engineer and Scientist before age 30.</summary>
+<details> <summary>😅📚🔬⚙️➡️🎂3️⃣0️⃣ : My D.O.B = 18-06-1995. 😅 I don't know the proper difference between Engineer and Scientist before age 30.</summary>
 
 ### I did not know about Research Papers 📄🔬📚 during School 🏫, College 🎓🏛️, and even while working in Software 💻👨‍💻🚀. Only at Age 30 🎂3️⃣0️⃣⏳ did I understand the true difference between an Engineer ⚙️🏗️🔧 and a Scientist 🔬🧪📚. 💡🧠✨🎯
 
