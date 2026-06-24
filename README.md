@@ -18,6 +18,8 @@ I only like to do Work From Home 🏠💻, I don’t believe anyone 🤐 due to 
 🎒🏫 [My College Life](https://engineer-work.github.io/Join-Company/college/pain-during-college.html)
 🎯🧭🚀🎒🏫 **My hobby** [Physics - MIT](https://engineer-e.github.io/Physics-MIT-University/)
 
+<details><summary>💼📈 My Work Thoughts</summary>
+
 ### My Life Path is like Combination of Hulk (Bruce Banner) & Venom (Eddie Brock)
 
 > No true (love , family , marriage , wife , friends) all acting to other only for **money** & **life**. So, I too act to other for **money** & **life** .
@@ -113,6 +115,8 @@ Before spending large amounts of money building hardware from scratch 🏭⚙️
 | 📈 **Financial Example**             | If a person has ₹8 crore in a fixed deposit at around 6–8% annual interest, they could earn approximately ₹4–5.3 lakh per month from interest alone. Because of this financial security, some people may work for goals beyond basic needs.                                                                                                     |
 | ❓ **Key Question**                   | So, how would you determine whether I am a good person 😊 or a bad person 😈?                                                                                                                                                                                                                                                                   |
 | ✅ **My Belief**                      | People should be judged by their actions 🤝, honesty 🗣️, willingness to learn 📚, respect 🙏 for others, and the positive impact 🌍✨ they create—not by their wealth 💰, status 👑, or background 🏠.                                                                                                                                          |
+
+</details>
 
 #### Cognitive decision-making process flowchart
 
