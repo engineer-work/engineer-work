@@ -22,8 +22,12 @@ I only like to do Work From Home 🏠💻, I don’t believe anyone 🤐 due to 
 
 ### My Life Path is like Combination of Hulk (Bruce Banner) & Venom (Eddie Brock)
 
-> No true (love , family , marriage , wife , friends) all acting to other only for **money** & **life**. So, I too act to other for **money** & **life** .
- 
+😐💭 No one is interested in spending time with others. Then why call it ❤️ love or 💍 marriage? Just for 💰 money they act. I am also not interested in spending time with others.
+
+🚫❤️ No true love, 👨‍👩‍👧‍👦 family, 💍 marriage, 👰 wife, or 🤝 friends. All are just acting 🎭 for 💰 money and 🧬 survival.
+
+🎭💰🧬 So, I too act with others for 💰 money and 🧬 life.
+
 [![](https://img.youtube.com/vi/1CMeJl43djE/hqdefault.jpg)](https://youtu.be/1CMeJl43djE?si=rE51NjcQ62oGVYJJ) |[![](https://img.youtube.com/vi/hre-fmwsUbE/hqdefault.jpg)](https://youtu.be/hre-fmwsUbE?si=6u7UJz8ZqvOWzn6E) | [![](https://img.youtube.com/vi/uCLIMHRed_o/hqdefault.jpg)](https://youtu.be/uCLIMHRed_o?si=VLU_vMfkJE25ORRx&t=126) | [![](https://img.youtube.com/vi/vWmV_pQ4gAk/hqdefault.jpg)](https://youtu.be/vWmV_pQ4gAk?si=kzBiR4JSNg10mtnh&t=215) |
 | :---: | :---: | :---: | :---: |
 | [![](https://img.youtube.com/vi/udKE1ksKWDE/hqdefault.jpg)](https://youtu.be/udKE1ksKWDE?si=cVwZqLRZVTYqwGJT&t=97) | [![](https://img.youtube.com/vi/FpxiEnhTK44/hqdefault.jpg)](https://youtu.be/FpxiEnhTK44?si=MALxGOhKqHPdsUxT) | [![](https://img.youtube.com/vi/BGW-SaB_4cY/hqdefault.jpg)](https://youtu.be/BGW-SaB_4cY?si=fwCU3QHhHSvqrucs&t=86) | [![](https://img.youtube.com/vi/tLeBDumanoc/hqdefault.jpg)](https://youtu.be/tLeBDumanoc?si=RoHVT5apKdxWvwUt&t=24) |
