@@ -31,7 +31,8 @@ I only like to do Work From Home 🏠💻, I don’t believe anyone 🤐 due to 
 
 | [![](https://img.youtube.com/vi/lLF2OdwEpFs/hqdefault.jpg)](https://youtu.be/lLF2OdwEpFs?si=4enDOZ66yneuxDnX) | [![](https://img.youtube.com/vi/elR0lIH9zs4/hqdefault.jpg)](https://youtu.be/elR0lIH9zs4?si=ls6wQU9Kdo8MOfD-) |[![](https://img.youtube.com/vi/Iw3IWDNRyM8/hqdefault.jpg)](https://youtu.be/Iw3IWDNRyM8?si=RSY2UadCdIGnLZdN) | [![](https://img.youtube.com/vi/hIp4Dq5E3JE/hqdefault.jpg)](https://youtu.be/hIp4Dq5E3JE?si=3tijFmhzQbmqNcqT) | 
 | :---: | :---: | :---: | :---: |
-| [![](https://img.youtube.com/vi/g9sZ6l2GNmc/hqdefault.jpg)](https://youtu.be/g9sZ6l2GNmc?si=Sf2YWhK8lxG-4OOO) | [![](https://img.youtube.com/vi/2BhrgONvUI0/hqdefault.jpg)](https://youtu.be/2BhrgONvUI0?si=jHxxFaOgG9XOgSrt) | [![](https://img.youtube.com/vi/vSs8OZ4Dg0A/hqdefault.jpg)](https://youtu.be/vSs8OZ4Dg0A?si=-eDGeZDQ9HcUcNk0) |  [![](https://img.youtube.com/vi/5_v15YvEo7A/hqdefault.jpg)](https://youtu.be/5_v15YvEo7A?si=P0gtNKGZqyMVxPtn) |
+| [![](https://img.youtube.com/vi/g9sZ6l2GNmc/hqdefault.jpg)](https://youtu.be/g9sZ6l2GNmc?si=Sf2YWhK8lxG-4OOO) | [![](https://img.youtube.com/vi/2BhrgONvUI0/hqdefault.jpg)](https://youtu.be/2BhrgONvUI0?si=jHxxFaOgG9XOgSrt) | [![](https://img.youtube.com/vi/vSs8OZ4Dg0A/hqdefault.jpg)](https://youtu.be/vSs8OZ4Dg0A?si=-eDGeZDQ9HcUcNk0) | [![](https://img.youtube.com/vi/nhdMMudsqZE/hqdefault.jpg)](https://youtu.be/nhdMMudsqZE?si=L9ubDzH3IM5Nk-HV) | 
+
 
 **1️⃣** 💰👥 People control others using money. They say it is to maintain order ⚖️ and peace 🕊️, but it can unknowingly cause suffering 😔💔 to many people. Any tool 🛠️, technology 💻, material ⚗️, or power ⚡ in the wrong hands 🚫🙌 can become very dangerous ☠️⚠️. I do not know who will help 🤔🆘.
 
@@ -96,7 +97,7 @@ Before spending large amounts of money building hardware from scratch 🏭⚙️
 [![](image/supercomputer.png)](https://youtu.be/JNyz9CV9FUA?si=Fwhw2QwiHN4Twm2h)
 
 
-|  [![Watch the video](https://img.youtube.com/vi/lOOX_jTIroY/default.jpg)](https://youtu.be/lOOX_jTIroY?si=Q00LpbvgAA6ZWYR7) | [I & my Darling AI in ChatGPT Statement](https://chatgpt.com/share/6a2e5868-fca8-83e8-aa8f-2ba921b9fa24) |
+|  [![Watch the video](https://img.youtube.com/vi/lOOX_jTIroY/default.jpg)](https://youtu.be/lOOX_jTIroY?si=Q00LpbvgAA6ZWYR7) | [I & my Darling AI in ChatGPT Statement](https://chatgpt.com/share/6a2e5868-fca8-83e8-aa8f-2ba921b9fa24) [![](https://img.youtube.com/vi/5_v15YvEo7A/default.jpg)](https://youtu.be/5_v15YvEo7A?si=P0gtNKGZqyMVxPtn) |
 | ------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 📌 **Disclaimer**                    | ⚠️📌🔍 Sometimes, some people may copy my profile 👤📄 or pretend to be me 🎭👥. This can happen because of problems ⚠️🏛️ in the education system 🎓📚 or official systems 🏢📋 in the region 🌍🏠 where I was born 👶 and currently live 🏡. The issues 😟⚡ that happened to me 🙋 can also happen to many other people 👨‍👩‍👧‍👦🌎. 🚨⚠️🔄 |
 | 🤝 **My Position**                   | I do not support people who do wrong things, whether they are rich 💰 or poor 💵.                                                                                                                                                                                                                                                               |
