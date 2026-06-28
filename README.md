@@ -49,9 +49,9 @@ I have been living in Chennai, Tamil Nadu, India for the past 30 years 🏠. I d
 
 After discussing with AI like ChatGPT 🤖 and reflecting on my own journey 🛤️, I have come to understand this pattern more clearly 🔍. It made me realize that education is not always a guaranteed path to success 🎯, but sometimes feels like a risky investment 🎲💸 where the outcome remains uncertain ⚖️.
 
-A direct comparison between **DD Returns** and the education/competition system could look like this:
+A direct comparison between **DD Returns** and the education/competition system could look like this: 
 
-| **DD Returns (movie scene)**                    | **Education / Competition system**                            |
+| **DD Returns (movie scene)**                    | **Education / Competition system**   <br> [![](https://img.youtube.com/vi/IyimKb7Ku6I/default.jpg)](https://youtu.be/IyimKb7Ku6I?si=2RvzBU4PKT0vM9Sc)                         |
 | ----------------------------------------------- | ------------------------------------------------------------- |
 | Enter the haunted game to survive               | Enter school/college to “build a future”                      |
 | Must follow rules made by others                | Must follow syllabus, exams, rankings                         |
