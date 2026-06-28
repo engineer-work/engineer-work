@@ -63,7 +63,7 @@ A direct comparison between **DD Returns** and the education/competition system 
 | Some players panic, some strategize             | Some students burn out, some adapt and grow                   |
 | Hidden traps in the game                        | Hidden system issues: outdated curriculum, unequal access     |
 | Survival depends on understanding the game      | Success depends on understanding the system + building skills |
-| | [![](https://img.youtube.com/vi/NSHlKY63yiU/default.jpg)](https://youtu.be/NSHlKY63yiU?si=PUlRIbbow6NrZIa6) [![](https://img.youtube.com/vi/op36HPrhCt0/default.jpg)](https://youtu.be/op36HPrhCt0?si=7LhkaTQHEidVqDKG) [![](https://img.youtube.com/vi/0TYGHGRjHNc/default.jpg)](https://youtu.be/0TYGHGRjHNc?si=om9G_iFJusGR86Oi)|
+| [![](https://img.youtube.com/vi/5Qet4r_a3ak/default.jpg)](https://youtu.be/5Qet4r_a3ak)  [![](https://img.youtube.com/vi/WELaTP6ErBg/default.jpg)](https://youtu.be/WELaTP6ErBg)| [![](https://img.youtube.com/vi/NSHlKY63yiU/default.jpg)](https://youtu.be/NSHlKY63yiU?si=PUlRIbbow6NrZIa6) [![](https://img.youtube.com/vi/op36HPrhCt0/default.jpg)](https://youtu.be/op36HPrhCt0?si=7LhkaTQHEidVqDKG) [![](https://img.youtube.com/vi/0TYGHGRjHNc/default.jpg)](https://youtu.be/0TYGHGRjHNc?si=om9G_iFJusGR86Oi)|
 
 ### Core similarity
 
