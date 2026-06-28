@@ -87,7 +87,8 @@ A movie game is designed for elimination.
 Real life can allow **multiple re-entries, alternate paths, and recovery**.
 
 ---
-# What you think to solve this problem not to happen again in this earth realm?
+<details>
+<summary>What you think to solve this problem not to happen again in this earth realm?</summary>      
 
 There probably isn't a single solution that prevents this problem everywhere on Earth forever. Human societies differ, and education systems have different goals and constraints. But there are reforms that many experts believe could reduce the gap between education costs and real-world opportunities.
 
@@ -108,6 +109,8 @@ The goal is not to eliminate competition entirely—competition exists in many a
 One principle that captures this idea is:
 
 > 🌍📚 **Education should not be a gamble where students risk their future for an uncertain reward; it should be an opportunity where every learner gains valuable knowledge, practical skills, and a fair chance to build a meaningful life.** 🤝🎓💡🌱
+
+</details>
 
 ---- 
 
@@ -140,6 +143,10 @@ In such a society, **cooperation becomes the foundation**, while healthy competi
 
 ----
 
+# Due to the competition innocent people struggle lot, How to Solve it? 
+
+
+----
 Based on the whole discussion, the cleanest approach is to separate **parent roles** from **specializations**.
 
 Many of the titles we discussed (Applied Physicist, RF Engineer, VLSI Engineer, Frontend Developer, Systems Engineer, etc.) are specializations. The parent roles are much fewer.
