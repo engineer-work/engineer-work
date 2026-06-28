@@ -51,7 +51,7 @@ After discussing with AI like ChatGPT 🤖 and reflecting on my own journey 🛤
 
 A direct comparison between **DD Returns** and the education/competition system could look like this: 
 
-| **DD Returns (movie scene)** <br> [![](https://img.youtube.com/vi/RllpOnKHdfY/default.jpg)](https://youtu.be/RllpOnKHdfY?si=XKEFu_wF0qxMUp1m)                    | **Education / Competition system**   <br> [![](https://img.youtube.com/vi/IyimKb7Ku6I/default.jpg)](https://youtu.be/IyimKb7Ku6I?si=2RvzBU4PKT0vM9Sc)   [![](https://img.youtube.com/vi/TXgwV76mczc/default.jpg)](https://youtu.be/TXgwV76mczc?si=Hipk_XDtuVxMT1Vb)  [![](https://img.youtube.com/vi/L6POR3HSy5E/default.jpg)](https://youtu.be/L6POR3HSy5E?si=BwYFEyUfb_TZjkRM) |
+| **DD Returns (movie scene)** <br> [![](https://img.youtube.com/vi/RllpOnKHdfY/default.jpg)](https://youtu.be/RllpOnKHdfY?si=XKEFu_wF0qxMUp1m) [![](https://img.youtube.com/vi/fF441_HunUs/default.jpg)](https://youtu.be/fF441_HunUs?si=Bx0PWXGVKw9Be4PC)                   | **Education / Competition system**   <br> [![](https://img.youtube.com/vi/IyimKb7Ku6I/default.jpg)](https://youtu.be/IyimKb7Ku6I?si=2RvzBU4PKT0vM9Sc)   [![](https://img.youtube.com/vi/TXgwV76mczc/default.jpg)](https://youtu.be/TXgwV76mczc?si=Hipk_XDtuVxMT1Vb)  [![](https://img.youtube.com/vi/L6POR3HSy5E/default.jpg)](https://youtu.be/L6POR3HSy5E?si=BwYFEyUfb_TZjkRM) |
 | :---: | :---: |
 | Enter the haunted game to survive               | Enter school/college to “build a future”                      |
 | Must follow rules made by others                | Must follow syllabus, exams, rankings                         |
