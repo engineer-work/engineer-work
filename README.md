@@ -86,8 +86,11 @@ A movie game is designed for elimination.
 Real life can allow **multiple re-entries, alternate paths, and recovery**.
 
 ---
+
 <details>
 <summary>What you think to solve this problem not to happen again in this earth realm?</summary>      
+
+# What you think to solve this problem not to happen again in this earth realm?
 
 There probably isn't a single solution that prevents this problem everywhere on Earth forever. Human societies differ, and education systems have different goals and constraints. But there are reforms that many experts believe could reduce the gap between education costs and real-world opportunities.
 
@@ -115,6 +118,9 @@ One principle that captures this idea is:
 
 <details>
 <summary> How to  change this Earth Realm without any competition live happy and peace life?</summary>
+
+# How to  change this Earth Realm without any competition live happy and peace life?
+
 This is a profound question. The idea of a world with **no competition, where everyone lives happily and peacefully**, has been explored by philosophers, religious traditions, economists, and political thinkers for thousands of years.
 
 A few principles could move society closer to that vision:
@@ -145,6 +151,8 @@ In such a society, **cooperation becomes the foundation**, while healthy competi
 
 <details>     
 <summary>Due to the competition innocent people struggle lot, How to Solve it?  </summary>      
+
+# Due to the competition innocent people struggle lot, How to Solve it?
 
 Many innocent people do struggle because of intense competition—for education, jobs, housing, healthcare, or income. The goal is not necessarily to remove all competition, but to reduce unnecessary hardship and make opportunities fairer.
 
