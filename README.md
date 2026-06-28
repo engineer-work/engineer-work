@@ -8,7 +8,6 @@
 | --- | --- |
 | [![Watch the video](https://img.youtube.com/vi/nBp31QGN9iw/hqdefault.jpg)](https://youtu.be/nBp31QGN9iw?si=RevwfsP0IUKQCeDN) |⚠️ Disclaimer: I prefer to work from home 🏠 if I join any company. I do not like working closely with others 👥 because of my past experiences 💔. Many girls 👩, boys 👦, men 👨, women 👩, seniors 🎓, and junior colleagues 🤝 have cheated me 😞 for their own needs 💰, power 👑, status 🏆, or personal benefits 📈. In the name of love ❤️ and marriage 💍, such betrayals can happen because of money 💸, power ⚡, and competition 🥊. This problem can happen to good boys 👦, men 👨, girls 👧, and women 👩 as well. So, I need to protect my safety 🛡️, peace ☮️, and personal boundaries 🚧.|
 
-
 ✨ *Profile* –
 📅 [Planner App](https://engineer-work.github.io/planner-app/) 📌,
 📊🔥 [My Learning Habit](https://docs.google.com/spreadsheets/d/e/2PACX-1vTNRg4Puo7QCFcm4ZXVF1dnX4qL6ofzOsO__GwuHJr-yke0QUXZtI51cr9Mt8Ui7QSoKTzOlr_SuB-G/pubhtml?gid=1898283119&single=true) 📈,
@@ -114,8 +113,8 @@ One principle that captures this idea is:
 
 ---- 
 
-# How to  change this Earth Realm without any competition live happy and peace life?
-
+<details>
+<summary> How to  change this Earth Realm without any competition live happy and peace life?</summary>
 This is a profound question. The idea of a world with **no competition, where everyone lives happily and peacefully**, has been explored by philosophers, religious traditions, economists, and political thinkers for thousands of years.
 
 A few principles could move society closer to that vision:
@@ -140,7 +139,7 @@ A more realistic long-term goal is:
 
 In such a society, **cooperation becomes the foundation**, while healthy competition remains optional rather than necessary for survival.
 
-
+</details>
 ----
 
 # Due to the competition innocent people struggle lot, How to Solve it? 
