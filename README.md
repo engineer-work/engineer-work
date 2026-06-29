@@ -631,7 +631,7 @@ I focus on understanding systems deeply, solving problems logically, and applyin
 - Flutter, Android (Java)
 
 ### 🖥️ Graphics & Simulation
-- [OpenGL (C++)](https://github.com/engineer-e/Computer-Graphics-with-Modern-OpenGL-and-Cpp)
+- [OpenGL (C++)](https://github.com/engineer-e/Computer-Graphics-with-Modern-OpenGL-and-Cpp/blob/master/README.md)
 - WebGL (JavaScript)
 
 ### 🗄️ Database
