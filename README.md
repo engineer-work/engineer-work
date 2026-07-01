@@ -42,7 +42,9 @@
 
 
 
-# Education is Gambling 
+# Education is Gambling [![](https://img.youtube.com/vi/Ts80ttI7pI8/default.jpg)](https://youtu.be/Ts80ttI7pI8?si=orJLKeeOknWZZRrd)
+
+
 
 I have been living in Chennai, Tamil Nadu, India for the past 30 years 🏠. I did not realize that this kind of “gambling” 🎲 in education 🎓 was happening. But this problem has happened to me 💔. I do not know whether it is the same in other regions 🌍 or other states of India 🇮🇳, but in my life, I have experienced that education can sometimes feel like gambling 🎲📚 — investing time ⏳, money 💰, and hope 🤞 without any guaranteed result.
 
