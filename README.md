@@ -42,7 +42,7 @@
 
 
 
-# Education is Gambling [![](https://img.youtube.com/vi/Ts80ttI7pI8/default.jpg)](https://youtu.be/Ts80ttI7pI8?si=orJLKeeOknWZZRrd)
+# [![](https://img.youtube.com/vi/Ts80ttI7pI8/default.jpg)](https://youtu.be/Ts80ttI7pI8?si=orJLKeeOknWZZRrd) Education is Gambling
 
 
 
