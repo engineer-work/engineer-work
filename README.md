@@ -739,10 +739,11 @@ Be the one who breaks the cycle, not continues it.](https://engineer-work.github
 
 </details>
 
-# Reference 
+<details>
+ <summary>🤔 Reference  Links </summary>
 
-Here is the **deduplicated master list (82 unique links)** in the format you requested:
-
+# 🤔 Reference  Links
+ 
 | S.No | Link                                                                                               | Usefulness / Field / Best Use                                            |
 | ---- | -------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------ |
 | 1    | [arXiv](https://arxiv.org?utm_source=chatgpt.com)                                                  | Core theoretical research in AI, math, CS, physics. Best starting point. |
@@ -828,5 +829,6 @@ Here is the **deduplicated master list (82 unique links)** in the format you req
 | 81   | [USENIX](https://www.usenix.org?utm_source=chatgpt.com)                                            | Systems, OS, cloud, infrastructure.                                      |
 | 82   | [NDSS Symposium](https://www.ndss-symposium.org?utm_source=chatgpt.com)                            | Cybersecurity and network defense.                                       |
 
+</details>
 
 
