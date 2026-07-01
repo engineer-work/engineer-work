@@ -739,5 +739,94 @@ Be the one who breaks the cycle, not continues it.](https://engineer-work.github
 
 </details>
 
+# Reference 
+
+Here is the **deduplicated master list (82 unique links)** in the format you requested:
+
+| S.No | Link                                                                                               | Usefulness / Field / Best Use                                            |
+| ---- | -------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------ |
+| 1    | [arXiv](https://arxiv.org?utm_source=chatgpt.com)                                                  | Core theoretical research in AI, math, CS, physics. Best starting point. |
+| 2    | [bioRxiv](https://www.biorxiv.org?utm_source=chatgpt.com)                                          | Biology, genomics, biotech preprints.                                    |
+| 3    | [medRxiv](https://www.medrxiv.org?utm_source=chatgpt.com)                                          | Medical research, clinical devices, healthcare studies.                  |
+| 4    | [ChemRxiv](https://chemrxiv.org?utm_source=chatgpt.com)                                            | Chemistry, reactions, material synthesis.                                |
+| 5    | [TechRxiv](https://www.techrxiv.org?utm_source=chatgpt.com)                                        | Engineering, electronics, embedded systems.                              |
+| 6    | [EarthArXiv](https://eartharxiv.org?utm_source=chatgpt.com)                                        | Earth sciences, geophysics, climate engineering.                         |
+| 7    | [PsyArXiv](https://psyarxiv.com?utm_source=chatgpt.com)                                            | Psychology, cognition, behavioral sciences.                              |
+| 8    | [OSF Preprints](https://osf.io/preprints?utm_source=chatgpt.com)                                   | Multi-disciplinary open preprints.                                       |
+| 9    | [ACM Digital Library](https://dl.acm.org?utm_source=chatgpt.com)                                   | Computer science, algorithms, software systems.                          |
+| 10   | [IEEE Xplore](https://ieeexplore.ieee.org?utm_source=chatgpt.com)                                  | Electronics, circuits, robotics, semiconductors.                         |
+| 11   | [SpringerLink](https://link.springer.com?utm_source=chatgpt.com)                                   | Books and journals across all engineering fields.                        |
+| 12   | [Nature Portfolio](https://www.nature.com?utm_source=chatgpt.com)                                  | High-impact science and breakthrough research.                           |
+| 13   | [ScienceDirect](https://www.sciencedirect.com?utm_source=chatgpt.com)                              | Applied engineering, chemistry, medicine.                                |
+| 14   | [DOAJ](https://doaj.org?utm_source=chatgpt.com)                                                    | Open-access journal discovery.                                           |
+| 15   | [Semantic Scholar](https://www.semanticscholar.org?utm_source=chatgpt.com)                         | Research discovery and citation mapping.                                 |
+| 16   | [OpenAlex](https://openalex.org?utm_source=chatgpt.com)                                            | Research metadata and ecosystem tracking.                                |
+| 17   | [CORE](https://core.ac.uk?utm_source=chatgpt.com)                                                  | Aggregated open-access papers.                                           |
+| 18   | [Zenodo](https://zenodo.org?utm_source=chatgpt.com)                                                | Datasets, code, reproducibility.                                         |
+| 19   | [HAL Archive](https://hal.science?utm_source=chatgpt.com)                                          | Open European academic archive.                                          |
+| 20   | [SSRN](https://www.ssrn.com?utm_source=chatgpt.com)                                                | Social science, finance, economics.                                      |
+| 21   | [DBLP](https://dblp.org?utm_source=chatgpt.com)                                                    | Computer science bibliography and indexing.                              |
+| 22   | [Papers With Code](https://paperswithcode.com?utm_source=chatgpt.com)                              | AI research with implementation code.                                    |
+| 23   | [JMLR](https://www.jmlr.org?utm_source=chatgpt.com)                                                | Machine learning theory.                                                 |
+| 24   | [Google Patents](https://patents.google.com?utm_source=chatgpt.com)                                | Real-world inventions and industrial blueprints.                         |
+| 25   | [USPTO](https://www.uspto.gov?utm_source=chatgpt.com)                                              | Official US patent documentation.                                        |
+| 26   | [WIPO Patentscope](https://patentscope.wipo.int?utm_source=chatgpt.com)                            | Global patent search.                                                    |
+| 27   | [ISO Standards](https://www.iso.org?utm_source=chatgpt.com)                                        | Global industrial and engineering standards.                             |
+| 28   | [IEC Standards](https://www.iec.ch?utm_source=chatgpt.com)                                         | Electrical and electronics standards.                                    |
+| 29   | [NIST Publications](https://www.nist.gov/publications?utm_source=chatgpt.com)                      | Precision engineering, measurements, standards.                          |
+| 30   | [ASML Technology](https://www.asml.com/en/company/technology?utm_source=chatgpt.com)               | Semiconductor lithography and chip manufacturing.                        |
+| 31   | [imec Research](https://www.imec-int.com?utm_source=chatgpt.com)                                   | Advanced semiconductor R&D.                                              |
+| 32   | [SPIE Digital Library](https://www.spiedigitallibrary.org?utm_source=chatgpt.com)                  | Optics, photonics, lithography.                                          |
+| 33   | [SEMATECH](https://www.sematech.org?utm_source=chatgpt.com)                                        | Semiconductor manufacturing ecosystem.                                   |
+| 34   | [IEEE Electron Devices Society](https://eds.ieee.org?utm_source=chatgpt.com)                       | Semiconductor devices and nanoelectronics.                               |
+| 35   | [ASME Digital Collection](https://asmedigitalcollection.asme.org?utm_source=chatgpt.com)           | Mechanical engineering and machines.                                     |
+| 36   | [SAE Mobilus](https://saemobilus.sae.org?utm_source=chatgpt.com)                                   | Automotive and transport systems.                                        |
+| 37   | [PubMed Central](https://pmc.ncbi.nlm.nih.gov?utm_source=chatgpt.com)                              | Biomedical papers, clinical studies.                                     |
+| 38   | [Europe PMC](https://europepmc.org?utm_source=chatgpt.com)                                         | Biomedical literature and life sciences.                                 |
+| 39   | [NCBI](https://www.ncbi.nlm.nih.gov?utm_source=chatgpt.com)                                        | Genomics, DNA, proteins.                                                 |
+| 40   | [EMBL-EBI](https://www.ebi.ac.uk?utm_source=chatgpt.com)                                           | Bioinformatics and molecular databases.                                  |
+| 41   | [Protein Data Bank](https://www.rcsb.org?utm_source=chatgpt.com)                                   | Protein structures, molecular engineering.                               |
+| 42   | [UniProt](https://www.uniprot.org?utm_source=chatgpt.com)                                          | Protein sequence database.                                               |
+| 43   | [ACS Publications](https://pubs.acs.org?utm_source=chatgpt.com)                                    | Chemistry and material science.                                          |
+| 44   | [RSC Publishing](https://pubs.rsc.org?utm_source=chatgpt.com)                                      | Chemistry and molecular materials.                                       |
+| 45   | [Wiley Online Library](https://onlinelibrary.wiley.com?utm_source=chatgpt.com)                     | Science, engineering, chemistry journals.                                |
+| 46   | [Materials Project](https://materialsproject.org?utm_source=chatgpt.com)                           | Computational material discovery.                                        |
+| 47   | [NanoHub](https://nanohub.org?utm_source=chatgpt.com)                                              | Nanotechnology and simulations.                                          |
+| 48   | [SIGGRAPH Papers](https://dl.acm.org/conference/siggraph?utm_source=chatgpt.com)                   | Computer graphics, rendering, animation.                                 |
+| 49   | [Eurographics Digital Library](https://diglib.eg.org?utm_source=chatgpt.com)                       | 3D graphics, visualization.                                              |
+| 50   | [Computer Graphics Forum](https://onlinelibrary.wiley.com/journal/14678659?utm_source=chatgpt.com) | Academic graphics research.                                              |
+| 51   | [University of Utah Graphics Lab](https://graphics.cs.utah.edu?utm_source=chatgpt.com)             | Historical graphics origins, ray tracing.                                |
+| 52   | [Utah Ray Tracing Center](https://sci.utah.edu/ray-tracing-coe?utm_source=chatgpt.com)             | Advanced ray tracing.                                                    |
+| 53   | [Khronos Group](https://www.khronos.org?utm_source=chatgpt.com)                                    | API standards: OpenGL, Vulkan, OpenCL.                                   |
+| 54   | [OpenGL Registry](https://registry.khronos.org/OpenGL?utm_source=chatgpt.com)                      | Official OpenGL specifications.                                          |
+| 55   | [OpenCL Registry](https://registry.khronos.org/OpenCL?utm_source=chatgpt.com)                      | Official OpenCL specifications.                                          |
+| 56   | [OpenAL Soft](https://openal-soft.org?utm_source=chatgpt.com)                                      | Audio engine systems.                                                    |
+| 57   | [CVF Open Access](https://openaccess.thecvf.com?utm_source=chatgpt.com)                            | Computer vision, deep learning vision.                                   |
+| 58   | [LLVM Publications](https://llvm.org/pubs?utm_source=chatgpt.com)                                  | Compiler architecture and optimization.                                  |
+| 59   | [PLDI Proceedings](https://dl.acm.org/conference/pldi?utm_source=chatgpt.com)                      | Programming language implementation.                                     |
+| 60   | [POPL Proceedings](https://dl.acm.org/conference/popl?utm_source=chatgpt.com)                      | Programming language theory.                                             |
+| 61   | [CAV Conference](https://i-cav.org?utm_source=chatgpt.com)                                         | Formal verification.                                                     |
+| 62   | [ISCA Proceedings](https://isca-sigarch.org?utm_source=chatgpt.com)                                | CPU architecture.                                                        |
+| 63   | [MICRO Proceedings](https://www.microarch.org?utm_source=chatgpt.com)                              | Microarchitecture.                                                       |
+| 64   | [HPCA](https://hpca-conf.org?utm_source=chatgpt.com)                                               | High-performance computing architecture.                                 |
+| 65   | [DATE Conference](https://www.date-conference.com?utm_source=chatgpt.com)                          | Electronic design automation.                                            |
+| 66   | [ICCAD](https://iccad.com?utm_source=chatgpt.com)                                                  | Chip design automation.                                                  |
+| 67   | [IEEE Robotics and Automation Society](https://www.ieee-ras.org?utm_source=chatgpt.com)            | Robotics research.                                                       |
+| 68   | [ICRA](https://www.ieee-ras.org/conferences-workshops/fully-sponsored/icra?utm_source=chatgpt.com) | Robotics control and systems.                                            |
+| 69   | [IROS](https://www.iros.org?utm_source=chatgpt.com)                                                | Intelligent robots.                                                      |
+| 70   | [Robotics Proceedings RSS](https://roboticsproceedings.org?utm_source=chatgpt.com)                 | Robotics systems and theory.                                             |
+| 71   | [MICCAI](https://www.miccai.org?utm_source=chatgpt.com)                                            | Medical imaging and AI.                                                  |
+| 72   | [GROMACS Publications](https://www.gromacs.org/publications?utm_source=chatgpt.com)                | Molecular simulations, drug discovery.                                   |
+| 73   | [DeepMind AlphaFold](https://deepmind.google/science/alphafold?utm_source=chatgpt.com)             | AI-based protein folding.                                                |
+| 74   | [INSPIRE HEP](https://inspirehep.net?utm_source=chatgpt.com)                                       | High-energy physics.                                                     |
+| 75   | [NASA ADS](https://ui.adsabs.harvard.edu?utm_source=chatgpt.com)                                   | Astronomy and astrophysics.                                              |
+| 76   | [Quantum Journal](https://quantum-journal.org?utm_source=chatgpt.com)                              | Quantum computing and quantum theory.                                    |
+| 77   | [AIP Publishing](https://pubs.aip.org?utm_source=chatgpt.com)                                      | Applied physics.                                                         |
+| 78   | [IOPscience](https://iopscience.iop.org?utm_source=chatgpt.com)                                    | Physics journals and engineering physics.                                |
+| 79   | [OSA Optica Publishing](https://opg.optica.org?utm_source=chatgpt.com)                             | Optics and photonics.                                                    |
+| 80   | [AIAA](https://arc.aiaa.org?utm_source=chatgpt.com)                                                | Aerospace engineering.                                                   |
+| 81   | [USENIX](https://www.usenix.org?utm_source=chatgpt.com)                                            | Systems, OS, cloud, infrastructure.                                      |
+| 82   | [NDSS Symposium](https://www.ndss-symposium.org?utm_source=chatgpt.com)                            | Cybersecurity and network defense.                                       |
+
 
 
