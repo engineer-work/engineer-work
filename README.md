@@ -1105,5 +1105,7 @@ Be the one who breaks the cycle, not continues it.](https://engineer-work.github
 
 ---
 
+[![](https://raw.githubusercontent.com/engineer-work/engineer-work/refs/heads/main/image/hulk%20the%20savior.jpeg)](https://youtu.be/VtSM26dLgr0?si=HhGLIrbNfis5OQ_Z&t=107)
+
  
 </details>
