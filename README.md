@@ -864,7 +864,6 @@ Be the one who breaks the cycle, not continues it.](https://engineer-work.github
 1. ✨ [https://ece.ufl.edu/research/](https://ece.ufl.edu/research/)
 2. ✨ [https://sci.utah.edu/dsci/](https://sci.utah.edu/dsci/)
 
-
- 
+[![Watch the video](https://img.youtube.com/vi/3u_RLP396l4/maxresdefault.jpg)](https://youtu.be/3u_RLP396l4?si=fJGNevSyjZwIw-IS)
 </details>
 
