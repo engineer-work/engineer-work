@@ -836,8 +836,8 @@ Be the one who breaks the cycle, not continues it.](https://engineer-work.github
 
 # The People I Watch, and eager to Talk to them. 😍👀💬✨
 
-1. [ece.ufl.edu/research/](https://ece.ufl.edu/research/)
-
+1. ✨ [https://ece.ufl.edu/research/](https://ece.ufl.edu/research/)
+2. ✨ [https://sci.utah.edu/dsci/](https://sci.utah.edu/dsci/)
 
 
  
