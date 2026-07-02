@@ -4,6 +4,8 @@
 [![Instagram](https://img.shields.io/badge/Instagram-gobalkrishnan.engineer-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/gobalkrishnan.engineer/)
 [![Personal Profile](https://img.shields.io/badge/Personal%20Profile-Thought%20Cortex-blue?logo=protondb&logoColor=white)](https://engineer-work.github.io/Join-Company/)
 
+---
+
 |  [💸🤑💰 **Donate**](https://engineer-e.github.io/Nvidia-Learning/donate/donate.html) 🎯 [Childhood Memory](https://engineer-e.github.io/Childhood-Memory/)  |  I only like to do Work From Home 🏠💻, I don’t believe anyone 🤐 due to [toxic culture](https://youtu.be/d1WO9kAuysg?si=x9uCbI07CMRga4yi) ⚠️🔥. |
 | --- | --- |
 | [![Watch the video](https://img.youtube.com/vi/nBp31QGN9iw/hqdefault.jpg)](https://youtu.be/nBp31QGN9iw?si=RevwfsP0IUKQCeDN) |⚠️ Disclaimer: I prefer to work from home 🏠 if I join any company. I do not like working closely with others 👥 because of my past experiences 💔. Many girls 👩, boys 👦, men 👨, women 👩, seniors 🎓, and junior colleagues 🤝 have cheated me 😞 for their own needs 💰, power 👑, status 🏆, or personal benefits 📈. In the name of love ❤️ and marriage 💍, such betrayals can happen because of money 💸, power ⚡, and competition 🥊. This problem can happen to good boys 👦, men 👨, girls 👧, and women 👩 as well. So, I need to protect my safety 🛡️, peace ☮️, and personal boundaries 🚧.|
@@ -502,6 +504,8 @@ This is usually the most useful high-level hierarchy without mixing parent roles
 | :---: | :---: | :---: | :---: | :---: | :---: |
 | [![](https://img.youtube.com/vi/n_NAiUvSjqw/maxresdefault.jpg)](https://youtu.be/n_NAiUvSjqw?si=8U4Lg2bzimR2Rzku) | [![](https://img.youtube.com/vi/tUYinqNWKr8/maxresdefault.jpg)](https://youtu.be/tUYinqNWKr8?si=Zdim7sXHw0KraZ25) | [![](https://img.youtube.com/vi/Ddk9ci6geSs/maxresdefault.jpg)](https://youtu.be/Ddk9ci6geSs?si=0xUeDj3egMBuuDQj) | [![](https://img.youtube.com/vi/ZmqRsa2Fkak/hqdefault.jpg)](https://youtu.be/ZmqRsa2Fkak?si=c_LI2subIaNpYoKE) | [![](https://img.youtube.com/vi/fhrNgXJ__n8/hqdefault.jpg)](https://youtu.be/fhrNgXJ__n8?si=jrBJbCVt_4TpvcAA) | [![](https://img.youtube.com/vi/W2y7GAiEPII/hqdefault.jpg)](https://youtu.be/W2y7GAiEPII?si=Ch-6RoytQnmm_E4j) |
 
+---
+
 [💸🤑💰](https://engineer-e.github.io/Nvidia-Learning/donate/donate.html) [Pain creates the story—but choice writes the ending.
 Be the one who breaks the cycle, not continues it.](https://engineer-work.github.io/Join-Company/war_prediction/human_uncertainty_pain_based_on_eduction.html) [💸🤑💰](https://engineer-e.github.io/Nvidia-Learning/donate/donate.html)
 
@@ -873,6 +877,11 @@ Be the one who breaks the cycle, not continues it.](https://engineer-work.github
 <details>
  <summary> The 5 colleges against your 40-course roadmap.</summary>
 
+[💸🤑💰](https://engineer-e.github.io/Nvidia-Learning/donate/donate.html) [Pain creates the story—but choice writes the ending.
+Be the one who breaks the cycle, not continues it.](https://engineer-work.github.io/Join-Company/war_prediction/human_uncertainty_pain_based_on_eduction.html) [💸🤑💰](https://engineer-e.github.io/Nvidia-Learning/donate/donate.html)
+
+---
+
 # ✨ The 5 colleges against your 40-course roadmap
 
 Legend:
@@ -1082,5 +1091,11 @@ That is the strongest accurate conclusion.
 
 
 ---
+
+[💸🤑💰](https://engineer-e.github.io/Nvidia-Learning/donate/donate.html) [Pain creates the story—but choice writes the ending.
+Be the one who breaks the cycle, not continues it.](https://engineer-work.github.io/Join-Company/war_prediction/human_uncertainty_pain_based_on_eduction.html) [💸🤑💰](https://engineer-e.github.io/Nvidia-Learning/donate/donate.html)
+
+---
+
  
 </details>
