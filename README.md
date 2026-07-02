@@ -870,3 +870,76 @@ Be the one who breaks the cycle, not continues it.](https://engineer-work.github
 
 </details>
 
+<details>
+ <summary> The 5 colleges against your 40-course roadmap.</summary>
+
+# ✨ The 5 colleges against your 40-course roadmap
+
+Legend:
+✅ = strong / dedicated coverage
+◐ = partial / related labs or electives
+— = weaker / not a major strength
+
+| #  | Course Title                 | Massachusetts Institute of Technology | Stanford University | ETH Zurich | Delft University of Technology | University of Utah |
+| -- | ---------------------------- | ------------------------------------- | ------------------- | ---------- | ------------------------------ | ------------------ |
+| 1  | Linear Algebra               | ✅                                     | ✅                   | ✅          | ✅                              | ✅                  |
+| 2  | Calculus                     | ✅                                     | ✅                   | ✅          | ✅                              | ✅                  |
+| 3  | Differential Equations       | ✅                                     | ✅                   | ✅          | ✅                              | ✅                  |
+| 4  | Numerical Analysis           | ✅                                     | ✅                   | ✅          | ✅                              | ◐                  |
+| 5  | Probability Theory           | ✅                                     | ✅                   | ✅          | ✅                              | ✅                  |
+| 6  | Scientific Computing         | ✅                                     | ✅                   | ✅          | ◐                              | ✅                  |
+| 7  | Computational Physics        | ✅                                     | ◐                   | ✅          | ◐                              | ◐                  |
+| 8  | Finite Element Analysis      | ✅                                     | ◐                   | ✅          | ✅                              | ◐                  |
+| 9  | Computational Fluid Dynamics | ✅                                     | ◐                   | ✅          | ✅                              | ◐                  |
+| 10 | High-Performance Computing   | ✅                                     | ◐                   | ✅          | ◐                              | ✅                  |
+| 11 | Parallel Computing           | ✅                                     | ◐                   | ✅          | ◐                              | ✅                  |
+| 12 | Distributed Computing        | ✅                                     | ✅                   | ◐          | ◐                              | ◐                  |
+| 13 | Computer Architecture        | ✅                                     | ✅                   | ✅          | ◐                              | ◐                  |
+| 14 | Computer Graphics            | ✅                                     | ✅                   | ✅          | ◐                              | ✅                  |
+| 15 | Geometric Modeling           | ✅                                     | ◐                   | ✅          | ◐                              | ✅                  |
+| 16 | Ray Tracing                  | ✅                                     | ◐                   | ✅          | ◐                              | ✅                  |
+| 17 | Scientific Visualization     | ✅                                     | ◐                   | ✅          | ◐                              | ✅                  |
+| 18 | Optics                       | ✅                                     | ✅                   | ✅          | ✅                              | ◐                  |
+| 19 | Fourier Optics               | ✅                                     | ◐                   | ✅          | ✅                              | —                  |
+| 20 | Photonics                    | ✅                                     | ✅                   | ✅          | ✅                              | —                  |
+| 21 | Image Processing             | ✅                                     | ✅                   | ✅          | ◐                              | ✅                  |
+| 22 | Semiconductor Physics        | ✅                                     | ✅                   | ◐          | ✅                              | —                  |
+| 23 | Microfabrication             | ✅                                     | ✅                   | ◐          | ✅                              | —                  |
+| 24 | VLSI Design                  | ✅                                     | ✅                   | ◐          | ◐                              | —                  |
+| 25 | Plasma Physics               | ◐                                     | ◐                   | ◐          | ◐                              | —                  |
+| 26 | Control Theory               | ✅                                     | ✅                   | ✅          | ✅                              | ◐                  |
+| 27 | Robotics                     | ✅                                     | ✅                   | ✅          | ✅                              | ◐                  |
+| 28 | Mechatronics                 | ◐                                     | ◐                   | ✅          | ✅                              | —                  |
+| 29 | Quantum Mechanics            | ✅                                     | ✅                   | ✅          | ◐                              | ◐                  |
+| 30 | Electromagnetism             | ✅                                     | ✅                   | ✅          | ✅                              | ◐                  |
+| 31 | Thermodynamics               | ✅                                     | ✅                   | ✅          | ✅                              | ◐                  |
+| 32 | Materials Science            | ✅                                     | ✅                   | ◐          | ✅                              | —                  |
+| 33 | Signal Processing            | ✅                                     | ✅                   | ✅          | ◐                              | ◐                  |
+| 34 | Machine Learning             | ✅                                     | ✅                   | ✅          | ◐                              | ◐                  |
+| 35 | Optimization                 | ✅                                     | ✅                   | ✅          | ◐                              | ◐                  |
+| 36 | Embedded Systems             | ✅                                     | ✅                   | ◐          | ◐                              | —                  |
+| 37 | Operating Systems            | ✅                                     | ✅                   | ◐          | —                              | ◐                  |
+| 38 | Compiler Design              | ✅                                     | ✅                   | ◐          | —                              | ◐                  |
+| 39 | Digital Signal Processing    | ✅                                     | ✅                   | ✅          | ◐                              | ◐                  |
+| 40 | Precision Engineering        | ◐                                     | ◐                   | ✅          | ✅                              | —                  |
+
+### Total strength (rough)
+
+| College                               | Strong Matches |
+| ------------------------------------- | -------------- |
+| Massachusetts Institute of Technology | **39/40**      |
+| ETH Zurich                            | **34/40**      |
+| Stanford University                   | **31/40**      |
+| Delft University of Technology        | **28/40**      |
+| University of Utah                    | **20/40**      |
+
+**Best by goal:**
+
+* **All-round full stack:** Massachusetts Institute of Technology
+* **Robotics + Precision:** ETH Zurich
+* **Semiconductor + Optics:** Delft University of Technology
+* **Graphics + HPC:** University of Utah
+* **Systems + AI + Hardware:** Stanford University
+
+ 
+</details>
