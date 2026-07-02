@@ -831,4 +831,15 @@ Be the one who breaks the cycle, not continues it.](https://engineer-work.github
 
 </details>
 
+<details>
+<summary> 😍👀 The People I Watch, and eager to Talk to them. 💬✨  </summary>
+
+# The People I Watch, and eager to Talk to them. 😍👀💬✨
+
+1. [ece.ufl.edu/research/](https://ece.ufl.edu/research/)
+
+
+
+ 
+</details>
 
