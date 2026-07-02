@@ -19,6 +19,8 @@
 🎒🏫 [My College Life](https://engineer-work.github.io/Join-Company/college/pain-during-college.html)
 🎯🧭🚀🎒🏫 **My hobby** [Physics - MIT](https://engineer-e.github.io/Physics-MIT-University/) , [Quantum Quest Performance Report - Apr 12,2026](https://engineer-work.github.io/Join-Company/free-learning/quantum/2026/performance_report/apr12/report.html)
 
+---
+
 <details>
 
 <summary> 📚💼💰🍚🏠 I study and learn primarily to earn enough money to meet my basic needs—food, shelter, healthcare, and survival. I never chose to be born into this world, and I still wonder why my parents decided to bring me here. 🌍👶🤔❓ </summary>
@@ -37,6 +39,8 @@
 
 🎯 Today, my goal is not fame 🌟❌ or power 👑❌. My goal is to keep learning 📚, earn money honestly 💼💰, remain independent 🧍, and survive with dignity. 🍚🏠 I choose knowledge 🧠 over ignorance ❌, ethics ⚖️ over shortcuts 🚫, and continuous learning 📖 over resentment. 🌱 My past ⏳ shaped my thinking, but it does not have to define my future. 🚀
 </details>
+
+---
 
 <details> <summary>😅📚🔬🎂 Born on 18-06-1995, I spent nearly 30 years without clearly understanding the difference between a Scientist 🔬 and an Engineer ⚙️; no one properly taught me, but thanks to AI 🤖✨—ChatGPT 💬, Gemini ♊, DeepSeek 🐋, and Gemma 💎—I finally learned and understood it. 🙏📖🧠🚀 </summary>
 
