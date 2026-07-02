@@ -864,11 +864,9 @@ Be the one who breaks the cycle, not continues it.](https://engineer-work.github
 ### I believe in Mysterio 🎭 and Hulk 💚, not (Iron Man 🤖, Spider-Man 🕷️, Dr. Strange 🔮, Dr. Doom ☠️, or Dr. Fate, or Other Superheros) ⚖️ — because money 💰 and inventions ⚙️, when driven by power and greed, have too often led to colonialism 🏴, slavery ⛓️, war ⚔️, and suffering 🌍🔥😞. My focus is shifting from money, power, and outer appearance to education 📚, knowledge 🧠, justice ⚖️, and peace 🕊️.
 
 
-| 1. ✨ [https://ece.ufl.edu/research/](https://ece.ufl.edu/research/) |2. ✨ [https://sci.utah.edu/dsci/](https://sci.utah.edu/dsci/) | 
-| --- | --- |
-| [![Watch the video](https://img.youtube.com/vi/3u_RLP396l4/maxresdefault.jpg)](https://youtu.be/3u_RLP396l4?si=fJGNevSyjZwIw-IS) | [![Watch the video](https://img.youtube.com/vi/nsL_3aVSJYk/maxresdefault.jpg)](https://youtu.be/nsL_3aVSJYk?si=VfVAppP1yoIglIqx) |
-
-[![Watch the video](https://img.youtube.com/vi/Q5wPdXzs3G8/maxresdefault.jpg)](https://youtu.be/Q5wPdXzs3G8?si=-47sLjGaMKA6xi_L)
+| 1. ✨ [https://ece.ufl.edu/research/](https://ece.ufl.edu/research/) |2. ✨ [https://sci.utah.edu/dsci/](https://sci.utah.edu/dsci/) | ||
+| --- | --- |--- |--- |
+| [![Watch the video](https://img.youtube.com/vi/3u_RLP396l4/maxresdefault.jpg)](https://youtu.be/3u_RLP396l4?si=fJGNevSyjZwIw-IS) | [![Watch the video](https://img.youtube.com/vi/nsL_3aVSJYk/maxresdefault.jpg)](https://youtu.be/nsL_3aVSJYk?si=VfVAppP1yoIglIqx) | [![Watch the video](https://img.youtube.com/vi/Q5wPdXzs3G8/maxresdefault.jpg)](https://youtu.be/Q5wPdXzs3G8?si=-47sLjGaMKA6xi_L) | [![Watch the video](https://img.youtube.com/vi/e2HF3geAliY/maxresdefault.jpg)](https://youtu.be/e2HF3geAliY?si=gEIw675fGC_zx221) |
 
 </details>
 
