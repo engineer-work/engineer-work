@@ -868,6 +868,7 @@ Be the one who breaks the cycle, not continues it.](https://engineer-work.github
 | --- | --- |
 | [![Watch the video](https://img.youtube.com/vi/3u_RLP396l4/maxresdefault.jpg)](https://youtu.be/3u_RLP396l4?si=fJGNevSyjZwIw-IS) | [![Watch the video](https://img.youtube.com/vi/nsL_3aVSJYk/maxresdefault.jpg)](https://youtu.be/nsL_3aVSJYk?si=VfVAppP1yoIglIqx) |
 
+[![Watch the video](https://img.youtube.com/vi/Q5wPdXzs3G8/maxresdefault.jpg)](https://youtu.be/Q5wPdXzs3G8?si=-47sLjGaMKA6xi_L)
 
 </details>
 
