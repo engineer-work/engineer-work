@@ -875,14 +875,14 @@ Be the one who breaks the cycle, not continues it.](https://engineer-work.github
 </details>
 
 <details>
- <summary> The 5 colleges against your 40-course roadmap.</summary>
+ <summary> ✨ 🌍🎓📊⚙️🧠🔬📚🚀 Global University Probability Analysis for a 40-Domain Deep Technical Roadmap </summary>
 
 [💸🤑💰](https://engineer-e.github.io/Nvidia-Learning/donate/donate.html) [Pain creates the story—but choice writes the ending.
 Be the one who breaks the cycle, not continues it.](https://engineer-work.github.io/Join-Company/war_prediction/human_uncertainty_pain_based_on_eduction.html) [💸🤑💰](https://engineer-e.github.io/Nvidia-Learning/donate/donate.html)
 
 ---
 
-# ✨ The 5 colleges against your 40-course roadmap
+# ✨ ✨ 🌍🎓📊⚙️🧠🔬📚🚀 Global University Probability Analysis for a 40-Domain Deep Technical Roadmap
 
 Legend:
 ✅ = strong / dedicated coverage
