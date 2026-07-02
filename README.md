@@ -454,6 +454,8 @@ This is usually the most useful high-level hierarchy without mixing parent roles
 
 </details>
 
+---
+
 <details><summary>💼📈🤔 Thoughts About Work Culture Before Joining a Company 💼📈🏢🤝🧠 </summary>
 
 ### My Life Path is like Combination of Hulk (Bruce Banner) & Venom (Eddie Brock)
