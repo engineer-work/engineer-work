@@ -1109,3 +1109,11 @@ Be the one who breaks the cycle, not continues it.](https://engineer-work.github
 
  
 </details>
+
+<details>
+ <summary> 🌍 To Become Rich, Rule region of the world by "Mind-Control Programme" ⚖️ </summary>
+ 
+ > CIA - Collected Reports.
+ 
+ [![Watch the video](https://img.youtube.com/vi/2xkfmzPw2bI/maxresdefault.jpg)](https://youtu.be/2xkfmzPw2bI?si=JG-U9DQoFTkfHPJL)
+</details>
