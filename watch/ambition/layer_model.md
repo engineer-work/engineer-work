@@ -500,3 +500,357 @@ I think this could become a genuine research direction if you develop it further
 5. safety and alignment mechanisms for persistent autonomous objectives.
 
 Those additions would move it from a conceptual position paper toward a research paper suitable for submission to venues such as arXiv.
+
+---
+
+Yes. If you want this to look like an **arXiv research architecture**, it should not be just a flowchart. It should resemble a cognitive architecture (like ACT-R, Soar, OpenCog, or robotics architectures), with clearly separated modules, bidirectional data flow, and feedback loops.
+
+I would structure it like this.
+
+```mermaid
+flowchart TB
+
+%% ============================================================
+%% INPUT LAYER
+%% ============================================================
+
+subgraph INPUT["Perception Layer"]
+    V[Vision Model]
+    A[Audio / Speech Model]
+    T[Text / Language Model]
+    R[Robot Sensors]
+    I[Internet / APIs]
+end
+
+%% ============================================================
+%% WORLD MODEL
+%% ============================================================
+
+subgraph WORLD["World Representation Layer"]
+
+    WM[Unified World Model]
+
+    KG[Knowledge Graph]
+
+    ENV[Environment State]
+
+    CTX[Context Representation]
+
+end
+
+V --> WM
+A --> WM
+T --> WM
+R --> WM
+I --> WM
+
+WM --> KG
+WM --> ENV
+WM --> CTX
+
+%% ============================================================
+%% MEMORY
+%% ============================================================
+
+subgraph MEMORY["Hierarchical Memory System"]
+
+WMEM[Working Memory]
+
+EPMEM[Episodic Memory]
+
+SEMMEM[Semantic Memory]
+
+PROMEM[Procedural Memory]
+
+LTMEM[Long-Term Memory]
+
+end
+
+WM --> WMEM
+WM --> EPMEM
+WM --> SEMMEM
+WM --> PROMEM
+
+WMEM --> LTMEM
+EPMEM --> LTMEM
+SEMMEM --> LTMEM
+PROMEM --> LTMEM
+
+%% ============================================================
+%% AMBITION
+%% ============================================================
+
+subgraph AMBITION["Ambition Core (Executive Controller)"]
+
+ID[Identity Model]
+
+VALUES[Value System]
+
+MISSION[Mission Generator]
+
+GOALS[Long-Term Goal Graph]
+
+PRIORITY[Priority Optimizer]
+
+RESOURCE[Resource Manager]
+
+CURIOSITY[Curiosity Engine]
+
+MOTIVATION[Motivation Engine]
+
+SELF[Self Reflection]
+
+PROGRESS[Progress Tracker]
+
+FAILURE[Failure Analyzer]
+
+SUCCESS[Success Analyzer]
+
+ETHICS[Ethics & Safety]
+
+end
+
+KG --> GOALS
+LTMEM --> GOALS
+ENV --> GOALS
+
+%% ============================================================
+%% REASONING
+%% ============================================================
+
+subgraph REASONING["Reasoning Layer"]
+
+LOGIC[Logical Reasoning]
+
+MATH[Math Reasoning]
+
+SCI[Scientific Reasoning]
+
+CODE[Programming Reasoning]
+
+SOCIAL[Social Reasoning]
+
+CAUSAL[Causal Reasoning]
+
+STRATEGY[Strategic Reasoning]
+
+end
+
+%% ============================================================
+%% WORLD SIMULATION
+%% ============================================================
+
+subgraph SIM["Simulation & Prediction"]
+
+WORLDMODEL[World Simulator]
+
+COUNTER[Counterfactual Generator]
+
+SHORT[Short-Term Prediction]
+
+LONG[Long-Term Prediction]
+
+UNCERTAIN[Uncertainty Estimator]
+
+RISK[Risk Analysis]
+
+end
+
+%% ============================================================
+%% PLANNING
+%% ============================================================
+
+subgraph PLANNER["Hierarchical Planning"]
+
+LIFE[Lifetime Mission]
+
+TEN[10-Year Planner]
+
+YEAR[1-Year Planner]
+
+MONTH[Monthly Planner]
+
+WEEK[Weekly Planner]
+
+DAY[Daily Planner]
+
+TASK[Task Planner]
+
+end
+
+%% ============================================================
+%% LEARNING
+%% ============================================================
+
+subgraph LEARNING["Learning Engine"]
+
+ERROR[Error Detection]
+
+SKILL[Skill Acquisition]
+
+KNOWLEDGE[Knowledge Expansion]
+
+MEMORYUPDATE[Memory Consolidation]
+
+MODELUPDATE[Model Update]
+
+end
+
+%% ============================================================
+%% EXECUTION
+%% ============================================================
+
+subgraph EXECUTION["Execution Layer"]
+
+SOFTWARE[Software Agent]
+
+ROBOT[Robot Controller]
+
+TOOLS[Tool Usage]
+
+RESEARCH[Research]
+
+COMMUNICATION[Communication]
+
+CODING[Coding]
+
+end
+
+%% ============================================================
+%% FEEDBACK
+%% ============================================================
+
+subgraph FEEDBACK["Environment Feedback"]
+
+OBSERVE[Observe Results]
+
+EVALUATE[Evaluate Outcome]
+
+UPDATE[Update Knowledge]
+
+end
+
+%% ============================================================
+%% CONNECTIONS
+%% ============================================================
+
+GOALS --> LIFE
+
+LIFE --> TEN
+TEN --> YEAR
+YEAR --> MONTH
+MONTH --> WEEK
+WEEK --> DAY
+DAY --> TASK
+
+TASK --> LOGIC
+TASK --> MATH
+TASK --> SCI
+TASK --> CODE
+TASK --> SOCIAL
+TASK --> CAUSAL
+TASK --> STRATEGY
+
+LOGIC --> WORLDMODEL
+MATH --> WORLDMODEL
+SCI --> WORLDMODEL
+CODE --> WORLDMODEL
+SOCIAL --> WORLDMODEL
+CAUSAL --> WORLDMODEL
+STRATEGY --> WORLDMODEL
+
+WORLDMODEL --> COUNTER
+COUNTER --> SHORT
+SHORT --> LONG
+LONG --> UNCERTAIN
+UNCERTAIN --> RISK
+
+RISK --> SOFTWARE
+RISK --> ROBOT
+RISK --> TOOLS
+RISK --> CODING
+RISK --> RESEARCH
+RISK --> COMMUNICATION
+
+SOFTWARE --> OBSERVE
+ROBOT --> OBSERVE
+TOOLS --> OBSERVE
+CODING --> OBSERVE
+RESEARCH --> OBSERVE
+COMMUNICATION --> OBSERVE
+
+OBSERVE --> EVALUATE
+EVALUATE --> UPDATE
+
+UPDATE --> ERROR
+
+ERROR --> SKILL
+SKILL --> KNOWLEDGE
+KNOWLEDGE --> MEMORYUPDATE
+MEMORYUPDATE --> MODELUPDATE
+
+MODELUPDATE --> LTMEM
+
+%% ============================================================
+%% GLOBAL EXECUTIVE CONNECTIONS
+%% ============================================================
+
+ID -. supervises .-> LOGIC
+ID -. supervises .-> WORLDMODEL
+ID -. supervises .-> TASK
+
+MISSION -. controls .-> LIFE
+
+GOALS -. updates .-> TASK
+
+VALUES -. constrains .-> STRATEGY
+
+ETHICS -. constrains .-> SOFTWARE
+ETHICS -. constrains .-> ROBOT
+
+PRIORITY -. reprioritize .-> DAY
+
+RESOURCE -. allocate .-> TASK
+
+CURIOSITY -. explore .-> KNOWLEDGE
+
+MOTIVATION -. reinforce .-> LIFE
+
+SELF -. evaluate .-> PROGRESS
+
+PROGRESS -. feedback .-> GOALS
+
+FAILURE -. update .-> PRIORITY
+
+SUCCESS -. reinforce .-> MOTIVATION
+
+LTMEM -. informs .-> LOGIC
+LTMEM -. informs .-> WORLDMODEL
+LTMEM -. informs .-> GOALS
+
+KG -. informs .-> LOGIC
+KG -. informs .-> SCI
+KG -. informs .-> CODE
+```
+
+---
+
+## Why this architecture is stronger than the previous one
+
+It introduces several architectural concepts commonly discussed in AI and cognitive systems research:
+
+* **Separation of concerns:** Perception, memory, reasoning, planning, learning, and execution are distinct modules.
+* **Executive control:** The **Ambition Core** is not just another processing step; it acts as a persistent controller that influences planning, reasoning, learning, and execution.
+* **Hierarchical planning:** Goals are decomposed from a lifetime mission down to individual tasks.
+* **World simulation:** A dedicated module evaluates possible futures before actions are taken.
+* **Closed-loop learning:** Execution outcomes feed back into memory and model updates for continual improvement.
+* **Bidirectional interactions:** Memory, knowledge, and ambition continuously influence one another rather than following a one-way pipeline.
+
+From a research perspective, this is closer to a **cognitive architecture** than a transformer diagram. To make it suitable for an arXiv paper, the next steps would be to define:
+
+1. the mathematical objective optimized by the Ambition Core,
+2. algorithms for updating long-term goals and priorities,
+3. interfaces between the Ambition Core and reasoning modules, and
+4. evaluation benchmarks demonstrating improved performance on long-horizon tasks compared with reasoning-only systems.
+
+----
