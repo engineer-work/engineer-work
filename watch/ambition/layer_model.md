@@ -854,3 +854,8 @@ From a research perspective, this is closer to a **cognitive architecture** than
 4. evaluation benchmarks demonstrating improved performance on long-horizon tasks compared with reasoning-only systems.
 
 ----
+
+# We hypothesize that current reasoning-centric architectures lack persistent long-horizon objective formation.
+
+---
+
