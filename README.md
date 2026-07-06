@@ -3,11 +3,10 @@
 [![Work Profile](https://img.shields.io/badge/Work%20Profile-engineer--work-181717?logo=github)](https://github.com/engineer-work/) 
 [![Instagram](https://img.shields.io/badge/Instagram-gobalkrishnan.engineer-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/gobalkrishnan.engineer/)
 [![Personal Profile](https://img.shields.io/badge/Personal%20Profile-Thought%20Cortex-blue?logo=protondb&logoColor=white)](https://engineer-work.github.io/Join-Company/)
-[![ORCID](https://img.shields.io/badge/ORCID-0009--0001--3787--2860-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0009-0001-3787-2860)
 
 ---
 
-|  [💸🤑💰 **Donate**](https://engineer-e.github.io/Nvidia-Learning/donate/donate.html) 🎯 [Childhood Memory](https://engineer-e.github.io/Childhood-Memory/)  |  I only like to do Work From Home 🏠💻, I don’t believe anyone 🤐 due to [toxic culture](https://youtu.be/d1WO9kAuysg?si=x9uCbI07CMRga4yi) ⚠️🔥. |
+|  [💸🤑💰 **Donate**](https://engineer-e.github.io/Nvidia-Learning/donate/donate.html) 🎯 [Childhood Memory](https://engineer-e.github.io/Childhood-Memory/)  | [![ORCID](https://img.shields.io/badge/ORCID-0009--0001--3787--2860-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0009-0001-3787-2860)  I only like to do Work From Home 🏠💻, I don’t believe anyone 🤐 due to [toxic culture](https://youtu.be/d1WO9kAuysg?si=x9uCbI07CMRga4yi) ⚠️🔥. |
 | --- | --- |
 | [![Watch the video](https://img.youtube.com/vi/nBp31QGN9iw/hqdefault.jpg)](https://youtu.be/nBp31QGN9iw?si=RevwfsP0IUKQCeDN) |⚠️ Disclaimer: I prefer to work from home 🏠 if I join any company. I do not like working closely with others 👥 because of my past experiences 💔. Many girls 👩, boys 👦, men 👨, women 👩, seniors 🎓, and junior colleagues 🤝 have cheated me 😞 for their own needs 💰, power 👑, status 🏆, or personal benefits 📈. In the name of love ❤️ and marriage 💍, such betrayals can happen because of money 💸, power ⚡, and competition 🥊. This problem can happen to good boys 👦, men 👨, girls 👧, and women 👩 as well. So, I need to protect my safety 🛡️, peace ☮️, and personal boundaries 🚧.|
 
