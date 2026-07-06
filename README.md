@@ -3,6 +3,7 @@
 [![Work Profile](https://img.shields.io/badge/Work%20Profile-engineer--work-181717?logo=github)](https://github.com/engineer-work/) 
 [![Instagram](https://img.shields.io/badge/Instagram-gobalkrishnan.engineer-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/gobalkrishnan.engineer/)
 [![Personal Profile](https://img.shields.io/badge/Personal%20Profile-Thought%20Cortex-blue?logo=protondb&logoColor=white)](https://engineer-work.github.io/Join-Company/)
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0001--3787--2860-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0009-0001-3787-2860)
 
 ---
 
