@@ -1222,6 +1222,8 @@ Be the one who breaks the cycle, not continues it.](https://engineer-work.github
 | [![Watch the video](https://img.youtube.com/vi/YUWJoiiardE/maxresdefault.jpg)](https://youtu.be/YUWJoiiardE?si=kkkLwh6e0SpBt70F) | [![Watch the video](https://img.youtube.com/vi/E_VRzokA1x4/maxresdefault.jpg)](https://youtu.be/E_VRzokA1x4?si=YBQCX3J8brDfTg8F) | [![Watch the video](https://img.youtube.com/vi/O2OG80LdfBM/maxresdefault.jpg)](https://youtu.be/O2OG80LdfBM?si=XoUGJl1FWHVVRt6o)|
 | [![Watch the video](https://img.youtube.com/vi/eIwpq76fh6A/hqdefault.jpg)](https://youtu.be/eIwpq76fh6A?si=0YFJ21K3Wxi7M-DT) | [![Watch the video](https://img.youtube.com/vi/dtbFczHwfWM/hqdefault.jpg)](https://youtu.be/dtbFczHwfWM?si=dq4dkLgbqfXkhq6N) | [![Watch the video](https://img.youtube.com/vi/GgJpoVB5850/hqdefault.jpg)](https://youtu.be/GgJpoVB5850?si=C_7Drb1KkNRrvxoM) |
 
+[![Watch the video](https://img.youtube.com/vi/gKMFyE9Asxw/maxresdefault.jpg)](https://youtu.be/gKMFyE9Asxw?si=RykWXRHbbnM8obCE)
+
 </details>
 
 <details>
