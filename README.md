@@ -1210,4 +1210,11 @@ Be the one who breaks the cycle, not continues it.](https://engineer-work.github
 
 </details>
 
+<details>
+ <summary>💍 The Device I Losted</summary>
 
+# The Device I losted 💍
+ 
+ ![](https://github.com/engineer-e/engineer-e/blob/main/images/device_i_losted/necklace%20i%20missed..png)
+ 
+</details>
