@@ -1206,6 +1206,20 @@ Be the one who breaks the cycle, not continues it.](https://engineer-work.github
 ![](https://p.turbosquid.com/ts-thumb/7s/5UwLvM/WV/realistic_skin_young_man_with_full_body_anatomy_360/jpg/1727755188/1920x1080/turn_fit_q99/643236346625c74242388b69b2ae4ee3725d38e8/realistic_skin_young_man_with_full_body_anatomy_360-34.jpg)
 [![Watch the video](https://img.youtube.com/vi/RYotHI47Eic/maxresdefault.jpg)](https://youtu.be/RYotHI47Eic?si=SjEMSQx13Uv5wD4L)
 
+### I am an Unstable Biosystem. (Human 👤 Species 🧬 with Different 🔀 Emotional ❤️ Architecture 🧠⚙️)
+
+1. For me, love doesn't exist—it's simply a biochemical process and biochemical data processed through reinforcement learning. 🧬⚛️
+
+2. Please find someone whose emotional nature is compatible with yours. Don't walk the same life path as me. ❤️🌸🚶‍♂️
+
+3. Your emotional architecture is fundamentally different from mine. 🤖🧠↔️❤️
+
+4. Every living being is mortal. One day, I too will die. ⏳🌍🧬💀
+
+ 
+[![Watch the video](https://img.youtube.com/vi/s-_qeJyoSaU/maxresdefault.jpg)](https://youtu.be/s-_qeJyoSaU?si=ijqygyMiuy64gYGQ)
+
+
 </details>
 
 <details>
