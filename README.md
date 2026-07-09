@@ -709,7 +709,7 @@ https://docs.google.com/spreadsheets/d/e/2PACX-1vTNRg4Puo7QCFcm4ZXVF1dnX4qL6ofzO
 
 ### [AI Roadmap](https://chatgpt.com/share/6a098955-d190-8323-ac58-8d3dbc25dca5) 📈🗄️ [Ambition Model : Ambition Net](https://github.com/engineer-work/engineer-work/blob/main/watch/ambition/layer_model.md)
 
-1. [Initial Layer Architect](https://github.com/engineer-work/engineer-work/blob/main/watch/architecture/initial.md), 📈 [story](https://github.com/engineer-work/engineer-work/blob/main/watch/architecture/story/readme.md) 
+1. [Initial Layer Architect](https://github.com/engineer-work/engineer-work/blob/main/watch/architecture/initial.md), 🦋🧿🫀💕 [story](https://github.com/engineer-work/engineer-work/blob/main/watch/architecture/story/readme.md) [֎ 🦋Chatgpt](https://chatgpt.com/share/6a4f4100-8c58-83e8-8af6-e223d7bb4e26)
 
 ![Watch the video](image/ai_roadmap.png)
 
