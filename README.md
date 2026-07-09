@@ -1214,7 +1214,13 @@ Be the one who breaks the cycle, not continues it.](https://engineer-work.github
  <summary>💍 The Device I Losted</summary>
 
 # The Device I losted 💍
+
+![](https://github.com/engineer-e/engineer-e/blob/main/images/device_i_losted/2c375f0e-420c-41a0-878c-22635e705802.png)
  
- ![](https://github.com/engineer-e/engineer-e/blob/main/images/device_i_losted/necklace%20i%20missed..png)
+| ![](https://github.com/engineer-e/engineer-e/blob/main/images/device_i_losted/necklace%20i%20missed..png) | ![](https://github.com/engineer-e/engineer-e/blob/main/images/device_i_losted/02d09867-7bda-4fd5-9ab9-d9079a8a7428.png) | ![](https://github.com/engineer-e/engineer-e/blob/main/images/device_i_losted/287d3bbd-1b2c-49a0-8131-07be2c0c63c8.png) |
+| :---: | :---: | :---: |
+| ![](https://github.com/engineer-e/engineer-e/blob/main/images/device_i_losted/b4ec96fa-4787-4b13-8861-c33b0753b854.png) | ![](https://github.com/engineer-e/engineer-e/blob/main/images/device_i_losted/5e2999ca-f9cc-4cf9-8692-80f90ee4f662.png) | ![](https://github.com/engineer-e/engineer-e/blob/main/images/device_i_losted/ba1a20e5-8ba6-4bf8-97ac-6242cc54d1e8.png) |
+
+![](https://github.com/engineer-e/engineer-e/blob/main/images/device_i_losted/necklace%20i%20missed..png)
  
 </details>
