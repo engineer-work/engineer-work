@@ -709,6 +709,8 @@ https://docs.google.com/spreadsheets/d/e/2PACX-1vTNRg4Puo7QCFcm4ZXVF1dnX4qL6ofzO
 
 ### [AI Roadmap](https://chatgpt.com/share/6a098955-d190-8323-ac58-8d3dbc25dca5) 📈🗄️ [Ambition Model : Ambition Net](https://github.com/engineer-work/engineer-work/blob/main/watch/ambition/layer_model.md)
 
+1. [Initial Layer Architect](https://github.com/engineer-work/engineer-work/blob/main/watch/architecture/initial.md)
+
 ![Watch the video](image/ai_roadmap.png)
 
 <details><summary>💼📈🤔 Thoughts About Work Culture Before Joining a Company 💼📈🏢🤝🧠 </summary>
