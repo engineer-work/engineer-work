@@ -648,6 +648,10 @@ I focus on understanding systems deeply, solving problems logically, and applyin
 
 ## 🛠️ Tech Stack
 
+### LLM
+- [LLM](https://github.com/engineer-e/LLM-Python/blob/main/readme.md)
+
+
 ### 💻 Languages
 - Python, Java, Dart, JavaScript, C++
 
