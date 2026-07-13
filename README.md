@@ -659,14 +659,14 @@ I focus on understanding systems deeply, solving problems logically, and applyin
 - Django, Spring Boot, REST APIs
 
 ### 🎨 Frontend
-- React (Basics), WebGL
+- React (Basics), WebGL [1](https://zenodo.org/records/18442246), [2](https://zenodo.org/records/18441588) 
 
 ### 📱 Mobile
 - Flutter, Android (Java)
 
 ### 🖥️ Graphics & Simulation
 - [OpenGL (C++)](https://github.com/engineer-e/Computer-Graphics-with-Modern-OpenGL-and-Cpp/blob/master/README.md)
-- WebGL (JavaScript)
+- WebGL (JavaScript) [1](https://zenodo.org/records/18442246), [2](https://zenodo.org/records/18441588) 
 
 ### 🗄️ Database
 - SQLite, MongoDB
