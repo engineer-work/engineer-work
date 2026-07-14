@@ -6,6 +6,84 @@
 
 ---
 
+<details>
+ <summary>No Job Needed in Future</summary>
+
+# 📄 Estimated AI Impact on Software Engineering Workforce (2026–2035)
+
+> **Note:** The following timeline is an **illustrative estimate**, not a prediction. Actual outcomes will depend on AI progress, business strategy, regulations, and economic conditions.
+
+## 🤖 Current Evidence (2026)
+
+Modern AI systems such as **Google Gemini, Cursor AI, GitHub Copilot, Claude, and ChatGPT** can already assist with:
+
+* 📱 Android (Kotlin, Java)
+* 🦋 Flutter (Dart)
+* 🌐 Web (React, Angular, HTML, CSS, JavaScript)
+* ⚙️ Backend APIs & Databases
+* 🧪 Testing & Debugging
+* 📄 Documentation
+* 🚀 CI/CD Automation
+
+AI is increasingly automating routine software development tasks while developers supervise and validate the results.
+
+---
+
+## 📅 Estimated AI Adoption Timeline
+
+| 📅 Period     | 🚀 Expected Change                                                                |
+| ------------- | --------------------------------------------------------------------------------- |
+| **2026–2028** | AI automates routine coding, UI, testing, and documentation.                      |
+| **2028–2031** | Smaller teams manage larger AI-generated codebases.                               |
+| **2031–2035** | AI assists with architecture, cloud design, and system planning.                  |
+| **2035+**     | Humans remain responsible for strategy, security, governance, and accountability. |
+
+---
+
+## 👨‍💻 Estimated Order of Workforce Impact
+
+| Rank | Role                | AI Impact    |
+| ---- | ------------------- | ------------ |
+| 1️⃣  | Junior Developer    | 🔴 Very High |
+| 2️⃣  | QA / Manual Testing | 🔴 Very High |
+| 3️⃣  | DevOps              | 🟠 High      |
+| 4️⃣  | Mid-level Developer | 🟠 High      |
+| 5️⃣  | Software Architect  | 🟡 Medium    |
+| 6️⃣  | Principal Engineer  | 🟢 Moderate  |
+| 7️⃣  | CTO                 | 🔵 Lowest    |
+
+---
+
+## 🏢 Illustrative Team Compression
+
+| Organization             | Today | AI-Assisted (Illustrative) |
+| ------------------------ | ----: | -------------------------: |
+| 🚀 Startup               |    10 |                        3–5 |
+| 🏢 Enterprise Department |   100 |                      20–40 |
+
+---
+
+## 📈 Illustrative Example
+
+| Year | Team Size |
+| ---- | --------: |
+| 2026 |        10 |
+| 2028 |         7 |
+| 2030 |         5 |
+| 2032 |         4 |
+| 2035 |         3 |
+
+---
+
+## 🎯 Key Message
+
+AI is expected to **reduce routine software engineering work** and enable **smaller, more productive teams**. Rather than eliminating all technical roles, AI is shifting human responsibilities toward **review, architecture, security, governance, and strategic decision-making**. Governments, industries, and educational institutions should prepare for this transition through workforce reskilling and responsible AI adoption.
+
+ 
+</details>
+
+---
+
 |  [💸🤑💰 **Donate**](https://engineer-e.github.io/Nvidia-Learning/donate/donate.html) 🎯 [Childhood Memory](https://engineer-e.github.io/Childhood-Memory/)  | [<img src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="24" alt="ORCID">](https://orcid.org/0009-0001-3787-2860)  I only like to do Work From Home 🏠💻, I don’t believe anyone 🤐 due to [toxic culture](https://youtu.be/d1WO9kAuysg?si=x9uCbI07CMRga4yi) ⚠️🔥. |
 | --- | ---: |
 | [![Watch the video](https://img.youtube.com/vi/nBp31QGN9iw/hqdefault.jpg)](https://youtu.be/nBp31QGN9iw?si=RevwfsP0IUKQCeDN) |⚠️ Disclaimer: I prefer to work from home 🏠 if I join any company. I do not like working closely with others 👥 because of my past experiences 💔. Many girls 👩, boys 👦, men 👨, women 👩, seniors 🎓, and junior colleagues 🤝 have cheated me 😞 for their own needs 💰, power 👑, status 🏆, or personal benefits 📈. In the name of love ❤️ and marriage 💍, such betrayals can happen because of money 💸, power ⚡, and competition 🥊. This problem can happen to good boys 👦, men 👨, girls 👧, and women 👩 as well. So, I need to protect my safety 🛡️, peace ☮️, and personal boundaries 🚧.|
