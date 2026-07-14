@@ -7,7 +7,7 @@
 ---
 
 <details>
- <summary>No Job Needed in Future 🤖 AI and the Future of Software Development </summary>
+ <summary>No Job Needed in Future 🤖 AI and the Future of Software Development & ⚙️ Labour Work too. </summary>
 
 # 📄 Estimated AI Impact on Software Engineering Workforce (2026–2035)
 
@@ -281,6 +281,37 @@ A polished report should separate AI tools by **domain** rather than mixing ever
 | Research Assistants | Graphic Designers                  |                     |                      |
 
 > **📌 Summary:** AI is rapidly automating repetitive and predictable work across software development, research, engineering, business operations, and creative industries. As AI capabilities improve, organizations may require **smaller, AI-assisted teams**, while human work increasingly focuses on **decision-making, innovation, leadership, security, ethics, and accountability**.
+
+---
+
+Here is a **6-column table** with official learning resources (and YouTube where available) that you can include in your report.
+
+| 📂 Category      | 🤖 AI Tool           | 🎯 Learn                     | 🎥 Video / Tutorial                                                                                           | 🌐 Official Website                                                                           | 🔄 Repetitive Tasks Automated                                                     |
+| ---------------- | -------------------- | ---------------------------- | ------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
+| 💻 AI Coding     | Google Gemini        | Android, Web, AI Coding      | [Gemini YouTube Videos](https://www.reddit.com/r/ChatGPTPromptGenius/comments/18cibyx?utm_source=chatgpt.com) | [Google Gemini](https://gemini.google.com?utm_source=chatgpt.com)                             | Android Apps, Web Apps, Code Generation, Documentation, Testing                   |
+| 💻 AI Coding     | Gemini Code Assist   | VS Code, Android Studio      | [Google AI Learning Courses](https://ai.google/learn-ai-skills/?utm_source=chatgpt.com)                       | [Gemini Code Assist](https://developers.google.com/gemini-code-assist?utm_source=chatgpt.com) | Code Completion, Debugging, Refactoring                                           |
+| 🚀 AI IDE        | Cursor AI            | AI Software Development      | [Cursor YouTube Channel](https://www.youtube.com/@cursor_ai?utm_source=chatgpt.com)                           | [Cursor AI](https://cursor.com?utm_source=chatgpt.com)                                        | Flutter, React, APIs, Testing, Bug Fixing                                         |
+| 🌊 AI IDE        | Windsurf             | AI IDE                       | [Windsurf YouTube Channel](https://www.youtube.com/@windsurf_ai?utm_source=chatgpt.com)                       | [Windsurf](https://windsurf.com?utm_source=chatgpt.com)                                       | Full-Stack Development, Automation                                                |
+| 🐙 AI Coding     | GitHub Copilot       | AI Pair Programming          | [GitHub Copilot Docs & Videos](https://docs.github.com/copilot?utm_source=chatgpt.com)                        | [GitHub Copilot](https://github.com/features/copilot?utm_source=chatgpt.com)                  | Code Completion, Unit Tests, Documentation                                        |
+| 💬 AI Assistant  | ChatGPT              | Programming & Research       | [OpenAI Academy](https://academy.openai.com?utm_source=chatgpt.com)                                           | [ChatGPT](https://chatgpt.com?utm_source=chatgpt.com)                                         | Coding, Documentation, Reports, Research                                          |
+| 🧠 AI Assistant  | Claude               | Software Engineering         | [Claude YouTube Channel](https://www.youtube.com/@AnthropicAI?utm_source=chatgpt.com)                         | [Claude](https://claude.ai?utm_source=chatgpt.com)                                            | Code Review, Documentation, Architecture                                          |
+| ⚡ AI Agent       | Claude Code          | AI Coding Agent              | [Claude Code Docs](https://docs.anthropic.com?utm_source=chatgpt.com)                                         | [Claude Code](https://www.anthropic.com/claude-code?utm_source=chatgpt.com)                   | Repository Automation, Refactoring                                                |
+| 🔬 AI Research   | OpenAI Deep Research | AI Research                  | [OpenAI Academy](https://academy.openai.com?utm_source=chatgpt.com)                                           | [OpenAI](https://openai.com?utm_source=chatgpt.com)                                           | Literature Review, Research Reports                                               |
+| 🧬 Scientific AI | AlphaFold            | Protein Structure Prediction | [AlphaFold Documentation](https://alphafold.ebi.ac.uk?utm_source=chatgpt.com)                                 | [AlphaFold](https://alphafold.ebi.ac.uk?utm_source=chatgpt.com)                               | Protein Analysis, Drug Research                                                   |
+| 🤖 Robotics AI   | Gemini Robotics      | Robotics & Embodied AI       | [Inside Gemini Robotics Video](https://blog.google/feed/gemini-robotics-video/?utm_source=chatgpt.com)        | [Gemini Robotics](https://deepmind.google/models/gemini-robotics/?utm_source=chatgpt.com)     | Robot Training, Human Demonstration Learning, Manipulation ([Google DeepMind][1]) |
+
+This table covers:
+
+* 💻 AI Coding
+* 📱 Android Development
+* 🦋 Flutter Development
+* 🌐 Web Development
+* 🔬 Research AI
+* 🤖 Robotics AI
+
+and highlights the **repetitive tasks** each tool can help automate or accelerate.
+
+[1]: https://deepmind.google/models/gemini-robotics/?utm_source=chatgpt.com "Gemini Robotics — Google DeepMind"
 
  
 </details>
