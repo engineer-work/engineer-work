@@ -7,7 +7,9 @@
 ---
 
 <details>
- <summary>No Job Needed in Future 🤖 AI and the Future of Software Development & ⚙️ Labour Work too. </summary>
+ <summary>No Job to Human is current trend, 🤖 AI-Driven Automation: The Future of Software Development & Labour Work with Reduced Human Involvement </summary>
+
+# No Job to Human is current trend 🤖 AI-Driven Automation: The Future of Software Development & Labour Work with Reduced Human Involvement
 
 # 📄 Estimated AI Impact on Software Engineering Workforce (2026–2035)
 
