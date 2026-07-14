@@ -179,6 +179,109 @@ Here is a compact version:
 
 > **Note:** AI is expected to automate many **repetitive and routine tasks**, allowing organizations to operate with **smaller, AI-assisted teams**. This does **not** mean these professions will disappear entirely. Instead, routine implementation work is increasingly automated, while human roles shift toward **oversight, complex decision-making, security, compliance, creativity, leadership, and accountability**.
 
+---
+
+A polished report should separate AI tools by **domain** rather than mixing everything together. That makes it much easier for readers—including government officials—to understand.
+
+# 🤖 AI Tools, Repetitive Tasks & Workforce Impact Report (2026)
+
+> **Purpose:** This table summarizes major AI tools, the repetitive tasks they automate, and the job roles that may be most affected. The workforce impact column indicates **potential changes in routine work**, not guaranteed job losses.
+
+| 🏷️ Category          | 🤖 AI Tool              | 🌐 Official Website                                                                                  | 🔄 Repetitive Tasks Automated                                | 👨‍💼 Roles Most Affected                                 |
+| :-------------------- | :---------------------- | :--------------------------------------------------------------------------------------------------- | :----------------------------------------------------------- | :-------------------------------------------------------- |
+| 📱 Mobile Development | Google Gemini           | [https://gemini.google.com](https://gemini.google.com)                                               | Android Apps, Kotlin, Java, Flutter, UI, APIs, Documentation | Android Developers, Flutter Developers, Junior Developers |
+| 💻 AI Coding          | Gemini Code Assist      | [https://developers.google.com/gemini-code-assist](https://developers.google.com/gemini-code-assist) | Code Completion, Refactoring, Debugging, Testing             | Software Developers                                       |
+| 🚀 AI IDE             | Cursor AI               | [https://cursor.com](https://cursor.com)                                                             | Flutter, Web, Android, Backend, Bug Fixing, Testing          | Flutter Developers, Web Developers                        |
+| 💙 Code Editor        | VS Code + AI Extensions | [https://code.visualstudio.com](https://code.visualstudio.com)                                       | AI Coding, Refactoring, Documentation                        | Software Developers                                       |
+| 🌌 AI IDE             | Trae AI                 | [https://trae.ai](https://trae.ai)                                                                   | Full-Stack Development, AI Coding                            | Software Developers                                       |
+| 🐙 AI Coding          | GitHub Copilot          | [https://github.com/features/copilot](https://github.com/features/copilot)                           | Code Generation, Unit Tests, Documentation                   | Software Developers                                       |
+| 🌊 AI IDE             | Windsurf                | [https://windsurf.com](https://windsurf.com)                                                         | Full-Stack Development, Automation                           | Software Developers                                       |
+| ☁️ Cloud IDE          | Replit AI               | [https://replit.com/ai](https://replit.com/ai)                                                       | Cloud Apps, Deployment                                       | Full-Stack Developers                                     |
+| 💬 AI Assistant       | ChatGPT                 | [https://chatgpt.com](https://chatgpt.com)                                                           | Coding, Reports, Documentation, Research, Analysis           | Developers, Researchers, Technical Writers                |
+| 🧠 AI Assistant       | Claude                  | [https://claude.ai](https://claude.ai)                                                               | Long Documents, Code Review, Architecture                    | Software Engineers                                        |
+| ⚡ AI Agent            | Claude Code             | [https://www.anthropic.com/claude-code](https://www.anthropic.com/claude-code)                       | Repository Automation, Bug Fixing                            | Software Engineers                                        |
+| ☁️ Cloud AI           | Amazon Q Developer      | [https://aws.amazon.com/q/developer](https://aws.amazon.com/q/developer)                             | AWS, DevOps, Infrastructure Automation                       | DevOps Engineers                                          |
+| 🔷 AI Coding          | Tabnine                 | [https://www.tabnine.com](https://www.tabnine.com)                                                   | Code Completion                                              | Software Developers                                       |
+| 🔎 Enterprise AI      | Sourcegraph Cody        | [https://sourcegraph.com/cody](https://sourcegraph.com/cody)                                         | Large Codebase Search, AI Coding                             | Enterprise Developers                                     |
+| 🔧 Open Source AI     | Continue                | [https://continue.dev](https://continue.dev)                                                         | AI Coding inside IDE                                         | Software Developers                                       |
+| 💻 Terminal AI        | Aider                   | [https://aider.chat](https://aider.chat)                                                             | Git Automation, Coding                                       | Software Developers                                       |
+| 🔬 AI Research        | OpenAI Deep Research    | [https://chatgpt.com](https://chatgpt.com)                                                           | Literature Review, Research Reports                          | Research Assistants                                       |
+| 📚 AI Research        | Elicit                  | [https://elicit.com](https://elicit.com)                                                             | Paper Search, Evidence Review                                | Researchers                                               |
+| 🔍 AI Research        | Consensus               | [https://consensus.app](https://consensus.app)                                                       | Scientific Search                                            | Researchers                                               |
+| 📄 AI Research        | SciSpace                | [https://typeset.io](https://typeset.io)                                                             | Paper Reading & Summaries                                    | Students, Researchers                                     |
+| 🧬 Biology AI         | AlphaFold               | [https://alphafold.ebi.ac.uk](https://alphafold.ebi.ac.uk)                                           | Protein Structure Prediction                                 | Biology Researchers                                       |
+| 🧪 Scientific AI      | Microsoft Discovery     | [https://www.microsoft.com/discovery](https://www.microsoft.com/discovery)                           | Materials Discovery                                          | Materials Scientists                                      |
+| ⚗️ Drug Discovery     | NVIDIA BioNeMo          | [https://www.nvidia.com/en-us/clara/bionemo/](https://www.nvidia.com/en-us/clara/bionemo/)           | Molecular Modeling                                           | Drug Researchers                                          |
+| ⚖️ Legal AI           | Harvey AI               | [https://www.harvey.ai](https://www.harvey.ai)                                                       | Contract Review, Legal Research                              | Legal Assistants                                          |
+| 🎨 Design AI          | Adobe Firefly           | [https://firefly.adobe.com](https://firefly.adobe.com)                                               | Image Editing, Graphic Design                                | Graphic Designers                                         |
+| 🎬 Video AI           | Runway                  | [https://runwayml.com](https://runwayml.com)                                                         | Video Editing & Generation                                   | Video Editors                                             |
+| 🎵 Music AI           | Suno                    | [https://suno.com](https://suno.com)                                                                 | Music Composition                                            | Music Producers                                           |
+
+---
+
+# 🔄 Common Repetitive Tasks Automated by AI
+
+### 💻 Software Engineering
+
+* ✅ CRUD Applications
+* ✅ UI Development
+* ✅ API Development
+* ✅ Database Design
+* ✅ Unit Testing
+* ✅ Debugging
+* ✅ Refactoring
+* ✅ Documentation
+* ✅ CI/CD Pipelines
+
+### 🔬 Research
+
+* ✅ Literature Review
+* ✅ Paper Summarization
+* ✅ Citation Search
+* ✅ Data Analysis
+* ✅ Report Writing
+* ✅ Hypothesis Generation
+
+### 🏗️ Engineering & Design
+
+* ✅ CAD Drafting
+* ✅ PCB Layout Assistance
+* ✅ Simulation Setup
+* ✅ Cost Estimation
+* ✅ BIM Modeling
+
+### 📊 Business
+
+* ✅ Email Writing
+* ✅ Report Generation
+* ✅ Spreadsheet Analysis
+* ✅ Customer Support
+* ✅ HR Screening
+* ✅ Meeting Summaries
+
+### 🎨 Creative
+
+* ✅ Image Generation
+* ✅ Video Editing
+* ✅ Presentation Creation
+* ✅ Music Generation
+* ✅ Content Writing
+
+---
+
+# 📉 Workforce Impact (Illustrative)
+
+| 🔴 Very High        | 🟠 High                            | 🟡 Medium           | 🟢 Lower             |
+| ------------------- | ---------------------------------- | ------------------- | -------------------- |
+| Data Entry          | Android Developers (Routine Tasks) | Software Architects | CTO                  |
+| Documentation       | Flutter Developers (Routine Tasks) | Senior Engineers    | Executive Leadership |
+| Technical Writing   | Web Developers (Routine Tasks)     | Principal Engineers | Business Strategy    |
+| Manual QA           | DevOps (Routine Tasks)             | Research Scientists | Legal Accountability |
+| Customer Support    | CAD Designers                      | Project Managers    |                      |
+| Research Assistants | Graphic Designers                  |                     |                      |
+
+> **📌 Summary:** AI is rapidly automating repetitive and predictable work across software development, research, engineering, business operations, and creative industries. As AI capabilities improve, organizations may require **smaller, AI-assisted teams**, while human work increasingly focuses on **decision-making, innovation, leadership, security, ethics, and accountability**.
+
  
 </details>
 
