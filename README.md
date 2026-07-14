@@ -27,6 +27,11 @@
 <summary>🎓 Engineering Work Without a Permanent Record </summary>
 
  [My chat with chatgpt](https://chatgpt.com/share/6a54628a-4288-83ee-baae-03f57fd161f2)
+
+
+ [![Watch the video](https://img.youtube.com/vi/3h6MhRbOz8g/maxresdefault.jpg)](https://youtu.be/3h6MhRbOz8g?si=e6oLWshYMk6Jz4yY)
+
+ 
  
 # Engineering Work Without a Permanent Record
 
@@ -126,8 +131,62 @@ Documentation is not only for today's project—it is a bridge between today's e
 
 I hope that every meaningful engineering contribution, whether from research, industry, or independent work, can leave behind a clear and lasting record for future generations.
 
+---
+
+[![Watch the video](https://img.youtube.com/vi/Ts80ttI7pI8/maxresdefault.jpg)](https://youtu.be/Ts80ttI7pI8?si=0aMuNaAh5hkNkMp3)
+
+---
+🌍 **Based on my view,** I think war is used to kill innocent people. 💔
+
+Why do people start wars for **fame, pride, or power**? 🏆👑 They continue to do more wrong through war instead of finding peaceful solutions. 😔⚔️
+
+How can we stop war? 🕊️🤝 What is the best way to achieve lasting peace? 🌎✨
+
+These are just my thoughts and questions. 💭🙏
+
+---
+
+🤔 **Due to government, money, or any other material required to live, what causes conflict in families?** 🏛️💰⚖️
+
+❤️ Without love and without spending time with loved ones—such as mom, dad, and other family members—from childhood, people cannot live happily. 👨‍👩‍👧‍👦💞 They do not allow others into their circle. 🚪 Likewise, each family mainly thinks about its own family. 🏡
+
+👶 Some kids are born without a family. 💔 Their life path is difficult to predict, but they may or may not have love in their hearts. ❤️❓ They can work for the government 🏛️, a kingdom 👑, or they may try to become kings 🤴 or hold any government position. 🎖️
+
+👨‍👩‍👧 Even in families, a few people think like this. But at the marriage stage, 💍 unknown men and women get married only for money 💰, talent 🎓, or outer appearance. ✨ They do not think about love ❤️ or about spending time with the girl or the other person from childhood. 👫
+
+❓ Why are they not concentrating on love? ❤️ After some time, they can die in any situation. ⚠️ If a loved one dies, 💔 the grief can cause a big disaster in that person's life or even affect the surrounding family or region. 😢🌍
+
+💭 **It is just my doubt and my thoughts.** 🙏
+
+---
+
+🤔 **A Thought About Family, Love, and Society**
+
+This is just a thought that came to my mind.
+
+Many conflicts in the world seem to arise because of governments, money, power, land, or the struggle to obtain the resources needed for survival. 🌍💰⚔️
+
+When people are young, they often spend their lives with their parents, siblings, and close family members. 👨‍👩‍👧‍👦❤️ They grow up together, share memories, support one another, and experience love and care. For many families, this bond is the center of their world, and they naturally want to protect the people they love.
+
+However, not every child has this experience. Some children grow up without a stable family or without receiving much love. 💔 Their future becomes more uncertain. Even so, they may still develop kindness, compassion, and love—or they may not. They may choose many different paths in life, such as serving the government, joining the military, becoming political leaders, building businesses, or pursuing other careers.
+
+Even within loving families, people can become highly focused on success, money, status, or power. 💼🏆
+
+Marriage also makes me think. Many marriages are influenced by factors such as financial security, education, talent, social status, or physical appearance. 💍💰🎓 While these things can matter, I sometimes wonder why emotional connection, love, trust, and the time two people spend truly understanding each other are not always given equal importance. ❤️🤝
+
+Life is uncertain. None of us knows how long we will live. ⏳ If someone loses a person they deeply love, the grief can be overwhelming and can affect not only individuals but also families and communities. 😢🕊️
+
+This makes me wonder whether society places enough value on love, compassion, and meaningful relationships compared with wealth, power, and status. Perhaps if people spent more time building understanding, empathy, and genuine human connections, some conflicts could be reduced.
+
+These are simply my personal thoughts and questions. I do not claim to have the answers, but I believe they are worth reflecting on. 🌱💭
+
+[![Watch the video](https://img.youtube.com/vi/J0teGPUgAA0/maxresdefault.jpg)](https://youtu.be/J0teGPUgAA0?si=7ao2oKk2PVtFVBox)
+
 
 </details>
+
+
+
 
 ----
 
