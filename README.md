@@ -10,9 +10,9 @@
  <summary> 🤖 AI-Driven Automation: The Future of Software Development & Labour Work with Reduced Human Involvement </summary>
 <br>
 
-| [![](https://img.youtube.com/vi/rbCQKODKv1o/mqdefault.jpg)](https://youtu.be/rbCQKODKv1o?si=sS3xqcK4E_wRcbJm) | [![](https://img.youtube.com/vi/vU4Ak3DBb1o/mqdefault.jpg)](https://youtu.be/vU4Ak3DBb1o?si=hRYA0fctFWVbAzc1) | [![](https://img.youtube.com/vi/JMLsHI8aV0g/mqdefault.jpg)](https://youtu.be/JMLsHI8aV0g?si=6j1bHm2twbFcbCWy)| |
-| --- | --- | --- | --- |
-| [![](https://img.youtube.com/vi/xlALU-kyFdw/mqdefault.jpg)](https://youtu.be/xlALU-kyFdw?si=Qr5uBsbtEyAurs9k) |  [![](https://img.youtube.com/vi/q7Hj3J9SOXw/mqdefault.jpg)](https://youtu.be/q7Hj3J9SOXw?si=4gzlyb8F0x3N5ica) | [![](https://img.youtube.com/vi/x5mznemjL_o/mqdefault.jpg)](https://youtu.be/x5mznemjL_o?si=HFtFpboO2RVL6KRp) | [![](https://img.youtube.com/vi/9RZreu5z_Gc/mqdefault.jpg)](https://youtu.be/9RZreu5z_Gc?si=RWyQCqXRdbvz4fvo) |
+| [![](https://img.youtube.com/vi/rbCQKODKv1o/mqdefault.jpg)](https://youtu.be/rbCQKODKv1o?si=sS3xqcK4E_wRcbJm) | [![](https://img.youtube.com/vi/vU4Ak3DBb1o/mqdefault.jpg)](https://youtu.be/vU4Ak3DBb1o?si=hRYA0fctFWVbAzc1) | [![](https://img.youtube.com/vi/JMLsHI8aV0g/mqdefault.jpg)](https://youtu.be/JMLsHI8aV0g?si=6j1bHm2twbFcbCWy)| | |
+| --- | --- | --- | --- | --- |
+| [![](https://img.youtube.com/vi/xlALU-kyFdw/mqdefault.jpg)](https://youtu.be/xlALU-kyFdw?si=Qr5uBsbtEyAurs9k) |  [![](https://img.youtube.com/vi/q7Hj3J9SOXw/mqdefault.jpg)](https://youtu.be/q7Hj3J9SOXw?si=4gzlyb8F0x3N5ica) | [![](https://img.youtube.com/vi/x5mznemjL_o/mqdefault.jpg)](https://youtu.be/x5mznemjL_o?si=HFtFpboO2RVL6KRp) | [![](https://img.youtube.com/vi/9RZreu5z_Gc/mqdefault.jpg)](https://youtu.be/9RZreu5z_Gc?si=RWyQCqXRdbvz4fvo) | [![](https://img.youtube.com/vi/uWSB7s_DQHw/mqdefault.jpg)](https://youtu.be/uWSB7s_DQHw?si=57566xtkhAUZ0LRA) |
 
 
 # No Job to Human is current trend 🤖 AI-Driven Automation: The Future of Software Development & Labour Work with Reduced Human Involvement
