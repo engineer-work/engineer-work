@@ -15,6 +15,8 @@
 | [![](https://img.youtube.com/vi/xlALU-kyFdw/mqdefault.jpg)](https://youtu.be/xlALU-kyFdw?si=Qr5uBsbtEyAurs9k) |  [![](https://img.youtube.com/vi/q7Hj3J9SOXw/mqdefault.jpg)](https://youtu.be/q7Hj3J9SOXw?si=4gzlyb8F0x3N5ica) | [![](https://img.youtube.com/vi/x5mznemjL_o/mqdefault.jpg)](https://youtu.be/x5mznemjL_o?si=HFtFpboO2RVL6KRp) | [![](https://img.youtube.com/vi/9RZreu5z_Gc/mqdefault.jpg)](https://youtu.be/9RZreu5z_Gc?si=RWyQCqXRdbvz4fvo) | [![](https://img.youtube.com/vi/uWSB7s_DQHw/mqdefault.jpg)](https://youtu.be/uWSB7s_DQHw?si=57566xtkhAUZ0LRA) | [![](https://img.youtube.com/vi/bPSLMX_V38E/mqdefault.jpg)](https://youtu.be/bPSLMX_V38E?si=GtC8R8McNYBNmHYu) |
 
 
+
+
 # No Job to Human is current trend 🤖 AI-Driven Automation: The Future of Software Development & Labour Work with Reduced Human Involvement
 
 # 📄 Estimated AI Impact on Software Engineering Workforce (2026–2035)
@@ -321,6 +323,8 @@ and highlights the **repetitive tasks** each tool can help automate or accelerat
 
 [1]: https://deepmind.google/models/gemini-robotics/?utm_source=chatgpt.com "Gemini Robotics — Google DeepMind"
 
+[![](https://img.youtube.com/vi/77tlgvqx1Ys/maxresdefault.jpg)](https://www.youtube.com/live/77tlgvqx1Ys?si=QM3XNhUvQBboYmA4)
+
  
 </details>
 
@@ -501,6 +505,7 @@ This makes me wonder whether society places enough value on love, compassion, an
 These are simply my personal thoughts and questions. I do not claim to have the answers, but I believe they are worth reflecting on. 🌱💭
 
 [![Watch the video](https://img.youtube.com/vi/J0teGPUgAA0/maxresdefault.jpg)](https://youtu.be/J0teGPUgAA0?si=7ao2oKk2PVtFVBox)
+
 
 
 </details>
