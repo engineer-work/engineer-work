@@ -8,6 +8,9 @@
 
 <details>
  <summary> 🤖 AI-Driven Automation: The Future of Software Development & Labour Work with Reduced Human Involvement </summary>
+<br>
+
+[![](https://img.youtube.com/vi/xlALU-kyFdw/mqdefault.jpg)](https://youtu.be/xlALU-kyFdw?si=Qr5uBsbtEyAurs9k)
 
 # No Job to Human is current trend 🤖 AI-Driven Automation: The Future of Software Development & Labour Work with Reduced Human Involvement
 
