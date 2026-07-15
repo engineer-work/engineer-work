@@ -10,6 +10,8 @@
 [![](https://img.youtube.com/vi/fCfQJSCOYd8/default.jpg)](https://youtu.be/fCfQJSCOYd8?si=Ao7dl2vpaHW5lUhc)
 [![](https://img.youtube.com/vi/D9sJdlKv52E/default.jpg)](https://youtu.be/D9sJdlKv52E?si=F6JK4GKpaYI9ivkb)
 [![](https://img.youtube.com/vi/GcWmHoDthjk/default.jpg)](https://youtu.be/GcWmHoDthjk?si=2xsqR8o-DsCVWkkE)
+[![](https://img.youtube.com/vi/a3j7JkZWpXk/default.jpg)](https://youtu.be/a3j7JkZWpXk?si=keA2lzjityujO-2p)
+
 
 <details>
  <summary> 🤖 AI-Driven Automation: The Future of Software Development & Labour Work with Reduced Human Involvement </summary>
