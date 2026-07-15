@@ -6,6 +6,8 @@
 
 ---
 
+[![](https://img.youtube.com/vi/Rezc-2nxzHM/default.jpg)](https://youtu.be/Rezc-2nxzHM?si=9yfZNDGOa0KPKMa_)
+
 <details>
  <summary> 🤖 AI-Driven Automation: The Future of Software Development & Labour Work with Reduced Human Involvement </summary>
 <br>
