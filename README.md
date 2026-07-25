@@ -363,7 +363,8 @@ and highlights the **repetitive tasks** each tool can help automate or accelerat
  
  [![Watch the video](https://img.youtube.com/vi/db6QIx11vMA/maxresdefault.jpg)](https://youtu.be/db6QIx11vMA?si=jtiMa1NcRmgZf1f9)
 
- [![Watch the video](https://img.youtube.com/vi/_OKAwz2MsJs/maxresdefault.jpg)](https://youtu.be/_OKAwz2MsJs?si=PeHxab_levsp7R-d)
+[![Watch the video]( https://raw.githubusercontent.com/engineer-e/engineer-e/refs/heads/main/images/is_engineer.png)](https://youtu.be/zJ8R7HITios?si=jN96sZYeCpnWZoHn)
+
  
 | English | Malayalam | Tamil |
 |:---:| :---: | :---: |
@@ -375,11 +376,12 @@ and highlights the **repetitive tasks** each tool can help automate or accelerat
  [My chat with chatgpt](https://chatgpt.com/share/6a54628a-4288-83ee-baae-03f57fd161f2)
 
 
- [![Watch the video](https://img.youtube.com/vi/3h6MhRbOz8g/maxresdefault.jpg)](https://youtu.be/3h6MhRbOz8g?si=e6oLWshYMk6Jz4yY)
-
- 
+[![Watch the video](https://img.youtube.com/vi/3h6MhRbOz8g/maxresdefault.jpg)](https://youtu.be/3h6MhRbOz8g?si=e6oLWshYMk6Jz4yY)
  
 # Engineering Work Without a Permanent Record
+
+[![Watch the video](https://img.youtube.com/vi/_OKAwz2MsJs/maxresdefault.jpg)](https://youtu.be/_OKAwz2MsJs?si=PeHxab_levsp7R-d)
+
 
 ## A Personal Reflection on Documentation, Recognition, and Career Growth
 
@@ -528,6 +530,17 @@ These are simply my personal thoughts and questions. I do not claim to have the 
 
 [![Watch the video](https://img.youtube.com/vi/J0teGPUgAA0/maxresdefault.jpg)](https://youtu.be/J0teGPUgAA0?si=7ao2oKk2PVtFVBox)
 
+| [![Watch the video](https://img.youtube.com/vi/3rZmfwgb3F8/maxresdefault.jpg)](https://youtu.be/3rZmfwgb3F8?si=gAWGKO8U-ribNR_f) | [![Watch the video](https://img.youtube.com/vi/_s9kMsTpwvA/maxresdefault.jpg)](https://youtu.be/_s9kMsTpwvA?si=LoFVUmypBcl2qsLK) |  [![Watch the video](https://img.youtube.com/vi/lB2gOSwCoGI/maxresdefault.jpg)](https://youtu.be/lB2gOSwCoGI?si=5oCjGL5YI1m2-k0i) | [![Watch the video](https://img.youtube.com/vi/6brz3qvamVE/maxresdefault.jpg)](https://youtu.be/6brz3qvamVE?si=RmyigQQtpN8fb79W)|  [![Watch the video](https://img.youtube.com/vi/ePKl3hepa_o/maxresdefault.jpg)](https://youtu.be/ePKl3hepa_o?si=IGJlb_T2B8N-FyLi) | [![Watch the video](https://img.youtube.com/vi/bNAWwCMoivI/maxresdefault.jpg)](https://youtu.be/bNAWwCMoivI?si=LzaGL5-DR-kZOQY5) |
+|---|---|---| --- | --- | --- |
+| [![Watch the video](https://img.youtube.com/vi/sSlsa1KVr_M/maxresdefault.jpg)](https://youtu.be/sSlsa1KVr_M?si=4PkMb_SfuveA8cWq)| [![Watch the video](https://img.youtube.com/vi/RzrXSulKB8Y/maxresdefault.jpg)](https://youtu.be/RzrXSulKB8Y?si=VtVE3OKWSrQ90NG1) | [![Watch the video](https://img.youtube.com/vi/KbDdFNOH9RI/maxresdefault.jpg)](https://youtu.be/KbDdFNOH9RI?si=UjRb1tmMIaPDRU8-) | [![Watch the video](https://img.youtube.com/vi/xTT6cTXecVI/maxresdefault.jpg)](https://youtu.be/xTT6cTXecVI?si=omqqZw_cYRO4zrpP) | [![Watch the video](https://img.youtube.com/vi/4tp0Z5C7kas/maxresdefault.jpg)](https://youtu.be/4tp0Z5C7kas?si=OBeYNYMVBKlMZ0dj) | [![Watch the video](https://img.youtube.com/vi/sB77mj3rZMI/maxresdefault.jpg)](https://youtu.be/sB77mj3rZMI?si=JeCxGNC-qyp6GVsx) |
+| [![Watch the video](https://img.youtube.com/vi/gSyjeeOFL-I/maxresdefault.jpg)](https://youtu.be/gSyjeeOFL-I?si=4HP1Ghx6Biwahqdw)| [![Watch the video](https://img.youtube.com/vi/k9oj0kwlJUQ/maxresdefault.jpg)](https://youtu.be/k9oj0kwlJUQ?si=6S9r3NWlF8jQnevD) | [![Watch the video](https://img.youtube.com/vi/mQgVzj_cbRI/maxresdefault.jpg)](https://youtu.be/mQgVzj_cbRI?si=6_d0Sv_oT5e8r-LY) | [![Watch the video](https://img.youtube.com/vi/VgUwrB5p27U/maxresdefault.jpg)](https://youtu.be/VgUwrB5p27U?si=9_yneJhGP0Wh7j6v) | [![Watch the video](https://img.youtube.com/vi/Egxt_V1gPk4/maxresdefault.jpg)](https://youtu.be/Egxt_V1gPk4?si=mBtcQn8e71su4EgO) | [![Watch the video](https://img.youtube.com/vi/5uD7HncHcbc/maxresdefault.jpg)](https://youtu.be/5uD7HncHcbc?si=CgeRpgdn8Zlb1hGf) |
+|  [![Watch the video](https://img.youtube.com/vi/ignRcVuHEr0/maxresdefault.jpg)](https://youtu.be/ignRcVuHEr0?si=2lr8uZTh0HddTdYP) | [![Watch the video](https://img.youtube.com/vi/hyl-PDzmYBg/maxresdefault.jpg)](https://youtu.be/hyl-PDzmYBg?si=M1gFOZgccqYc4EcD) |  [![Watch the video](https://img.youtube.com/vi/sDIHabeLAlU/maxresdefault.jpg)](https://youtu.be/sDIHabeLAlU?si=fboV2zSgVyH4PTFw)| [![Watch the video](https://img.youtube.com/vi/KCMmy8C_TT8/maxresdefault.jpg)](https://youtu.be/KCMmy8C_TT8?si=QbiP9iRwWLVhY0R5) | [![Watch the video](https://img.youtube.com/vi/JHgg7vWNbhc/maxresdefault.jpg)](https://youtu.be/JHgg7vWNbhc?si=u2hpe_FGChYgIPE2) | [![Watch the video](https://img.youtube.com/vi/h6UGcHgPyT0/maxresdefault.jpg)](https://youtu.be/h6UGcHgPyT0?si=wfq8gPIOfnmP2Ffl) |
+| [![Watch the video](https://img.youtube.com/vi/rLOoeM77LHY/maxresdefault.jpg)](https://youtu.be/rLOoeM77LHY?si=LiJ_m9Uq5XS7klFu)| [![Watch the video](https://img.youtube.com/vi/mOCzL1xc7Zw/maxresdefault.jpg)](https://youtu.be/mOCzL1xc7Zw?si=jTrvGPby9AXxkDDs) | [![Watch the video](https://img.youtube.com/vi/KT0fxCW56UU/maxresdefault.jpg)](https://youtu.be/KT0fxCW56UU?si=4Eeo6OBrjXOUJ1HI)| [![Watch the video](https://img.youtube.com/vi/zWy6-Aj1_Do/maxresdefault.jpg)](https://youtu.be/zWy6-Aj1_Do?si=eZnhvBvDnt-NVbjx) | [![Watch the video](https://img.youtube.com/vi/BhMJd-q65qE/maxresdefault.jpg)](https://youtu.be/BhMJd-q65qE?si=o5apvUmdgTU6XXYB) |  [![Watch the video](https://img.youtube.com/vi/puCKqtt57Ug/maxresdefault.jpg)](https://youtu.be/puCKqtt57Ug?si=uqadqsZdve8bori9) |
+| [![Watch the video](https://img.youtube.com/vi/qs1r4J5kkNU/maxresdefault.jpg)](https://youtu.be/qs1r4J5kkNU?si=d8Kup7t5Pqs-LaOO )| [![Watch the video](https://img.youtube.com/vi/MUORrPI8jDg/maxresdefault.jpg)](https://youtu.be/MUORrPI8jDg?si=pgSg2kSEmv71Xsbw) | [![Watch the video](https://img.youtube.com/vi/g_qGP38603M/maxresdefault.jpg)](https://youtu.be/g_qGP38603M?si=J3Y20yppX3oMWDp4) | [![Watch the video](https://img.youtube.com/vi/1QXV2kV-9lU/maxresdefault.jpg)](https://youtu.be/1QXV2kV-9lU?si=tIBuj7uwv2DYZiOt)|  [![Watch the video](https://img.youtube.com/vi/Yh3PQb1MRqo/maxresdefault.jpg)](https://youtu.be/Yh3PQb1MRqo?si=LesD3Ae-LCvIzlh7) |  [![Watch the video](https://img.youtube.com/vi/7vjn-hq_abk/maxresdefault.jpg)](https://youtu.be/7vjn-hq_abk?si=kyrKmq6BAmQQ3D-9) |
+
+
+
+[![Watch the video](https://img.youtube.com/vi/wKxqOQqNi7I/maxresdefault.jpg)](https://youtu.be/wKxqOQqNi7I?si=TW8rxPVc-PJI82as)
 
 </details>
 
