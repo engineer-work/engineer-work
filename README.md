@@ -358,7 +358,19 @@ and highlights the **repetitive tasks** each tool can help automate or accelerat
 ---
 
 <details>
-<summary>🎓 Engineering Work Without a Permanent Record </summary>
+<summary>🎓 Engineering Work Without a Permanent Record <a href="https://chatgpt.com/share/6a63951b-0840-83ee-a2d6-1a2798318bda">Important document</a> </summary>
+<br>
+ 
+ [![Watch the video](https://img.youtube.com/vi/db6QIx11vMA/maxresdefault.jpg)](https://youtu.be/db6QIx11vMA?si=jtiMa1NcRmgZf1f9)
+
+ [![Watch the video](https://img.youtube.com/vi/_OKAwz2MsJs/maxresdefault.jpg)](https://youtu.be/_OKAwz2MsJs?si=PeHxab_levsp7R-d)
+ 
+| English | Malayalam | Tamil |
+|:---:| :---: | :---: |
+| [![Watch the video](https://img.youtube.com/vi/aYcrycNOY4s/mqdefault.jpg)](https://youtu.be/aYcrycNOY4s)  | [![Watch the video](https://img.youtube.com/vi/Xlu9-aQgxv4/mqdefault.jpg)](https://youtu.be/Xlu9-aQgxv4) |  [![Watch the video](https://img.youtube.com/vi/A8LkBelDQoc/mqdefault.jpg)](https://youtu.be/A8LkBelDQoc) |
+| [![Watch the video](https://img.youtube.com/vi/uNFUwHKiUhI/mqdefault.jpg)](https://youtu.be/uNFUwHKiUhI?si=Y12aMtTLeiTV7lmb) | [![Watch the video](https://img.youtube.com/vi/_-FOVTYlhGw/mqdefault.jpg)](https://youtu.be/_-FOVTYlhGw?si=jjt5ziNCN8PSYnCm) | [![Watch the video](https://img.youtube.com/vi/XM7io17bCz8/mqdefault.jpg)](https://youtu.be/XM7io17bCz8?si=J9apNWG8bCa1yZi-) |
+| [![Watch the video](https://img.youtube.com/vi/wJxR-LjRh3c/mqdefault.jpg)](https://youtu.be/wJxR-LjRh3c?si=NRFkddW2qbv9Wq3n) |  [![Watch the video](https://img.youtube.com/vi/vw9YvoLHfI0/mqdefault.jpg)](https://youtu.be/vw9YvoLHfI0?si=bnf3ersaxTmAheWp) | [![Watch the video](https://img.youtube.com/vi/nL3rfPgcaPI/mqdefault.jpg)](https://youtu.be/nL3rfPgcaPI?si=yor79iPkUH34nqI7) |
+|  [![Watch the video](https://img.youtube.com/vi/UnvtdsiTgD8/mqdefault.jpg)](https://youtu.be/UnvtdsiTgD8?si=mlpQa7rGATOC_hpb) | [![Watch the video](https://img.youtube.com/vi/JtM_iTPJIJw/mqdefault.jpg)](https://youtu.be/JtM_iTPJIJw?si=PKLgKVQGwGt_plCr) | [![Watch the video](https://img.youtube.com/vi/leINykUj5C0/mqdefault.jpg)](https://youtu.be/leINykUj5C0?si=bsQxOGpI3y2NUkB_) |
 
  [My chat with chatgpt](https://chatgpt.com/share/6a54628a-4288-83ee-baae-03f57fd161f2)
 
@@ -517,10 +529,7 @@ These are simply my personal thoughts and questions. I do not claim to have the 
 [![Watch the video](https://img.youtube.com/vi/J0teGPUgAA0/maxresdefault.jpg)](https://youtu.be/J0teGPUgAA0?si=7ao2oKk2PVtFVBox)
 
 
-
 </details>
-
-
 
 
 ----
