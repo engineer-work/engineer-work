@@ -8,6 +8,13 @@
 
 [![](https://img.youtube.com/vi/ULa9kI9ENt0/maxresdefault.jpg)](https://youtu.be/ULa9kI9ENt0?si=qwNZZBrONsiXqz81)
 
+---
+* 👋 I am **Gobal Krishnan V**. I am doing this for learning purposes. 📚
+* ⚠️ [My device](https://github.com/engineer-e/LLM-Python/blob/main/the_computer_i_used.md) was damaged due to voltage fluctuations. 💥💻 I am using my younger brother's laptop, ["Kishore Kumar V" 💻 Laptop](https://github.com/engineer-e/LLM-Python/blob/main/the_computer_i_using.md). ❤️ [system info](../Real-Time-Rendering/system_info.txt) ❤️, [gpu info](../Real-Time-Rendering//gpu_info.txt) ❤️
+* 🩺 Due to health issues, I resigned from my job in **June 2025**. 💼 I have been searching for a job for the past **1 year**, but I have not gotten one yet. 🙏
+
+---
+
 |  | |   |  |  |  |
 | :---: | :---: | :---:  | :---: | :---: | :---: |
 | [![](https://img.youtube.com/vi/Rezc-2nxzHM/hqdefault.jpg)](https://youtu.be/Rezc-2nxzHM?si=9yfZNDGOa0KPKMa_) | [![](https://img.youtube.com/vi/fCfQJSCOYd8/hqdefault.jpg)](https://youtu.be/fCfQJSCOYd8?si=Ao7dl2vpaHW5lUhc)  | [![](https://img.youtube.com/vi/D9sJdlKv52E/hqdefault.jpg)](https://youtu.be/D9sJdlKv52E?si=F6JK4GKpaYI9ivkb)  | [![](https://img.youtube.com/vi/GcWmHoDthjk/hqdefault.jpg)](https://youtu.be/GcWmHoDthjk?si=2xsqR8o-DsCVWkkE)  | [![](https://img.youtube.com/vi/a3j7JkZWpXk/hqdefault.jpg)](https://youtu.be/a3j7JkZWpXk?si=keA2lzjityujO-2p) | [![](https://img.youtube.com/vi/k5aj7akdNkM/hqdefault.jpg)](https://youtu.be/k5aj7akdNkM?si=AHX2EmthpCcPgmqQ) |
