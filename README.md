@@ -1194,7 +1194,7 @@ I focus on understanding systems deeply, solving problems logically, and applyin
 - React (Basics), WebGL [1](https://zenodo.org/records/18442246), [2](https://zenodo.org/records/18441588) 
 
 ### 📱 Mobile
-- Flutter, [Android]https://youtu.be/nWD5a5UxDyo?si=Yfyz5brqBOMmXlHS)
+- Flutter, [Android](https://youtu.be/nWD5a5UxDyo?si=Yfyz5brqBOMmXlHS)
 
 ### 🖥️ Graphics & Simulation
 - [OpenGL (C++)](https://github.com/engineer-e/Computer-Graphics-with-Modern-OpenGL-and-Cpp/blob/master/README.md)
