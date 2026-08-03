@@ -1203,7 +1203,8 @@ I focus on understanding systems deeply, solving problems logically, and applyin
 - WebGL (JavaScript) [1](https://zenodo.org/records/18442246), [2](https://zenodo.org/records/18441588)
 - Ray Tracing
    - [Ray Tracing in One Weekend](https://github.com/engineer-e/Real-Time-Rendering/blob/main/Ray%20Tracing%20in%20One%20Weekend%20-%20Javascript/readme.md)
-
+   - [Ray Tracing: The Next Week](https://github.com/engineer-e/Real-Time-Rendering/blob/main/Ray%20Tracing%20next%20Week%20-%20Javascript/readme.md)
+   
 ### 🗄️ Database
 - SQLite, MongoDB
 
