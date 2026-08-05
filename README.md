@@ -1,5 +1,5 @@
 <details>
- <Summary>My name is Gobal Krishnan V, I doing this for my Job and Learning Purpose</Summary>
+ <Summary>👋 I am Gobal Krishnan V. I am doing this for learning purposes. 📚</Summary>
  
 ###### 📌 My Profile Pic and some images,video are generate by AI, is not true. I done this to show my ambition. My true pic in [Instagram](https://www.instagram.com/gobalkrishnan.engineer/) only. 
 [![Electronic Profile](https://img.shields.io/badge/Electronic%20Profile-engineer--e-181717?logo=github)](https://github.com/engineer-e/) 
