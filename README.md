@@ -1,3 +1,5 @@
+<details>
+ <Summary>My name is Gobal Krishnan V, I doing this for my Job and Learning Purpose</Summary>
 ###### 📌 My Profile Pic and some images,video are generate by AI, is not true. I done this to show my ambition. My true pic in [Instagram](https://www.instagram.com/gobalkrishnan.engineer/) only. 
 [![Electronic Profile](https://img.shields.io/badge/Electronic%20Profile-engineer--e-181717?logo=github)](https://github.com/engineer-e/) 
 [![Work Profile](https://img.shields.io/badge/Work%20Profile-engineer--work-181717?logo=github)](https://github.com/engineer-work/) 
@@ -1175,6 +1177,9 @@ I focus on understanding systems deeply, solving problems logically, and applyin
 | [![Watch the video](https://img.youtube.com/vi/Iz2IWxTklxI/default.jpg)](https://youtu.be/Iz2IWxTklxI?si=HGCEPbnjPNNxbIRX) [![Watch the video](https://img.youtube.com/vi/aoMtd3-ZucM/default.jpg)](https://youtu.be/aoMtd3-ZucM)  [![Watch the video](https://img.youtube.com/vi/rZs4mnu1ZMg/default.jpg)](https://youtu.be/rZs4mnu1ZMg) | [![Watch the video](https://img.youtube.com/vi/BE9xyLz4iko/maxresdefault.jpg)](https://youtu.be/BE9xyLz4iko?si=fB1ltGTKeixyVAbO)  | [![Watch the video](https://img.youtube.com/vi/9zTJ3rU732c/default.jpg)](https://youtu.be/9zTJ3rU732c?si=qHefxlsGdJ_d95sK)   [![Watch the video](https://img.youtube.com/vi/NX3F7EdG9mM/default.jpg)](https://youtu.be/NX3F7EdG9mM) [![Watch the video](https://img.youtube.com/vi/Ivo3AJPYWD0/default.jpg)](https://youtu.be/Ivo3AJPYWD0) |
 
 </details>
+
+</details>
+
 
 
 # 🚀 AI-Driven Software Development: AI IDEs, Google AI Studio, Antigravity, and Other AI Platforms Can Handle Most Coding, While Humans Focus on Business Logic, Architecture, and Client Requirements
