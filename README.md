@@ -1178,80 +1178,9 @@ I focus on understanding systems deeply, solving problems logically, and applyin
 
 </details>
 
-</details>
-
-
-
-# 🚀 AI-Driven Software Development: AI IDEs, Google AI Studio, Antigravity, and Other AI Platforms Can Handle Most Coding, While Humans Focus on Business Logic, Architecture, and Client Requirements
-
-
-## 🛠️ Tech Stack
-
-### LLM
-- [LLM](https://github.com/engineer-e/LLM-Python/blob/main/readme.md)
-
-
-### 💻 Languages
-- Python, Java, Dart, JavaScript, C++
-
-### 🌐 Backend
-- Django, Spring Boot, REST APIs
-
-### 🎨 Frontend
-- React (Basics), WebGL [1](https://zenodo.org/records/18442246), [2](https://zenodo.org/records/18441588) 
-
-### 📱 Mobile
-- Flutter, [Android](https://youtu.be/nWD5a5UxDyo?si=Yfyz5brqBOMmXlHS)
-
-### 🖥️ Graphics & Simulation
-- [OpenGL (C++)](https://github.com/engineer-e/Computer-Graphics-with-Modern-OpenGL-and-Cpp/blob/master/README.md)
-- WebGL (JavaScript) [1](https://zenodo.org/records/18442246), [2](https://zenodo.org/records/18441588)
-- Ray Tracing
-   - Ray Tracing in One Weekend - [cpp](https://github.com/engineer-e/Real-Time-Rendering/blob/main/Ray%20Tracing%20in%20One%20Weekend%20-%20Cpp/readme.md), [js](https://github.com/engineer-e/Real-Time-Rendering/blob/main/Ray%20Tracing%20in%20One%20Weekend%20-%20Javascript/readme.md), [ipynb](https://github.com/engineer-e/Real-Time-Rendering/blob/main/Ray%20Tracing%20in%20One%20Weekend%20-%20Python/ray_tracing_in_one_weekend.md)
-   - Ray Tracing: The Next Week - [js](https://github.com/engineer-e/Real-Time-Rendering/blob/main/Ray%20Tracing%20next%20Week%20-%20Javascript/readme.md)
-   
-### 🗄️ Database
-- SQLite, MongoDB
-
-### ⚙️ Tools
-- Git, GitHub
-
 ---
 
-## 🧠 Interests
-- Backend Development
-- System Design
-- Simulation & Graphics Programming
-- Mathematics & Analytical Thinking
 
----
-
-## 📌 Current Focus
-- Improving backend development skills
-- Building real-world projects
-- Learning system design and scalable architecture
-- Exploring simulation using graphics (OpenGL/WebGL)
-
----
-
-## 🚀 Projects
-- 🔹 MathSci Editor → https://engineer-work.github.io/MathSci-Simulation/
-- 🔹 Planner App → https://engineer-work.github.io/planner-app/
-
----
-
-## 📫 Contact
-- Email: gobalkrishnan.work@gmail.com, dr.bot.engineer@gmail.com
-     
----
-
-## 📊 Learning Philosophy
-> Learn → Apply → Test → Improve → Repeat  if 🧠 [ADHD Mode](https://github.com/Eye-Read/EyeRead)
-
-📌 My Learning Habit:  
-https://docs.google.com/spreadsheets/d/e/2PACX-1vTNRg4Puo7QCFcm4ZXVF1dnX4qL6ofzOsO__GwuHJr-yke0QUXZtI51cr9Mt8Ui7QSoKTzOlr_SuB-G/pubhtml?gid=1898283119&single=true
-
----
 
 ### [AI Roadmap](https://chatgpt.com/share/6a098955-d190-8323-ac58-8d3dbc25dca5) 📈🗄️ [Ambition Model : Ambition Net](https://github.com/engineer-work/engineer-work/blob/main/watch/ambition/layer_model.md)
 
@@ -1794,3 +1723,79 @@ Be the one who breaks the cycle, not continues it.](https://engineer-work.github
 ![](https://github.com/engineer-e/engineer-e/blob/main/images/device_i_losted/necklace%20i%20missed..png)
  
 </details>
+
+
+</details>
+
+
+
+# 🚀 AI-Driven Software Development: AI IDEs, Google AI Studio, Antigravity, and Other AI Platforms Can Handle Most Coding, While Humans Focus on Business Logic, Architecture, and Client Requirements
+
+
+## 🛠️ Tech Stack
+
+### LLM
+- [LLM](https://github.com/engineer-e/LLM-Python/blob/main/readme.md)
+
+
+### 💻 Languages
+- Python, Java, Dart, JavaScript, C++
+
+### 🌐 Backend
+- Django, Spring Boot, REST APIs
+
+### 🎨 Frontend
+- React (Basics), WebGL [1](https://zenodo.org/records/18442246), [2](https://zenodo.org/records/18441588) 
+
+### 📱 Mobile
+- Flutter, [Android](https://youtu.be/nWD5a5UxDyo?si=Yfyz5brqBOMmXlHS)
+
+### 🖥️ Graphics & Simulation
+- [OpenGL (C++)](https://github.com/engineer-e/Computer-Graphics-with-Modern-OpenGL-and-Cpp/blob/master/README.md)
+- WebGL (JavaScript) [1](https://zenodo.org/records/18442246), [2](https://zenodo.org/records/18441588)
+- Ray Tracing
+   - Ray Tracing in One Weekend - [cpp](https://github.com/engineer-e/Real-Time-Rendering/blob/main/Ray%20Tracing%20in%20One%20Weekend%20-%20Cpp/readme.md), [js](https://github.com/engineer-e/Real-Time-Rendering/blob/main/Ray%20Tracing%20in%20One%20Weekend%20-%20Javascript/readme.md), [ipynb](https://github.com/engineer-e/Real-Time-Rendering/blob/main/Ray%20Tracing%20in%20One%20Weekend%20-%20Python/ray_tracing_in_one_weekend.md)
+   - Ray Tracing: The Next Week - [js](https://github.com/engineer-e/Real-Time-Rendering/blob/main/Ray%20Tracing%20next%20Week%20-%20Javascript/readme.md)
+   
+### 🗄️ Database
+- SQLite, MongoDB
+
+### ⚙️ Tools
+- Git, GitHub
+
+---
+
+## 🧠 Interests
+- Backend Development
+- System Design
+- Simulation & Graphics Programming
+- Mathematics & Analytical Thinking
+
+---
+
+## 📌 Current Focus
+- Improving backend development skills
+- Building real-world projects
+- Learning system design and scalable architecture
+- Exploring simulation using graphics (OpenGL/WebGL)
+
+---
+
+## 🚀 Projects
+- 🔹 MathSci Editor → https://engineer-work.github.io/MathSci-Simulation/
+- 🔹 Planner App → https://engineer-work.github.io/planner-app/
+
+---
+
+## 📫 Contact
+- Email: gobalkrishnan.work@gmail.com, dr.bot.engineer@gmail.com
+     
+---
+
+## 📊 Learning Philosophy
+> Learn → Apply → Test → Improve → Repeat  if 🧠 [ADHD Mode](https://github.com/Eye-Read/EyeRead)
+
+📌 My Learning Habit:  
+https://docs.google.com/spreadsheets/d/e/2PACX-1vTNRg4Puo7QCFcm4ZXVF1dnX4qL6ofzOsO__GwuHJr-yke0QUXZtI51cr9Mt8Ui7QSoKTzOlr_SuB-G/pubhtml?gid=1898283119&single=true
+
+---
