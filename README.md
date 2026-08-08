@@ -1766,6 +1766,18 @@ Be the one who breaks the cycle, not continues it.](https://engineer-work.github
 
 ### Nvidia Omniverse
 
+
+> Franka, Go2, Humanoid, Quadruped — these robots are already in the examples of NVIDIA Isaac Sim. 🤖 Doing robot design is not difficult. In NVIDIA Isaac Sim and OpenUSD, robot design is easy if you have an RTX or GTX-supported graphics card. 💻 A laptop or desktop with 32 GB RAM is enough to design a robot.
+
+> Doing robot design now is easy, but syncing this design to the real device and buying the robot parts is difficult for a family that does not have enough money to lead a normal life. 💰
+
+> Since money is a number, some groups control using that number in the name of money. 🔢💰
+
+> Everyone can design robots, but the constraint is based on knowledge and the number format of money. 🤖📚💰
+
+> Like in *Ratatouille* 🐀🍳, where a rat can cook food, anyone can make food if they have the ability and opportunity. In the same way, anyone can design robots if they have the knowledge and tools. 🤖🧠💻
+
+
 | franka | Go2 | Quadruped | Humanoid | 
 | --- | --- | --- | --- |
 | [![Watch the video](https://img.youtube.com/vi/WUNQoO9IQP4/maxresdefault.jpg)](https://youtu.be/WUNQoO9IQP4?si=W-87NNUNMGyN3VnC) | [![Watch the video](https://img.youtube.com/vi/GbeYs65Yo08/maxresdefault.jpg)](https://youtu.be/GbeYs65Yo08?si=sl-o8xB3MQV2WZaN) | [![Watch the video](https://img.youtube.com/vi/kinaAm6ItwM/maxresdefault.jpg)](https://youtu.be/kinaAm6ItwM?si=Aoeal5Fb4FdwZMsk) | [![Watch the video](https://img.youtube.com/vi/MWFDrvzNEcc/maxresdefault.jpg)](https://youtu.be/MWFDrvzNEcc?si=Dnjy_EQXvb7DLd-z) |
