@@ -1764,6 +1764,12 @@ Be the one who breaks the cycle, not continues it.](https://engineer-work.github
 ### ⚙️ Tools
 - Git, GitHub
 
+### Nvidia Omniverse
+
+| franka | Go2 | Quadruped | Humanoid | 
+| --- | --- | --- | --- |
+| [![Watch the video](https://img.youtube.com/vi/WUNQoO9IQP4/maxresdefault.jpg)](https://youtu.be/WUNQoO9IQP4?si=W-87NNUNMGyN3VnC) | [![Watch the video](https://img.youtube.com/vi/GbeYs65Yo08/maxresdefault.jpg)](https://youtu.be/GbeYs65Yo08?si=sl-o8xB3MQV2WZaN) | [![Watch the video](https://img.youtube.com/vi/kinaAm6ItwM/maxresdefault.jpg)](https://youtu.be/kinaAm6ItwM?si=Aoeal5Fb4FdwZMsk) | [![Watch the video](https://img.youtube.com/vi/MWFDrvzNEcc/maxresdefault.jpg)](https://youtu.be/MWFDrvzNEcc?si=Dnjy_EQXvb7DLd-z) |
+
 ---
 
 ## 🧠 Interests
