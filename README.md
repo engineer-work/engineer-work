@@ -1764,8 +1764,8 @@ Be the one who breaks the cycle, not continues it.](https://engineer-work.github
 ### ⚙️ Tools
 - Git, GitHub
 
-### Nvidia Omniverse
-
+<details>
+ <summary> <h1>Nvidia Omniverse</h1></summary>
 
 > Franka, Go2, Humanoid, Quadruped — these robots are already in the examples of NVIDIA Isaac Sim. 🤖 Doing robot design is not difficult. In NVIDIA Isaac Sim and OpenUSD, robot design is easy if you have an RTX or GTX-supported graphics card. 💻 A laptop or desktop with 32 GB RAM is enough to design a robot.
 
@@ -1783,6 +1783,10 @@ Be the one who breaks the cycle, not continues it.](https://engineer-work.github
 | [![Watch the video](https://img.youtube.com/vi/WUNQoO9IQP4/maxresdefault.jpg)](https://youtu.be/WUNQoO9IQP4?si=W-87NNUNMGyN3VnC) | [![Watch the video](https://img.youtube.com/vi/GbeYs65Yo08/maxresdefault.jpg)](https://youtu.be/GbeYs65Yo08?si=sl-o8xB3MQV2WZaN) | [![Watch the video](https://img.youtube.com/vi/kinaAm6ItwM/maxresdefault.jpg)](https://youtu.be/kinaAm6ItwM?si=Aoeal5Fb4FdwZMsk) | [![Watch the video](https://img.youtube.com/vi/MWFDrvzNEcc/maxresdefault.jpg)](https://youtu.be/MWFDrvzNEcc?si=Dnjy_EQXvb7DLd-z) | [![Watch the video](https://img.youtube.com/vi/3YG4h5GbTqU/maxresdefault.jpg)](https://youtu.be/3YG4h5GbTqU?si=lfud-j6A_Y20Zj4p) | [![Watch the video](https://img.youtube.com/vi/pPnVsRPFWV8/maxresdefault.jpg)](https://youtu.be/pPnVsRPFWV8?si=xR2thmLFU1uHRABh) | 
 | [![Watch the video](https://img.youtube.com/vi/abFSngiv1jk/maxresdefault.jpg)](https://youtu.be/abFSngiv1jk?si=gfGn1vcMOzRxNApx) | [![Watch the video](https://img.youtube.com/vi/rsBobT9INP4/maxresdefault.jpg)](https://youtu.be/rsBobT9INP4?si=BwJcJJGyFGo-CXi5) | [![Watch the video](https://img.youtube.com/vi/bxwM1LZV-QY/maxresdefault.jpg)](https://youtu.be/bxwM1LZV-QY?si=u0CNQ4XGMSKUkfFc) | [![Watch the video](https://img.youtube.com/vi/kbTWiy9bZ7M/maxresdefault.jpg)](https://youtu.be/kbTWiy9bZ7M?si=Az312bw-E63dhSYj) |[![Watch the video](https://img.youtube.com/vi/2XYnhUEeVho/maxresdefault.jpg)](https://youtu.be/2XYnhUEeVho?si=_fnzlV7WmUMrWUD9) |[![Watch the video](https://img.youtube.com/vi/-2nCxItGNvE/maxresdefault.jpg)](https://youtu.be/-2nCxItGNvE?si=yHy7hrkLINPVnVYF) |
 |  [![Watch the video](https://img.youtube.com/vi/MY7jZGZw9vA/maxresdefault.jpg)](https://youtu.be/MY7jZGZw9vA?si=wkOmjarde_7wBmkQ) | [![Watch the video](https://img.youtube.com/vi/xF1kkf7zXRA/maxresdefault.jpg)](https://youtu.be/xF1kkf7zXRA?si=rUri37KT6x8TtJ63) | [![Watch the video](https://img.youtube.com/vi/9j3yBOvtRn8/maxresdefault.jpg)](https://youtu.be/9j3yBOvtRn8?si=Ik4qIRw4AM9_qGaJ) | [![Watch the video](https://img.youtube.com/vi/n6LSJcV5Vco/hqdefault.jpg)](https://youtu.be/n6LSJcV5Vco?si=QrD0tXcEO7IVVjvj) |  [![Watch the video](https://img.youtube.com/vi/ulRHTMLnte4/maxresdefault.jpg)](https://youtu.be/ulRHTMLnte4?si=n2cUWYu91NA1KOxB) | [![Watch the video](https://img.youtube.com/vi/h9Z4oGN89MU/maxresdefault.jpg)](https://youtu.be/h9Z4oGN89MU?si=IcebVbs3boHGwNK1) |
+
+ 
+</details>
+
 
 ---
 
