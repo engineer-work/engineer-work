@@ -1740,7 +1740,7 @@ Be the one who breaks the cycle, not continues it.](https://engineer-work.github
 
 
 ### 💻 Languages
-- Python, Java, Dart, JavaScript, C++
+- Python, Java, Dart, [JavaScript](https://youtu.be/0xyPmHdFMSw?si=zDYai_9p4Wd562CQ), C++
 
 ### 🌐 Backend
 - Django, Spring Boot, REST APIs
