@@ -1825,3 +1825,36 @@ Be the one who breaks the cycle, not continues it.](https://engineer-work.github
 https://docs.google.com/spreadsheets/d/e/2PACX-1vTNRg4Puo7QCFcm4ZXVF1dnX4qL6ofzOsO__GwuHJr-yke0QUXZtI51cr9Mt8Ui7QSoKTzOlr_SuB-G/pubhtml?gid=1898283119&single=true
 
 ---
+
+## 📚 Doing This Alone Using AI 🤖
+
+I am doing this entire learning journey **alone**. 👤💪
+
+This repository contains a large amount of technical learning and documentation across electronics, EDA, simulation, computer graphics, ray tracing, software development, AI, and other engineering topics. 📚💻🔬
+
+For example, the **Large Language Model** section is not just one small project. It involves learning and connecting many different concepts, including mathematics, Python, machine learning, neural networks, deep learning, NLP, transformers, datasets, training, inference, optimization, GPU computing, and software engineering. 🧠🤖
+
+I use **AI tools such as ChatGPT and Gemini as learning assistants**. 🤖 They help me understand concepts, find explanations, compare information, debug code, organize notes, and explore topics. However, I still have to read, question, verify, experiment, write code, correct mistakes, and connect the concepts myself. 🧠🔍💻
+
+If this work were divided among a large team, different people could work on different chapters, subjects, experiments, documentation, and implementations simultaneously. 👥⚡ A large project can therefore progress much faster when many people contribute.
+
+**I don't have that team. I am doing the work alone.** 👤
+
+So when I spend **weeks or months on something that might appear simple from the outside**, it is because I am learning and building the different parts myself, one step at a time. ⏳📖
+
+### 🤖 AI helps me — but AI is not the team.
+
+AI can accelerate my learning and development, but it does not replace the need for me to understand the material, make decisions, test implementations, fix errors, and connect everything together. 🧠⚙️
+
+**One person + AI ≠ a 1,000-person engineering team.**
+
+It is still **one person doing the work**, with AI helping me work more effectively. 💪🤖
+
+I am building this repository **chapter by chapter, concept by concept, project by project, and experiment by experiment.** 📚🧩🔬
+
+It may take a long time. ⏳
+
+But **I am doing it myself.** ❤️‍🔥
+
+
+---
