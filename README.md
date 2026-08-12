@@ -1736,6 +1736,7 @@ Be the one who breaks the cycle, not continues it.](https://engineer-work.github
 ## 🛠️ Tech Stack
 
 ### LLM
+- [Neural Network](https://github.com/engineer-e/Neural-Network/blob/main/README.md)
 - [LLM](https://github.com/engineer-e/LLM-Python/blob/main/readme.md)
 
 
