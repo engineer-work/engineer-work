@@ -1811,7 +1811,7 @@ Be the one who breaks the cycle, not continues it.](https://engineer-work.github
 - 🔹 MathSci Editor → https://engineer-work.github.io/MathSci-Simulation/
 - 🔹 Planner App → https://engineer-work.github.io/planner-app/
 - 🔹 Basic Electromagnetic Sim in Copper Wire & Plate → https://engineer-e.github.io/LTspice/sim/em/copper_conductive_simulator_phase_4.html
-
+- 🔹 Medicinal Manuscript → https://medical-manuscript.ai.studio/
 ---
 
 ## 📫 Contact
