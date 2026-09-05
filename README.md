@@ -1743,7 +1743,7 @@ Be the one who breaks the cycle, not continues it.](https://engineer-work.github
 ### LLM
 - [Neural Network](https://github.com/engineer-e/Neural-Network/blob/main/README.md)
 - [LLM](https://github.com/engineer-e/LLM-Python/blob/main/readme.md)
-
+- [Ollama](https://ollama.com/), [Model Collection](https://github.com/engineer-e/Ollama-Model-Collection)
 
 ### 💻 Languages
 - Python, Java, Dart, [JavaScript](https://youtu.be/0xyPmHdFMSw?si=zDYai_9p4Wd562CQ), C++
