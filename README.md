@@ -1832,6 +1832,7 @@ https://docs.google.com/spreadsheets/d/e/2PACX-1vTNRg4Puo7QCFcm4ZXVF1dnX4qL6ofzO
 
 ---
 
+
 ## 📚 Doing This Alone Using AI 🤖
 
 I am doing this entire learning journey **alone**. 👤💪
@@ -1867,7 +1868,7 @@ But **I am doing it myself.** ❤️‍🔥
 | [![Watch the video](https://img.youtube.com/vi/U130wnpi-C0/maxresdefault.jpg)](https://youtu.be/U130wnpi-C0?si=sfTX67hz1YkeyQbO) | [![Watch the video](https://img.youtube.com/vi/VRGL6rDtiFI/maxresdefault.jpg)](https://youtu.be/VRGL6rDtiFI?si=mzINXamfipJ_bYjd) | [![Watch the video](https://img.youtube.com/vi/aa9ce-TvBpQ/maxresdefault.jpg)](https://youtu.be/aa9ce-TvBpQ?si=F8uxk6CXaKGZaDpA) |
 
 
-
+[![Watch the video](https://img.youtube.com/vi/AnGdzz-XWcE/maxresdefault.jpg)](https://youtu.be/AnGdzz-XWcE?si=pwLgeTV3CLbccji9)
 
 
 ---
