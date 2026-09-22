@@ -1880,3 +1880,9 @@ But **I am doing it myself.** ❤️‍🔥
 [![Watch the video](https://img.youtube.com/vi/h5dwH7nx9do/maxresdefault.jpg)](https://youtu.be/h5dwH7nx9do?si=V8oRVxlg9Vdnx6Ww)
 
 ---
+
+
+🌍💔 The lives of good and innocent girls 👧, boys 👦, women 👩, and men 👨 are being spoiled in the name of 👑 kingship, 🏛️ leadership, ⭐ fame, 😤 pride, 💰 money, 🏁 winning the race, and 🏆 success — while innocent families 👨‍👩‍👧‍👦 suffer in silence. 🥀💔🕊️
+
+# Let people live with dignity, freedom, peace, and respect. ❤️🕊️🤝🌱 War Happens due to this reason. Before, It happen for food & water. But, It happen for different think & things.
+
