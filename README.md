@@ -1886,3 +1886,5 @@ But **I am doing it myself.** ❤️‍🔥
 
 # Let people live with dignity, freedom, peace, and respect. ❤️🕊️🤝🌱 War Happens due to this reason. Before, It happen for food & water. But, It happen for different think & things.
 
+[![Watch the video](https://img.youtube.com/vi/t2b9jaSEr2w/maxresdefault.jpg)](https://youtu.be/t2b9jaSEr2w?si=IeXqlyM-6z_PAeQM)
+
