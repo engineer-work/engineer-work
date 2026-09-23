@@ -1896,3 +1896,6 @@ But **I am doing it myself.** ❤️‍🔥
 |  [![Watch the video](https://img.youtube.com/vi/5h_vKrHzRvg/hqdefault.jpg)](https://youtu.be/5h_vKrHzRvg?si=LIgC6KbKM6NsRqTT) |  [![Watch the video](https://img.youtube.com/vi/ifq-6DOktKg/hqdefault.jpg)](https://youtu.be/ifq-6DOktKg?si=qvzhFfDm3bMpeKsD) |  [![Watch the video](https://img.youtube.com/vi/0zpBTtoHa0s/hqdefault.jpg)](https://youtu.be/0zpBTtoHa0s?si=eEnf0jY2B4l8s6F2)  |
 | --- | --- | --- |
 | [![Watch the video](https://img.youtube.com/vi/Q1OreyX0-fw/hqdefault.jpg)](https://youtu.be/Q1OreyX0-fw?si=yMa_OIldj39Ewg8_) |  [![Watch the video](https://img.youtube.com/vi/NtJCdiK7opw/hqdefault.jpg)](https://youtu.be/NtJCdiK7opw?si=ulzeU6lH2ZqIgP6C) | [![Watch the video](https://img.youtube.com/vi/sp5yGO0Lnso/hqdefault.jpg)](https://youtu.be/sp5yGO0Lnso?si=JYXTUuIC_Z-m1_Hs)  |
+
+[![Watch the video](https://img.youtube.com/vi/rvtygG4n6ew/maxresdefault.jpg)](https://www.youtube.com/live/rvtygG4n6ew?si=9gdcm2TJOPMdiIJ-)
+
