@@ -1888,3 +1888,10 @@ But **I am doing it myself.** ❤️‍🔥
 
 [![Watch the video](https://img.youtube.com/vi/t2b9jaSEr2w/maxresdefault.jpg)](https://youtu.be/t2b9jaSEr2w?si=IeXqlyM-6z_PAeQM)
 
+
+[![Watch the video](https://img.youtube.com/vi/4yFNOuo_YxI/maxresdefault.jpg)](https://youtu.be/4yFNOuo_YxI?si=q5dNfIv1yXCau_tf)
+
+# History of Earth Planet Formation 
+
+
+[![Watch the video](https://img.youtube.com/vi/Q1OreyX0-fw/hqdefault.jpg)](https://youtu.be/Q1OreyX0-fw?si=yMa_OIldj39Ewg8_) [![Watch the video](https://img.youtube.com/vi/NtJCdiK7opw/hqdefault.jpg)](https://youtu.be/NtJCdiK7opw?si=ulzeU6lH2ZqIgP6C)
