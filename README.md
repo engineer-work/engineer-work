@@ -1744,7 +1744,7 @@ Be the one who breaks the cycle, not continues it.](https://engineer-work.github
 
 ### LLM
 - [Neural Network](https://github.com/engineer-e/Neural-Network/blob/main/README.md)
-- [LLM](https://github.com/engineer-e/LLM-Python/blob/main/readme.md)
+- [LLM](https://www.manning.com/books/build-a-large-language-model-from-scratch)
 - [Ollama](https://ollama.com/), [Model Collection](https://github.com/engineer-e/Ollama-Model-Collection)
 
 ### 💻 Languages
