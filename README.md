@@ -1738,6 +1738,10 @@ Be the one who breaks the cycle, not continues it.](https://engineer-work.github
 
 # 🚀 AI-Driven Software Development: AI IDEs, Google AI Studio, Antigravity, and Other AI Platforms Can Handle Most Coding, While Humans Focus on Business Logic, Architecture, and Client Requirements
 
+| | | |
+| --- | --- | --- |
+| [![Watch the video](https://img.youtube.com/vi/kGsbNNaEcZo/maxresdefault.jpg)](https://youtu.be/kGsbNNaEcZo?si=88eUJVPOKdhB_KWp) | [![Watch the video](https://img.youtube.com/vi/CFlbHM5wxiU/maxresdefault.jpg)](https://youtu.be/CFlbHM5wxiU?si=YrX4VSea0G3Hu9SX) | [![Watch the video](https://img.youtube.com/vi/qfAOej6SLjw/maxresdefault.jpg)](https://youtu.be/qfAOej6SLjw?si=JbDoCCZK9DxPad-A) |
+
  [![Watch the video](https://img.youtube.com/vi/AVvDFsMUxf0/maxresdefault.jpg)](https://youtu.be/AVvDFsMUxf0?si=crz17rC_axqGLW4O)
 
 ## 🛠️ Tech Stack
