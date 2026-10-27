@@ -1791,17 +1791,17 @@ Be the one who breaks the cycle, not continues it.](https://engineer-work.github
 
 # Books : Large Language Model 
 
-| S.No | Books | Learned from Youtube Video |
-|---|--- |---|
-|0a | [Machine Learning with PyTorch and Scikit-Learn: Develop machine learning and deep learning models with Python](https://www.packtpub.com/en-us/product/machine-learning-with-pytorch-and-scikit-learn-9781801816380) |  [![Watch the video](https://img.youtube.com/vi/VUvShOEFdQo/default.jpg)](https://youtube.com/playlist?list=PLTKMiZHVd_2KyGirGEvKlniaWeLOHhUF3&si=0nHLk_znjevXA1v-)|
-|0b | [Hands-On Machine Learning](https://www.amazon.in/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/9355421982) | | 
-|1| [Neural Network](https://github.com/NNDesignDeepLearning/NNDesignDeepLearning) | |
-|2| [Build a Large Language Model](https://www.manning.com/books/build-a-large-language-model-from-scratch) | [![Watch the video](https://img.youtube.com/vi/4yNswvhPWCQ/default.jpg)](https://youtube.com/playlist?list=PLBwE3Q2KZ4kM&si=5nrvd6gQ0blceMdC) |
-|3| [Build a Reasoning Model (From Scratch)](https://www.manning.com/books/build-a-reasoning-model-from-scratch?utm_source=raschka&utm_medium=affiliate&utm_campaign=book_raschka2&a_aid=raschka&a_bid=4c3c5398&chan=mm_github) | [![Watch the video](https://img.youtube.com/vi/msp69FR5NZs/default.jpg)](https://youtube.com/playlist?list=PLfrHAQCRxtUs&si=BcaG9orPkyDxyC4z)  |
-|4| [ Data Analysis with LLMs Text, tables, images and sound](https://www.manning.com/books/data-analysis-with-llms) | |
-|5| [Ollama](https://ollama.com/), [Model Collection](https://github.com/engineer-e/Ollama-Model-Collection) | |
-|6| [Google Agentic Design Pattern](https://www.amazon.in/Agentic-Design-Patterns-Hands-Intelligent/dp/3032014018) | [![Watch the video](https://img.youtube.com/vi/e2zIr_2JMbE/default.jpg)](https://youtu.be/e2zIr_2JMbE?si=f4bNazZ9z9BngL0C) |
-|7| [30 Agents Every AI Engineer Must Build: Build production-ready agent systems using proven architectures and patterns](https://www.packtpub.com/en-us/product/30-agents-every-ai-engineer-must-build-9781806109005) | |
+| S.No | Books | Learned from Youtube Video | What my  Learning Status? |
+|---|--- |---|---|
+|0a | [Machine Learning with PyTorch and Scikit-Learn: Develop machine learning and deep learning models with Python](https://www.packtpub.com/en-us/product/machine-learning-with-pytorch-and-scikit-learn-9781801816380) |  [![Watch the video](https://img.youtube.com/vi/VUvShOEFdQo/default.jpg)](https://youtube.com/playlist?list=PLTKMiZHVd_2KyGirGEvKlniaWeLOHhUF3&si=0nHLk_znjevXA1v-)| |
+|0b | [Hands-On Machine Learning](https://www.amazon.in/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/9355421982) | | |
+|1| [Neural Network](https://github.com/NNDesignDeepLearning/NNDesignDeepLearning) | | [code](https://github.com/engineer-e/Neural-Network/blob/main/Neural_Network_Design_2e/README.md) |
+|2| [Build a Large Language Model](https://www.manning.com/books/build-a-large-language-model-from-scratch) | [![Watch the video](https://img.youtube.com/vi/4yNswvhPWCQ/default.jpg)](https://youtube.com/playlist?list=PLBwE3Q2KZ4kM&si=5nrvd6gQ0blceMdC) | |
+|3| [Build a Reasoning Model (From Scratch)](https://www.manning.com/books/build-a-reasoning-model-from-scratch?utm_source=raschka&utm_medium=affiliate&utm_campaign=book_raschka2&a_aid=raschka&a_bid=4c3c5398&chan=mm_github) | [![Watch the video](https://img.youtube.com/vi/msp69FR5NZs/default.jpg)](https://youtube.com/playlist?list=PLfrHAQCRxtUs&si=BcaG9orPkyDxyC4z)  | |
+|4| [ Data Analysis with LLMs Text, tables, images and sound](https://www.manning.com/books/data-analysis-with-llms) | | |
+|5| [Ollama](https://ollama.com/), [Model Collection](https://github.com/engineer-e/Ollama-Model-Collection) | | |
+|6| [Google Agentic Design Pattern](https://www.amazon.in/Agentic-Design-Patterns-Hands-Intelligent/dp/3032014018) | [![Watch the video](https://img.youtube.com/vi/e2zIr_2JMbE/default.jpg)](https://youtu.be/e2zIr_2JMbE?si=f4bNazZ9z9BngL0C) | |
+|7| [30 Agents Every AI Engineer Must Build: Build production-ready agent systems using proven architectures and patterns](https://www.packtpub.com/en-us/product/30-agents-every-ai-engineer-must-build-9781806109005) | | |
 
 <details>
  <summary> <h1>Nvidia Omniverse</h1></summary>
