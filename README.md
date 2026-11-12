@@ -1,3 +1,10 @@
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU5Dxcuc7qu1QhzLS8SUzYKQTRp03hlI6aexewiQUlOA&s=10)
+
+<details>
+ <summary>
+ Work Profile 
+ </summary>
+
 ###### 📌 My Profile Pic and some images,video are generate by AI, is not true. I done this to show my ambition. My true pic in [Instagram](https://www.instagram.com/gobalkrishnan.engineer/) only. 
 
 <details><summary>🚀 AI-Driven Software Development: AI IDEs, Google AI Studio, Antigravity, and Other AI Platforms Can Handle Most Coding, While Humans Focus on Business Logic, Architecture, and Client Requirements</summary>
@@ -1946,3 +1953,4 @@ But **I am doing it myself.** ❤️‍🔥
 
 </details>
 
+</details>
