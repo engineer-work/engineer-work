@@ -1,5 +1,7 @@
 ###### 📌 My Profile Pic and some images,video are generate by AI, is not true. I done this to show my ambition. My true pic in [Instagram](https://www.instagram.com/gobalkrishnan.engineer/) only. 
 
+<details><summary>🚀 AI-Driven Software Development: AI IDEs, Google AI Studio, Antigravity, and Other AI Platforms Can Handle Most Coding, While Humans Focus on Business Logic, Architecture, and Client Requirements</summary>
+
 [![Electronic Profile](https://img.shields.io/badge/Electronic%20Profile-engineer--e-181717?logo=github)](https://github.com/engineer-e/) 
 [![Work Profile](https://img.shields.io/badge/Work%20Profile-engineer--work-181717?logo=github)](https://github.com/engineer-work/) 
 [![Instagram](https://img.shields.io/badge/Instagram-gobalkrishnan.engineer-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/gobalkrishnan.engineer/)
@@ -1736,10 +1738,6 @@ Be the one who breaks the cycle, not continues it.](https://engineer-work.github
 
 </details>
 
-
-
-# 🚀 AI-Driven Software Development: AI IDEs, Google AI Studio, Antigravity, and Other AI Platforms Can Handle Most Coding, While Humans Focus on Business Logic, Architecture, and Client Requirements
-
 [![Watch the video](https://img.youtube.com/vi/PbxxRw1uCwk/maxresdefault.jpg)](https://youtu.be/PbxxRw1uCwk?si=E19iEAqUW5j06P0o)
 
 | [![Watch the video](https://img.youtube.com/vi/mDHXIky7Krc/hqdefault.jpg)](https://youtu.be/mDHXIky7Krc?si=YmZwaENOfx2Maair)| [![Watch the video](https://img.youtube.com/vi/_aCCsRCw78g/hqdefault.jpg)](https://youtu.be/_aCCsRCw78g?si=r9SC5G8CemLM3g3v)  | [![Watch the video](https://img.youtube.com/vi/6LCMYqL3UEo/hqdefault.jpg)](https://youtu.be/6LCMYqL3UEo?si=LMEshFY1TX-Te77n)  | [![Watch the video](https://img.youtube.com/vi/I7LXSRA-fbU/hqdefault.jpg)](https://youtu.be/I7LXSRA-fbU?si=-10MbUtzmzpyHSTH) |
@@ -1747,6 +1745,8 @@ Be the one who breaks the cycle, not continues it.](https://engineer-work.github
 | [![Watch the video](https://img.youtube.com/vi/kGsbNNaEcZo/maxresdefault.jpg)](https://youtu.be/kGsbNNaEcZo?si=88eUJVPOKdhB_KWp) | [![Watch the video](https://img.youtube.com/vi/CFlbHM5wxiU/maxresdefault.jpg)](https://youtu.be/CFlbHM5wxiU?si=YrX4VSea0G3Hu9SX) | [![Watch the video](https://img.youtube.com/vi/qfAOej6SLjw/maxresdefault.jpg)](https://youtu.be/qfAOej6SLjw?si=JbDoCCZK9DxPad-A) |  [![Watch the video](https://img.youtube.com/vi/rKS-vvhMV6E/maxresdefault.jpg)](https://youtu.be/rKS-vvhMV6E?si=PsebUBvFQuX0yhd8) |
 
  [![Watch the video](https://img.youtube.com/vi/AVvDFsMUxf0/maxresdefault.jpg)](https://youtu.be/AVvDFsMUxf0?si=crz17rC_axqGLW4O)
+
+</details>
 
  # IDE 
 
