@@ -1894,7 +1894,10 @@ So when I spend **weeks or months on something that might appear simple from the
 
 AI can accelerate my learning and development, but it does not replace the need for me to understand the material, make decisions, test implementations, fix errors, and connect everything together. 🧠⚙️
 
-**One person + AI ≠ a 1,000-person engineering team.**
+<details>
+ <summary><h3>One person + AI ≠ a 1,000-person engineering team.</h3></summary>
+
+
 
 It is still **one person doing the work**, with AI helping me work more effectively. 💪🤖
 
@@ -1940,4 +1943,6 @@ But **I am doing it myself.** ❤️‍🔥
 | [![Watch the video](https://img.youtube.com/vi/Q1OreyX0-fw/hqdefault.jpg)](https://youtu.be/Q1OreyX0-fw?si=yMa_OIldj39Ewg8_) |  [![Watch the video](https://img.youtube.com/vi/NtJCdiK7opw/hqdefault.jpg)](https://youtu.be/NtJCdiK7opw?si=ulzeU6lH2ZqIgP6C) | [![Watch the video](https://img.youtube.com/vi/sp5yGO0Lnso/hqdefault.jpg)](https://youtu.be/sp5yGO0Lnso?si=JYXTUuIC_Z-m1_Hs)  |
 
 [![Watch the video](https://img.youtube.com/vi/rvtygG4n6ew/maxresdefault.jpg)](https://www.youtube.com/live/rvtygG4n6ew?si=9gdcm2TJOPMdiIJ-)
+
+</details>
 
