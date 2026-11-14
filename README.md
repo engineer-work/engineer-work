@@ -2,7 +2,7 @@
 
 
 <details>
- <summary> <span><a href="https://chatgpt.com/share/6af7fa1d-da70-83ee-a9f7-f60f51144a4c">Chat with AI</a></span>
+ <summary> <span><a href="https://chatgpt.com/share/6af7fa1d-da70-83ee-a9f7-f60f51144a4c">Chat with AI</a>, <a href="https://www.trueup.io/tech-situation-monitor">Gambling Region using Money</a>, <a href="https://www.trueup.io/layoffs">IT Layoff</a></span>
   <ul> 🚹 (Boys or Men) – 🔪 Kill girls who try to interact with men who have more talent, 💰 money, 🌟 fame, and 🛡️ security. If a girl tries to become rich using that boy, they 🍆 fuck the girl and ⛓️ sell her in the market.</ul>
   <ul>👩 (Girls or Women) – 🔪 Kill boys or men who try to interact with them only because of their beautiful appearance, 🎓 talent, 💰 money, 🌟 fame, and 🛡️ security. If a boy tries to approach her to 🍆 have sex and leave, or 💰 become rich using that girl, they 🔪 kill him, 🫀 donate his organs to hospitals, or 👹 give them to demons for food to gain supernatural powers. </ul> 
 </summary>
