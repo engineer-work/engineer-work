@@ -1801,6 +1801,10 @@ Be the one who breaks the cycle, not continues it.](https://engineer-work.github
 
 [![Watch the video](https://img.youtube.com/vi/ws8PuCIAVzQ/maxresdefault.jpg)](https://youtu.be/ws8PuCIAVzQ?si=jnju5YmC82y2saDM)
 
+| [![Watch the video](https://img.youtube.com/vi/fCEvvkAbJOs/default.jpg)](https://youtu.be/fCEvvkAbJOs?si=3atp9O8h3G89TCY-) | | | | | |
+|---|---|---|---|---|---|
+| | | | | | |
+
 | S.No | Books | Learned from Youtube Video | What my  Learning Status? |
 |---|--- |---|---|
 |0a | [Machine Learning with PyTorch and Scikit-Learn: Develop machine learning and deep learning models with Python](https://www.packtpub.com/en-us/product/machine-learning-with-pytorch-and-scikit-learn-9781801816380) |  [![Watch the video](https://img.youtube.com/vi/VUvShOEFdQo/default.jpg)](https://youtube.com/playlist?list=PLTKMiZHVd_2KyGirGEvKlniaWeLOHhUF3&si=0nHLk_znjevXA1v-)| |
